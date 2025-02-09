@@ -12,7 +12,7 @@
   - Food insecurity linked to poverty and health outcomes
 
 ### **Selected Database:**  
-## **Health, Nutrition, and Population Statistics Database**  
+## **Health Nutrition and Population Statistics Database**  
 ### **Selected Indicators:**  
 
 1. **Health Expenditure**  
