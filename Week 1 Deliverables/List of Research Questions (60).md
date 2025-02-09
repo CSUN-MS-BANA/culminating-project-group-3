@@ -14,3 +14,32 @@ What is the correlation between alcohol and tobacco consumption among men and wo
 How does the prevalence of anemia among pregnant and non-pregnant women influence child malnutrition and survival rates?
 Are countries with higher female survival rates from age 15-60 also experiencing better maternal health outcomes and lower child mortality rates?
 How does the prevalence of underweight children under 5 differ based on gender, and what role do socioeconomic factors like poverty and health expenditure?
+Is there a correlation between low birthweight rates and food insecurity?
+
+Are countries with lower poverty rates more successful at reducing malnutrition?
+
+How does poverty impact access to food and healthcare?
+
+How does income inequality affect food security? 
+
+How does food insecurity vary between urban and rural populations?
+
+Are countries with high food insecurity experiencing higher rates of  low birth weight?
+
+How does the national poverty headcount ratio affect child malnutrition rates?
+
+Is there a connection between income inequality and access to maternal healthcare? 
+
+How do patterns of tobacco use differ between food-secure and food-insecure populations?
+
+Does food insecurity impact anemia in non-pregnant women?
+
+Do mortality rates relate to malnutrition?
+
+Is there a gender disparity in health outcomes of food insecurity? 
+
+Is there a relationship between maternal anemia and low birth weight? 
+
+Is there a difference in low birth weight rate between countries with differing levels of income inequality? 
+
+Are rural populations more affected by anemia compared to urban populations in countries? 
