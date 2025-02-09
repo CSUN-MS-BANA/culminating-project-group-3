@@ -61,13 +61,13 @@
 
 31. How does food insecurity correlate with maternal mortality rates across low-income and high-income countries?
 
-32. Are coutries with higher health expenditures per capita experiencing lower infant mortality rates?
+32. Are countries with higher health expenditures per capita experiencing lower infant mortality rates?
 
 33. How do birth weight rates compare between urban and rural populations in countries with varying poverty headcount ratios?
 
 34. Is there significant difference in undernourishment rates between countries with high and low GDP per capita?
 
-35. Do natiions with higher external health expenditures show better maternal health outcomes compared to those relying primarily on domeestic healthcare funding?
+35. Do nations with higher external health expenditures show better maternal health outcomes compared to those relying primarily on domeestic healthcare funding?
 
 36. How has the global prevalence of food insecurity changed over the past two decades? Are these trends correlated with different indicators?
 
@@ -75,7 +75,7 @@
 
 38. How has the Gini coefficient evolved in relation to healthcare access in middle-income countries?
 
-39. What are the long-termm patterns in gender disparities regarding access to emergency funds and healthcare services?
+39. What are the long-term patterns in gender disparities regarding access to emergency funds and healthcare services?
 
 40. How has out-of-pocket healthcare spending influenced poverty rates over the last two decades in developing countries?
 
