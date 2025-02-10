@@ -88,3 +88,13 @@
 44. Is there a link between government spending on healthcare and reductions in undernourishment rates?
 
 45. How does access to financial institutions impact food security among different gender groups?
+
+46. What percent of females headed households fall below the poverty line due to out-of-pocket health expenditures? 
+
+47. What percent of female headed households are very worried about not having enough to pay monthly bills and expenses? 
+
+48. Which gender borrows more money on average and what percent of those are to pay for medical care/expenses? 
+
+49. What role does food insecurity play when it comes to those living in poverty spending money on healthcare?
+
+50. 
