@@ -48,7 +48,7 @@
 ### 5. GitHub Submission Details
 🔗 **GitHub Repository Link:** (https://github.com/CSUN-MS-BANA/culminating-project-group-3)  
 📁 **Files Updated/Added:**  
-- [BANA698_Group 3_ERD.png](https://github.com/CSUN-MS-BANA/culminating-project-group-3/blob/main/Week%201%20Deliverables/BANA698_Group%203_ERD.png)  
+- [BANA698_Group 3_ERD.png]([https://github.com/CSUN-MS-BANA/culminating-project-group-3/blob/main/Week%201%20Deliverables/BANA698_Group%203_ERD.png](https://github.com/CSUN-MS-BANA/culminating-project-group-3/blob/main/Week%201%20Deliverables/BANA698_Group%203_ERD.png))  
 - [Group 3_ERD Description.md](https://github.com/CSUN-MS-BANA/culminating-project-group-3/blob/main/Week%201%20Deliverables/Group%203_ERD%20Description.md)  
 - [List of Research Questions (60).md](https://github.com/CSUN-MS-BANA/culminating-project-group-3/blob/main/Week%201%20Deliverables/List%20of%20Research%20Questions%20(60).md)
 - [List of Selected Indicators.md](https://github.com/CSUN-MS-BANA/culminating-project-group-3/blob/main/Week%201%20Deliverables/List%20of%20Selected%20Indicators.md)
