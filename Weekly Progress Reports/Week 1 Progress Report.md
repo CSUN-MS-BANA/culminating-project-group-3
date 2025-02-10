@@ -5,7 +5,7 @@
 **Week of:** February 3, 2025  
 
 ### 1. Group Lead for the Week
-📌 **Lead Member Name:** ___________________  
+📌 **Lead Member Name:** Ashley Cortez 
 
 ---
 
@@ -36,7 +36,7 @@
 - [x] Step 4: Refine Database Schema & Form Research Questions
   - Adjust/edit the initial ERD to include additional datasets/indicators from step 3
   - Develop at least 60 research questions based on the database you created
-- [ ] Step 5: Submit via GitHub Classroom
+- [x] Step 5: Submit via GitHub Classroom
 
 ---
 
