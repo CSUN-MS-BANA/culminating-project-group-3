@@ -108,3 +108,13 @@
 54. In developing countries, what percent of female headed households have to travel 30 minutes or more for water?
 
 55. Is there any correlation between living in a country with a low GNI score and high mortality rates?
+
+56. What role does smoking play in under 5 years of age mortality in a household? 
+
+57. What is the link between malnurished children in developing countries and food insucurity?
+
+58. Is there any correlation between females that have limited access to healthcare and infant mortality rates in developing countries?
+
+59. Does the percent of those living in countries using at least basic sanitation have a lower under-5 mortality rate?
+
+60. What percent of woman that are anemic also breastfeed? 
