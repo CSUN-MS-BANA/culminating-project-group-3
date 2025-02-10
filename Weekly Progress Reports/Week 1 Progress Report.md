@@ -14,7 +14,7 @@
 |----------|----------|----------|----------|
 | Jessica Becerra | ------------------- | - Proposed selected indicators for step 1 | ----------------- |
 | Ashley Cortez |9 hours| - Created first weekly progress report <br> - Proposed selected indicators for step 1 <br> - Created an initial draft of ERD <br> - Updated schema and ERD based on additional databases and indicators <br> - Wrote ERD short description <br> - Added 15 research questions to the overall list of 60|Overall the main challenge I faced was envisioning how the different databases could relate to each other in the ERD. But we were able to work through the structure through team collaboration and varying POVs.|
-| Robert Pimentel |-------------------| - Proposed selected indicators for step 1|-----------------|
+| Robert Pimentel |6 hours| - Proposed selected indicators for step 1 <br> Introduced additional database (Health Nutrition and Population Statisitcs) in step 3 and made sure indicators aligned with inital database <br> Added 15 research questions to the overall 60 . |-----------------|
 | Angelica Verduzco |-------------------|- Proposed selected indicators for step 1 <br> - Created an initial draft of ERD|-----------------|
 
 ---
