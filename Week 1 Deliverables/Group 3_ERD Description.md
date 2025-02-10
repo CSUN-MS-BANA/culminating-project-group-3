@@ -22,3 +22,16 @@ The country-level details will also allow for comparisons across countries to de
 ### 7. Records (Fact Table)
   - Functions as the central table linking various indicators by referencing foreight keys from tables listed above
   - Permits yearly analysis at the country level
+
+## Relationships
+- Country (1) → (M) Nutrition
+- Country (1) → (M) Poverty
+- Country (1) → (M) Health
+- Country (1) → (M) Gender Statistics
+- Country (1) → (M) Health & Population Stats
+- Country (1) → (M) Data_Record
+- Nutrition (1) → (M) Data_Record
+- Poverty (1) → (M) Data_Record
+- Health (1) → (M) Data_Record
+- Gender Statistics (1) → (M) Data_Record
+- Health & Population Stats (1) → (M) Data_Record
