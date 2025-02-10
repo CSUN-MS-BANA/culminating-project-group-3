@@ -97,4 +97,9 @@
 
 49. What role does food insecurity play when it comes to those living in poverty spending money on healthcare?
 
-50. 
+50. How has the percentage of females in the labor force impacted the birthrates in the last two decades?
+
+51. How does the prevalence of anemia in women affect the overall fertility rate?
+
+52.
+
