@@ -101,5 +101,7 @@
 
 51. How does the prevalence of anemia in women affect the overall fertility rate?
 
-52.
+52. Which gender (male or female) have a bigger impact on the human capital index?
+
+53. 
 
