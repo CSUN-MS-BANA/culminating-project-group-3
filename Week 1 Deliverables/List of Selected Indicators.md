@@ -91,3 +91,38 @@
     - Prevalence of severe wasting, weight for height (% of children under 5)
     - Prevalence of stunting, height for age (% of children under 5)
     - Prevalence of underweight, weight for age (% of children under 5)
+
+### **Selected Database:**  
+## **Health Nutrition and Population Statistics Database *by Wealth Quintile**  
+### **Selected Indicators:**  
+
+1. **Healthcare Accessibility**  
+   - Problems in accessing health care (getting money for treatment) (% of women)
+   - Problems in accessing health care (distance to health facility) (% of women)
+   - Problems in accessing health care (getting permission to go for treatment) (% of women)
+   - Problems in accessing health care (having to take transport) (% of women)
+   - Problems in accessing health care (knowing where to go for treatment) (% of women)
+   - People with basic handwashing facilities including soap and water, rural (% of rural population)
+   - People with basic handwashing facilities including soap and water, urban (% of urban population)
+   - People using at least basic sanitation services (% of population)
+   - People using at least basic drinking water services (% of population)
+   - Under-5 mortality rate (per 1,000 live births)
+
+2. **Demographics and Fertility**  
+   -   Assistance during delivery (any skilled personnel) (% of births)
+   -   Assistance during delivery (doctor) (% of births)
+   -   Knowledge of contraception (any method) (% of married women)
+   -   Place of delivery (births at health facility) (% of births)
+   -   Total fertility rate (TFR) (births per woman)
+   -   Total wanted fertility rate (births per woman)
+   -   Infant mortality rate (per 1,000 live births)
+   -   Smoking (% of women)
+   -   Under-5 mortality rate (per 1,000 live births)
+    
+3. **Nutrition**  
+   - Breastfeeding (% of children under 6 months)
+   -  Malnourished children (stunting, -2SD) (% of children under 5)
+   -  Malnourished children (stunting, -3SD) (% of children under 5)
+   -  Malnourished children (underweight, -2SD) (% of children under 5)
+   -  Malnourished children (underweight, -3SD) (% of children under 5)
+   -  Malnourished women (BMI is less than 18.5) (% of women)
