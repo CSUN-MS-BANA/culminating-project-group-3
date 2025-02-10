@@ -2,14 +2,14 @@
 ## **World Development Indicators (WDI)**
 ### **Selected Indicators:**
 1. **Nutrition**
-  - Low birth weight of babies (% of births)
-  - Long-term impact of nutrition and poverty on maternal and newborn health
+    - Low birth weight of babies (% of births)
+    - Long-term impact of nutrition and poverty on maternal and newborn health
 2. **Poverty**
-  - Poverty headcount ratio at national poverty line (% of population)
-  - Economic inequality and poverty
+    - Poverty headcount ratio at national poverty line (% of population)
+    - Economic inequality and poverty
 3. **Health**
-  - Prevalence of moderate or severe food insecurity in the population (%)
-  - Food insecurity linked to poverty and health outcomes
+    - Prevalence of moderate or severe food insecurity in the population (%)
+    - Food insecurity linked to poverty and health outcomes
 
 ### **Selected Database:**  
 ## **Health Nutrition and Population Statistics Database**  
@@ -53,4 +53,41 @@
    - Number of people pushed or further pushed below the $3.65 ($2017 PPP) poverty line by out-of-pocket health care expenditure  
    - Number of people pushed or further pushed below the 60% median consumption poverty line by out-of-pocket health care expenditure  
    - Number of people spending more than 10% of household consumption or income on out-of-pocket health care expenditure  
-   - Number of people spending more than 25% of household consumption or income on out-of-pocket health care expenditure  
+   - Number of people spending more than 25% of household consumption or income on out-of-pocket health care expenditure
+
+### **Selected Database:**
+## **Gender Statistics**
+### **Selected Indicators:**
+1. **Financial**
+   - Borrowed any money, female (% age 15+)
+   - Borrowed any money, male (% age 15+)
+   - Borrowed any money (% age 15+)
+   - Borrowed for health or medical purposes (% age 15+)
+   - Borrowed for health or medical purposes, female (% age 15+)
+   - Borrowed for health or medical purposes, male (% age 15+)
+   - Borrowed from a formal financial institution (% age 15+)
+   - Borrowed from a formal financial institution, female (% age 15+)
+   - Borrowed from a formal financial institution, male (% age 15+)
+   - Coming up with emergency funds in 30 days: not possible (% age 15+)
+   - Coming up with emergency funds in 30 days: possible (% age 15+)
+   - Coming up with emergency funds in 30 days: possible and not difficult at all (% age 15+)
+   - Coming up with emergency funds in 30 days: possible and not difficult or somewhat difficult (% age 15+)
+   - Worried about not having enough money for monthly expenses or bills: not worried at all (% age 15+)
+   - Worried about not having enough money for monthly expenses or bills: somewhat worried (% age 15+)
+   - Worried about not having enough money for monthly expenses or bills: very worried (% age 15+)
+
+2. **Health and Accessibility**
+    - Cause of death, by communicable diseases and maternal, prenatal and nutrition conditions (% of total)
+    - Cause of death, by communicable diseases and maternal, prenatal and nutrition conditions, ages 0-4 (% of population ages 0-4)
+    - Cause of death, by communicable diseases and maternal, prenatal and nutrition conditions, ages 15-59 (% of population ages 15-59)
+    - Cause of death, by communicable diseases and maternal, prenatal and nutrition conditions, ages 5-14 (% of population ages 5-14)
+    - Cause of death, by communicable diseases and maternal, prenatal and nutrition conditions, ages 60+ (% of population ages 60+)
+    - Households with water 30 minutes or longer away round trip (%)
+    - Households with water less than 30 minutes away round trip (%)
+    - Households with water on the premises (%)
+    - Human capital index (HCI) (scale 0-1)
+    - Mortality rate attributed to unsafe water, unsafe sanitation and lack of hygiene (per 100,000 population)
+    - Number of infant deaths
+    - Prevalence of severe wasting, weight for height (% of children under 5)
+    - Prevalence of stunting, height for age (% of children under 5)
+    - Prevalence of underweight, weight for age (% of children under 5)
