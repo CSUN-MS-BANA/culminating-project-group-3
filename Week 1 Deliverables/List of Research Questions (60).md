@@ -103,5 +103,7 @@
 
 52. Which gender (male or female) have a bigger impact on the human capital index?
 
-53. 
+53. Does the use of tabacoo in a household have any impact on the infant mortality in those households?
+
+54. 
 
