@@ -12,7 +12,7 @@
 ### 2. Individual Contributions
 | **Student Name**  | **Time Spent (hrs)** | **Tasks Completed** | **Challenges Faced** |
 |----------|----------|----------|----------|
-| Jessica Becerra |  | -Provided Frustration Report <br> - Downloaded data files from World Bank |  |
+| Jessica Becerra | 5 | -Provided Frustration Report <br> - Downloaded data files from World Bank |  |
 | Ashley Cortez | 10 hours |-Provided Frustration Report <br> - Uploaded data to SQLite <br> - Created indicator tables as outlined in ERD <br> -Verified functionality of database <br> - Uploaded database and SQL queries to Github <br> - Created Weekly Progress Report <br> - Proposed timeline for this week's deliverables | My biggest challenge this week was determining the best approach for loading the data into SQLite. There were many transformations needed given that the raw data from the World DataBank is not in an ideal format initially. There was also a bit of a learning curve for navigating SQLite on a Mac, however I found it was most straightforward to use via the DB Browser UI download for SQLite |
 | Robert Pimentel |  | -Provided Frustration Report <br> |  |
 | Angelica Verduzco |  | -Provided Frustration Report <br> - Created new ERD|  |
