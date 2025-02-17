@@ -46,5 +46,5 @@
 -  [SQL Table Creation Queries](https://github.com/CSUN-MS-BANA/culminating-project-group-3/tree/main/Week%203%20Deliverables/sql%20create%20table%20queries)  
 -  [SQL Functionality Verification Queries](https://github.com/CSUN-MS-BANA/culminating-project-group-3/tree/main/Week%203%20Deliverables#:~:text=22%20minutes%20ago-,sql%20test%20verification%20queries,-Add%20files%20via)
 -  [Week 2 Frustration Reports](https://github.com/CSUN-MS-BANA/culminating-project-group-3/tree/main/Week%203%20Deliverables#:~:text=..-,Week%202%20Frustration%20Reports,-Rename%20Frustration%20Report)
-
+-  [BANA698_ERD_New.png](https://github.com/CSUN-MS-BANA/culminating-project-group-3/blob/main/Week%203%20Deliverables/BANA698_ERD_New.png#:~:text=test%20verification%20queries-,BANA698_ERD_New,-.png)
 ---
