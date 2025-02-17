@@ -1,1 +1,50 @@
 
+
+**Master's in Business Analytics – Culminating Project**  
+**Group 3**  
+**Week of:** February 3, 2025  
+
+### 1. Group Lead for the Week
+📌 **Lead Member Name:** Ashley Cortez 
+
+---
+
+### 2. Individual Contributions
+| **Student Name**  | **Time Spent (hrs)** | **Tasks Completed** | **Challenges Faced** |
+|----------|----------|----------|----------|
+| Jessica Becerra |  | -Downloaded data files from World Bank |  |
+| Ashley Cortez | 10 hours |- Uploaded data to SQLite <br> - Created indicator tables as outlined in ERD <br> -Verified functionality of database <br> - Uploaded database and SQL queries to Github <br> - Created Weekly Progress Report <br> - Proposed timeline for this week's deliverables | My biggest challenge this week was determining the best approach for loading the data into SQLite. There were many transformations needed given that the raw data from the World DataBank is not in an ideal format initially. There was also a bit of a learning curve for navigating SQLite on a Mac, however I found it was most straightforward to use via the DB Browser UI download for SQLite |
+| Robert Pimentel |  | |  |
+| Angelica Verduzco |  | - Created new ERD|  |
+
+---
+
+### 3. Key Achievements for the Week
+
+- [x] Week 1/2 Frustration Reports
+- [x] World Bank Data Collection
+- [x] Define Entities and Attributes
+- [x] Design Updated ERD
+- [x] Implement Database in SQLite3
+  
+
+---
+
+### 4. Pending Tasks for Next Week
+📌 Data Cleaning and Preprocessing
+  - Handle Missing Values
+  - Standardize Numerical Values where necessary
+  - Encode categorical variables for compatibility with machine learning models
+  - Conduct a series of descriptive statistics and data visualizations based on data types
+
+---
+
+### 5. GitHub Submission Details
+🔗 **GitHub Repository Link:** (https://github.com/CSUN-MS-BANA/culminating-project-group-3)  
+📁 **Files Updated/Added:**  
+-  [database files](https://github.com/CSUN-MS-BANA/culminating-project-group-3/tree/main/Week%203%20Deliverables/database%20files)  
+-  [SQL Table Creation Queries](https://github.com/CSUN-MS-BANA/culminating-project-group-3/tree/main/Week%203%20Deliverables/sql%20create%20table%20queries)  
+-  [SQL Functionality Verification Queries](https://github.com/CSUN-MS-BANA/culminating-project-group-3/tree/main/Week%203%20Deliverables#:~:text=22%20minutes%20ago-,sql%20test%20verification%20queries,-Add%20files%20via)
+-  [Week 2 Frustration Reports](https://github.com/CSUN-MS-BANA/culminating-project-group-3/tree/main/Week%203%20Deliverables#:~:text=..-,Week%202%20Frustration%20Reports,-Rename%20Frustration%20Report)
+
+---
