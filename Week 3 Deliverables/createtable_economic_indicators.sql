@@ -1,0 +1,22 @@
+CREATE TABLE economic_indicators (
+    country_code TEXT,
+    year INTEGER,
+    FDI_Net_CurrentUD REAL,
+    FDI_NetInflows_PercentGDP REAL,
+    FDI_NetInflows_CurrentUD REAL,
+    FDI_NetOutflows_PercentGDP REAL,
+    FDI_NetOutflows_CurrentUD REAL,
+    GDP_CurrentUD REAL,
+    GDP_Growth_Percent REAL,
+    General_government_final_consumption_expenditure_CurrentUD REAL,
+    Gini_Index REAL,
+    Gross_National_Expenditure_CurrentUD REAL,
+    Inflation_ConsumerPrices_AnnualPercent REAL,
+    Inflation_GDPDeflator_AnnualPercent REAL,
+    Inflation_GDPDeflator_AnnualPercent_LinkedSeries REAL,
+    MilitaryExpenditure_CurrentUD REAL,
+    Net_Trade_Goods_CurrentUD REAL,
+    Net_Trade_GoodsandServices_CurrentUD REAL,
+    Trade_PercentGDP REAL,
+    TradeServices_PercentGDP REAL
+);
