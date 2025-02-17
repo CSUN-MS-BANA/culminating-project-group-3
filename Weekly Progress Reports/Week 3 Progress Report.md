@@ -47,4 +47,6 @@
 -  [SQL Functionality Verification Queries](https://github.com/CSUN-MS-BANA/culminating-project-group-3/tree/main/Week%203%20Deliverables#:~:text=22%20minutes%20ago-,sql%20test%20verification%20queries,-Add%20files%20via)
 -  [Week 2 Frustration Reports](https://github.com/CSUN-MS-BANA/culminating-project-group-3/tree/main/Week%203%20Deliverables#:~:text=..-,Week%202%20Frustration%20Reports,-Rename%20Frustration%20Report)
 -  [BANA698_ERD_New.png](https://github.com/CSUN-MS-BANA/culminating-project-group-3/blob/main/Week%203%20Deliverables/BANA698_ERD_New.png#:~:text=test%20verification%20queries-,BANA698_ERD_New,-.png)
+-  [Entities and Attributes.md](https://github.com/CSUN-MS-BANA/culminating-project-group-3/blob/main/Week%203%20Deliverables/group3_database_columnmapping.xlsx#:~:text=Entities%20and%20Attributes.-,md,-Updated%20Research%20Questions)
+-  [Attribute Name to Series Name Column Mapping](https://github.com/CSUN-MS-BANA/culminating-project-group-3/blob/main/Week%203%20Deliverables/group3_database_columnmapping.xlsx#:~:text=Research%20Questions.md-,group3_database_columnmapping,-.xlsx)
 ---
