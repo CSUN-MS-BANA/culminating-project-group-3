@@ -2,7 +2,7 @@
 
 **Master's in Business Analytics – Culminating Project**  
 **Group 3**  
-**Week of:** February 3, 2025  
+**Week of:** February 10, 2025  
 
 ### 1. Group Lead for the Week
 📌 **Lead Member Name:** Ashley Cortez 
