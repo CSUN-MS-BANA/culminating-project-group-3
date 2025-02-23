@@ -13,7 +13,7 @@
 | **Student Name**  | **Time Spent (hrs)** | **Tasks Completed** | **Challenges Faced** |
 |----------|----------|----------|----------|
 | Jessica Becerra |  | | |
-| Ashley Cortez | 8 hours | - Complete preprocessing for environmental_indicators table <br> - Complete preprocessing for statistical_indicators table <br> - Complete Frustration report based on Week 3 <br> - Create initial draft of Week 4 Progress Report| The main challenge I faced this week was taking the time to fully comprehend each indicator and its unit of measure. It was important to have and understand this context in order to accurately identify outliers within each table. It was also difficult to determine how to start preprocessing; we ended last week with our database in SQLite, however I personally found it easiest to conduct a descriptive analysis and preprocessing steps using Python within Google Colab. |
+| Ashley Cortez | 9 hours | - Complete preprocessing for environmental_indicators table <br> - Complete preprocessing for statistical_indicators table <br> - Complete Frustration report based on Week 3 <br> - Create initial draft of Week 4 Progress Report| The main challenge I faced this week was taking the time to fully comprehend each indicator and its unit of measure. It was important to have and understand this context in order to accurately identify outliers within each table. It was also difficult to determine how to start preprocessing; we ended last week with our database in SQLite, however I personally found it easiest to conduct a descriptive analysis and preprocessing steps using Python within Google Colab. |
 | Robert Pimentel |  | | |
 | Angelica Verduzco |  | | |
 ---
