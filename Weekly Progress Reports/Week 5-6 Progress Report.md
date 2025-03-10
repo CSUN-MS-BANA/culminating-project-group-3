@@ -12,7 +12,7 @@
 ### 2. Individual Contributions
 | **Student Name**  | **Time Spent (hrs)** | **Tasks Completed** | **Challenges Faced** |
 |----------|----------|----------|----------|
-| Jessica Becerra |  | -created 2 research objective to propose to the team, each with 7 research questions. |The main challenge I faced was formulating relative questions that also weren't redundant of my other teammates questions.|
+| Jessica Becerra |  | -created 2 research objectives to propose to the team, each with 7 research questions. |The main challenge I faced was formulating relevant questions that also weren't redundant of my other teammates questions.|
 | Ashley Cortez | | | |
 | Robert Pimentel | | | |
 | Angelica Verduzco | |- created 2 objective research proposals -created 7 research questions per objective |The main challenge I faced was developong research questions that aligned with the objevtive while ensuring they were distinct from each other |
