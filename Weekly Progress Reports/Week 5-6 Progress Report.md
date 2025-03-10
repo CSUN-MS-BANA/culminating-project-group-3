@@ -15,7 +15,7 @@
 | Jessica Becerra |  | | |
 | Ashley Cortez | | | |
 | Robert Pimentel | | | |
-| Angelica Verduzco | | | |
+| Angelica Verduzco | |- created 2 objective research proposals -created 7 research questions per objective |The main challenge I faced was developong research questions that aligned with the objevtive while ensuring they were distinct from each other |
 ---
 
 ### 3. Key Achievements for the Week
