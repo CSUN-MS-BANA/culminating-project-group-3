@@ -1,0 +1,652 @@
+country_code,year,BroadMoney_Ratio,Classification_HouseholdConsumption,Classification_NationalIndustry,Classification_StatusofEmployment,GovernmentFinance_Stats,MonetaryandFinancial_Stats,OfficialExchangeRate,country_name,region
+ABW,2021,1.981206032,0.0,0.0,0.0,0.0,0.0,1.79,Aruba,Latin America and the Caribbean
+ABW,2022,2.005967712,0.0,0.0,0.0,0.0,0.0,1.79,Aruba,Latin America and the Caribbean
+ABW,2023,2.126148351,0.0,0.0,0.0,0.0,0.0,1.79,Aruba,Latin America and the Caribbean
+AND,2021,0.0,0.0,0.0,1.0,0.0,0.0,0.845376564,Andorra,Europe and Central Asia
+AND,2022,0.0,0.0,0.0,1.0,0.0,0.0,0.950915534,Andorra,Europe and Central Asia
+ASM,2021,0.0,0.0,0.0,0.0,0.0,0.0,1.0,American Samoa,East Asia and Pacific
+ASM,2022,0.0,0.0,0.0,0.0,0.0,0.0,1.0,American Samoa,East Asia and Pacific
+ASM,2023,0.0,0.0,0.0,0.0,0.0,0.0,1.0,American Samoa,East Asia and Pacific
+BMU,2021,0.0,0.0,0.0,0.0,0.0,0.0,1.0,Bermuda,North America
+BMU,2022,0.0,0.0,0.0,0.0,0.0,0.0,1.0,Bermuda,North America
+BMU,2023,0.0,0.0,0.0,0.0,0.0,0.0,1.0,Bermuda,North America
+BTN,2021,2.302222644,1.0,0.0,1.0,0.0,1.0,73.91801282,Bhutan,South Asia
+BTN,2022,3.041880724,1.0,0.0,1.0,0.0,1.0,78.60449058,Bhutan,South Asia
+BTN,2023,3.807070514,1.0,0.0,1.0,0.0,1.0,82.59927645,Bhutan,South Asia
+CHI,2021,0.0,0.0,0.0,0.0,0.0,0.0,0.727064945,Channel Islands,Europe and Central Asia
+CHI,2022,0.0,0.0,0.0,0.0,0.0,0.0,0.811301716,Channel Islands,Europe and Central Asia
+CHI,2023,0.0,0.0,0.0,0.0,0.0,0.0,0.804538907,Channel Islands,Europe and Central Asia
+COG,2021,4.809480251,1.0,0.0,0.0,0.0,1.0,554.530675,"Congo, Rep.",Sub-Saharan Africa
+COG,2022,4.618268678,1.0,0.0,0.0,0.0,1.0,623.7597009,"Congo, Rep.",Sub-Saharan Africa
+COG,2023,6.08226717,1.0,0.0,1.0,0.0,1.0,606.5697502,"Congo, Rep.",Sub-Saharan Africa
+COM,2021,1.431811839,1.0,0.0,1.0,0.0,1.0,415.9558491,Comoros,Sub-Saharan Africa
+COM,2022,1.590425703,1.0,0.0,1.0,0.0,1.0,467.1842612,Comoros,Sub-Saharan Africa
+COM,2023,1.561278572,1.0,0.0,1.0,0.0,1.0,454.9912367,Comoros,Sub-Saharan Africa
+CPV,2021,2.967947621,1.0,0.0,1.0,0.0,1.0,93.21809241,Cabo Verde,Sub-Saharan Africa
+CPV,2022,2.944795881,1.0,0.0,1.0,0.0,1.0,104.8630658,Cabo Verde,Sub-Saharan Africa
+CPV,2023,2.806756359,1.0,0.0,1.0,0.0,1.0,101.8048125,Cabo Verde,Sub-Saharan Africa
+CUB,2021,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Cuba,Latin America and the Caribbean
+CUB,2022,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Cuba,Latin America and the Caribbean
+CUB,2023,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Cuba,Latin America and the Caribbean
+CUW,2021,0.0,0.0,0.0,0.0,0.0,0.0,1.79,Curacao,Latin America and the Caribbean
+CUW,2022,0.0,0.0,0.0,0.0,0.0,0.0,1.79,Curacao,Latin America and the Caribbean
+CUW,2023,0.0,0.0,0.0,0.0,0.0,0.0,1.79,Curacao,Latin America and the Caribbean
+CYM,2021,0.0,0.0,0.0,0.0,0.0,0.0,0.83333,Cayman Islands,Latin America and the Caribbean
+CYM,2022,0.0,0.0,0.0,0.0,0.0,0.0,0.83333,Cayman Islands,Latin America and the Caribbean
+CYM,2023,0.0,0.0,0.0,0.0,0.0,0.0,0.83333,Cayman Islands,Latin America and the Caribbean
+ERI,2021,0.0,0.0,0.0,0.0,0.0,1.0,15.075,Eritrea,Sub-Saharan Africa
+ERI,2022,0.0,0.0,0.0,0.0,0.0,1.0,15.075,Eritrea,Sub-Saharan Africa
+ERI,2023,0.0,0.0,0.0,0.0,0.0,1.0,15.075,Eritrea,Sub-Saharan Africa
+FRO,2021,0.0,0.0,0.0,0.0,0.0,0.0,6.287113083,Faroe Islands,Europe and Central Asia
+FRO,2022,0.0,0.0,0.0,0.0,0.0,0.0,7.076151863,Faroe Islands,Europe and Central Asia
+FRO,2023,0.0,0.0,0.0,0.0,0.0,0.0,6.889702586,Faroe Islands,Europe and Central Asia
+FSM,2021,0.668160841,1.0,0.0,1.0,0.0,0.0,1.0,"Micronesia, Fed. Sts.",East Asia and Pacific
+FSM,2022,0.0,1.0,0.0,1.0,0.0,0.0,1.0,"Micronesia, Fed. Sts.",East Asia and Pacific
+FSM,2023,0.0,1.0,0.0,1.0,0.0,0.0,1.0,"Micronesia, Fed. Sts.",East Asia and Pacific
+GIB,2021,0.0,0.0,0.0,0.0,0.0,0.0,0.727064945,Gibraltar,Europe and Central Asia
+GIB,2022,0.0,0.0,0.0,0.0,0.0,0.0,0.811301716,Gibraltar,Europe and Central Asia
+GIB,2023,0.0,0.0,0.0,0.0,0.0,0.0,0.804538907,Gibraltar,Europe and Central Asia
+GIN,2021,0.0,1.0,0.0,1.0,0.0,1.0,0.0,Guinea,Sub-Saharan Africa
+GIN,2022,0.0,1.0,0.0,1.0,0.0,1.0,0.0,Guinea,Sub-Saharan Africa
+GIN,2023,0.0,1.0,0.0,1.0,0.0,1.0,0.0,Guinea,Sub-Saharan Africa
+GNB,2021,0.0,0.0,0.0,0.0,0.0,1.0,554.530675,Guinea-Bissau,Sub-Saharan Africa
+GNB,2022,0.0,0.0,0.0,0.0,0.0,1.0,623.7597009,Guinea-Bissau,Sub-Saharan Africa
+GNB,2023,0.0,1.0,0.0,1.0,0.0,1.0,606.5697502,Guinea-Bissau,Sub-Saharan Africa
+GNQ,2021,9.456492818,1.0,0.0,0.0,0.0,1.0,554.530675,Equatorial Guinea,Sub-Saharan Africa
+GNQ,2022,1.05052402,1.0,0.0,0.0,0.0,1.0,623.7597009,Equatorial Guinea,Sub-Saharan Africa
+GRL,2021,0.0,0.0,0.0,0.0,0.0,0.0,6.287113083,Greenland,Europe and Central Asia
+GRL,2022,0.0,0.0,0.0,0.0,0.0,0.0,7.076151863,Greenland,Europe and Central Asia
+GRL,2023,0.0,0.0,0.0,0.0,0.0,0.0,6.889702586,Greenland,Europe and Central Asia
+GUM,2021,0.0,0.0,0.0,0.0,0.0,0.0,1.0,Guam,East Asia and Pacific
+GUM,2022,0.0,0.0,0.0,0.0,0.0,0.0,1.0,Guam,East Asia and Pacific
+GUM,2023,0.0,0.0,0.0,0.0,0.0,0.0,1.0,Guam,East Asia and Pacific
+HKG,2021,3.250918916,1.0,0.0,0.0,0.0,1.0,7.77325,"Hong Kong SAR, China",East Asia and Pacific
+HKG,2022,3.904674064,1.0,0.0,0.0,0.0,1.0,7.831416667,"Hong Kong SAR, China",East Asia and Pacific
+HKG,2023,4.042291428,1.0,0.0,0.0,0.0,1.0,7.829583333,"Hong Kong SAR, China",East Asia and Pacific
+IMN,2021,0.0,0.0,0.0,0.0,0.0,0.0,0.727064945,Isle of Man,Europe and Central Asia
+IMN,2022,0.0,0.0,0.0,0.0,0.0,0.0,0.811301716,Isle of Man,Europe and Central Asia
+IMN,2023,0.0,0.0,0.0,0.0,0.0,0.0,0.804538907,Isle of Man,Europe and Central Asia
+LAO,2021,0.0,1.0,0.0,1.0,0.0,0.0,2922.13593225,Lao PDR,East Asia and Pacific
+LAO,2022,0.0,1.0,0.0,1.0,0.0,0.0,2922.13593225,Lao PDR,East Asia and Pacific
+LAO,2023,0.0,1.0,0.0,1.0,0.0,0.0,2922.13593225,Lao PDR,East Asia and Pacific
+LIE,2021,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Liechtenstein,Europe and Central Asia
+LIE,2022,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Liechtenstein,Europe and Central Asia
+LIE,2023,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Liechtenstein,Europe and Central Asia
+MAC,2021,3.220833784,1.0,0.0,0.0,0.0,1.0,8.00553175,"Macao SAR, China",East Asia and Pacific
+MAC,2022,3.426468219,1.0,0.0,0.0,0.0,1.0,8.065206083,"Macao SAR, China",East Asia and Pacific
+MAC,2023,3.240272217,1.0,0.0,0.0,0.0,1.0,8.063390083,"Macao SAR, China",East Asia and Pacific
+MAF,2021,0.0,0.0,0.0,0.0,0.0,0.0,0.845494139,St. Martin (French part),Latin America and the Caribbean
+MAF,2022,0.0,0.0,0.0,0.0,0.0,0.0,0.949623753,St. Martin (French part),Latin America and the Caribbean
+MAF,2023,0.0,0.0,0.0,0.0,0.0,0.0,0.924839558,St. Martin (French part),Latin America and the Caribbean
+MCO,2021,0.0,0.0,0.0,0.0,0.0,0.0,0.845494139,Monaco,Europe and Central Asia
+MCO,2022,0.0,0.0,0.0,0.0,0.0,0.0,0.949623753,Monaco,Europe and Central Asia
+MCO,2023,0.0,0.0,0.0,0.0,0.0,0.0,0.924839558,Monaco,Europe and Central Asia
+MHL,2021,0.0,0.0,0.0,1.0,0.0,0.0,1.0,Marshall Islands,East Asia and Pacific
+MHL,2022,0.0,0.0,0.0,1.0,0.0,0.0,1.0,Marshall Islands,East Asia and Pacific
+MHL,2023,0.0,0.0,0.0,1.0,0.0,0.0,1.0,Marshall Islands,East Asia and Pacific
+MNP,2021,0.0,0.0,0.0,0.0,0.0,0.0,1.0,Northern Mariana Islands,East Asia and Pacific
+MNP,2022,0.0,0.0,0.0,0.0,0.0,0.0,1.0,Northern Mariana Islands,East Asia and Pacific
+MNP,2023,0.0,0.0,0.0,0.0,0.0,0.0,1.0,Northern Mariana Islands,East Asia and Pacific
+NCL,2021,0.0,0.0,0.0,0.0,0.0,0.0,100.8802226,New Caledonia,East Asia and Pacific
+NCL,2022,0.0,0.0,0.0,0.0,0.0,0.0,113.4743672,New Caledonia,East Asia and Pacific
+NCL,2023,0.0,0.0,0.0,0.0,0.0,0.0,110.3471713,New Caledonia,East Asia and Pacific
+NRU,2021,0.0,0.0,0.0,0.0,0.0,0.0,1.33122426,Nauru,East Asia and Pacific
+NRU,2022,0.0,0.0,0.0,0.0,0.0,0.0,1.441664459,Nauru,East Asia and Pacific
+NRU,2023,0.0,0.0,0.0,1.0,0.0,0.0,1.505191066,Nauru,East Asia and Pacific
+PNG,2021,0.0,1.0,0.0,0.0,0.0,1.0,3.50877193,Papua New Guinea,East Asia and Pacific
+PNG,2022,0.0,1.0,0.0,0.0,0.0,1.0,3.519229705,Papua New Guinea,East Asia and Pacific
+PNG,2023,0.0,1.0,0.0,0.0,0.0,1.0,3.589622749,Papua New Guinea,East Asia and Pacific
+PRI,2021,0.0,0.0,0.0,0.0,0.0,0.0,1.0,Puerto Rico,Latin America and the Caribbean
+PRI,2022,0.0,0.0,0.0,0.0,0.0,0.0,1.0,Puerto Rico,Latin America and the Caribbean
+PRI,2023,0.0,0.0,0.0,0.0,0.0,0.0,1.0,Puerto Rico,Latin America and the Caribbean
+PRK,2021,0.0,0.0,0.0,0.0,0.0,0.0,0.0,"Korea, Dem. People's Rep.",East Asia and Pacific
+PRK,2022,0.0,0.0,0.0,0.0,0.0,0.0,0.0,"Korea, Dem. People's Rep.",East Asia and Pacific
+PRK,2023,0.0,0.0,0.0,0.0,0.0,0.0,0.0,"Korea, Dem. People's Rep.",East Asia and Pacific
+PYF,2021,0.0,0.0,0.0,0.0,0.0,0.0,100.8802226,French Polynesia,East Asia and Pacific
+PYF,2022,0.0,0.0,0.0,0.0,0.0,0.0,113.4743672,French Polynesia,East Asia and Pacific
+PYF,2023,0.0,0.0,0.0,0.0,0.0,0.0,110.3471713,French Polynesia,East Asia and Pacific
+SDN,2021,0.0,1.0,0.0,0.0,0.0,1.0,370.7905833,Sudan,Sub-Saharan Africa
+SDN,2022,0.0,1.0,0.0,0.0,0.0,1.0,546.75885,Sudan,Sub-Saharan Africa
+SDN,2023,0.0,1.0,0.0,1.0,0.0,1.0,0.0,Sudan,Sub-Saharan Africa
+SOM,2021,0.0,1.0,0.0,1.0,0.0,0.0,0.0,Somalia,Sub-Saharan Africa
+SOM,2022,0.0,1.0,0.0,1.0,0.0,0.0,0.0,Somalia,Sub-Saharan Africa
+SOM,2023,0.0,1.0,0.0,1.0,0.0,0.0,0.0,Somalia,Sub-Saharan Africa
+SSD,2021,0.0,1.0,0.0,0.0,0.0,1.0,306.3546199,South Sudan,Sub-Saharan Africa
+SSD,2022,0.0,1.0,0.0,0.0,0.0,1.0,534.5111887,South Sudan,Sub-Saharan Africa
+SSD,2023,0.0,1.0,0.0,0.0,0.0,1.0,930.3314295,South Sudan,Sub-Saharan Africa
+SXM,2021,0.0,0.0,0.0,0.0,0.0,0.0,1.79,Sint Maarten (Dutch part),Latin America and the Caribbean
+SXM,2022,0.0,0.0,0.0,0.0,0.0,0.0,1.79,Sint Maarten (Dutch part),Latin America and the Caribbean
+SXM,2023,0.0,0.0,0.0,0.0,0.0,0.0,1.79,Sint Maarten (Dutch part),Latin America and the Caribbean
+TCA,2021,0.0,0.0,0.0,0.0,0.0,0.0,1.0,Turks and Caicos Islands,Latin America and the Caribbean
+TCA,2022,0.0,0.0,0.0,0.0,0.0,0.0,1.0,Turks and Caicos Islands,Latin America and the Caribbean
+TCA,2023,0.0,0.0,0.0,0.0,0.0,0.0,1.0,Turks and Caicos Islands,Latin America and the Caribbean
+TCD,2021,9.456492818,1.0,0.0,0.0,0.0,1.0,554.530675,Chad,Sub-Saharan Africa
+TCD,2022,0.0,1.0,0.0,0.0,0.0,1.0,623.7597009,Chad,Sub-Saharan Africa
+TCD,2023,0.0,1.0,0.0,1.0,0.0,1.0,606.5697502,Chad,Sub-Saharan Africa
+TKM,2021,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Turkmenistan,Europe and Central Asia
+TKM,2022,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Turkmenistan,Europe and Central Asia
+TKM,2023,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Turkmenistan,Europe and Central Asia
+TON,2021,0.996797935,1.0,0.0,1.0,0.0,1.0,2.264959601,Tonga,East Asia and Pacific
+TON,2022,0.997655869,1.0,0.0,1.0,0.0,1.0,2.327929827,Tonga,East Asia and Pacific
+TON,2023,0.927044859,1.0,0.0,1.0,0.0,1.0,2.363698818,Tonga,East Asia and Pacific
+TUV,2021,0.0,0.0,0.0,1.0,0.0,0.0,0.0,Tuvalu,East Asia and Pacific
+TUV,2022,0.0,0.0,0.0,1.0,0.0,0.0,0.0,Tuvalu,East Asia and Pacific
+TUV,2023,0.0,0.0,0.0,1.0,0.0,0.0,0.0,Tuvalu,East Asia and Pacific
+VEN,2021,0.0,0.0,0.0,1.0,0.0,1.0,0.0,"Venezuela, RB",Latin America and the Caribbean
+VEN,2022,0.0,0.0,0.0,1.0,0.0,1.0,0.0,"Venezuela, RB",Latin America and the Caribbean
+VEN,2023,0.0,0.0,0.0,1.0,0.0,1.0,0.0,"Venezuela, RB",Latin America and the Caribbean
+VGB,2021,0.0,0.0,0.0,0.0,0.0,0.0,0.0,British Virgin Islands,Latin America and the Caribbean
+VGB,2022,0.0,0.0,0.0,0.0,0.0,0.0,0.0,British Virgin Islands,Latin America and the Caribbean
+VGB,2023,0.0,0.0,0.0,0.0,0.0,0.0,0.0,British Virgin Islands,Latin America and the Caribbean
+VIR,2021,0.0,0.0,0.0,0.0,0.0,0.0,1.0,Virgin Islands (U.S.),Latin America and the Caribbean
+VIR,2022,0.0,0.0,0.0,0.0,0.0,0.0,1.0,Virgin Islands (U.S.),Latin America and the Caribbean
+VIR,2023,0.0,0.0,0.0,0.0,0.0,0.0,1.0,Virgin Islands (U.S.),Latin America and the Caribbean
+VUT,2021,1.415102761,1.0,0.0,1.0,0.0,1.0,109.4525,Vanuatu,East Asia and Pacific
+VUT,2022,1.500162753,1.0,0.0,1.0,0.0,1.0,115.3539167,Vanuatu,East Asia and Pacific
+VUT,2023,1.526698014,1.0,0.0,1.0,0.0,1.0,119.1125,Vanuatu,East Asia and Pacific
+ARG,2021,3.770809452,1.0,0.5,1.0,0.0,0.0,94.99074167,Argentina,Latin America and the Caribbean
+ARG,2022,4.556149155,1.0,0.5,1.0,0.0,0.0,130.61655,Argentina,Latin America and the Caribbean
+ARG,2023,9.456492818,1.0,0.5,1.0,0.0,1.0,296.2580417,Argentina,Latin America and the Caribbean
+ATG,2021,4.044950441,1.0,0.5,0.0,0.0,1.0,2.7,Antigua and Barbuda,Latin America and the Caribbean
+ATG,2022,3.921489869,1.0,0.5,0.0,0.0,1.0,2.7,Antigua and Barbuda,Latin America and the Caribbean
+ATG,2023,4.409932182,1.0,0.5,0.0,0.0,1.0,2.7,Antigua and Barbuda,Latin America and the Caribbean
+BDI,2021,5.188505648,1.0,0.5,0.0,0.0,1.0,1975.950881,Burundi,Sub-Saharan Africa
+BDI,2022,9.456492818,1.0,0.5,0.0,0.0,1.0,2034.306634,Burundi,Sub-Saharan Africa
+BDI,2023,9.456492818,1.0,0.5,1.0,0.0,1.0,2574.051749,Burundi,Sub-Saharan Africa
+BLZ,2021,4.727049017,1.0,0.5,1.0,0.0,1.0,2.0,Belize,Latin America and the Caribbean
+BLZ,2022,4.262144473,1.0,0.5,1.0,0.0,1.0,2.0,Belize,Latin America and the Caribbean
+BLZ,2023,4.694200514,1.0,0.5,1.0,0.0,1.0,2.0,Belize,Latin America and the Caribbean
+BOL,2021,8.741694813,1.0,0.5,1.0,0.0,1.0,6.91,Bolivia,Latin America and the Caribbean
+BOL,2022,0.0,1.0,0.5,1.0,0.0,1.0,6.91,Bolivia,Latin America and the Caribbean
+BRN,2021,2.377813477,1.0,0.5,1.0,0.0,1.0,1.343806963,Brunei Darussalam,East Asia and Pacific
+BRN,2022,2.321693252,1.0,0.5,1.0,0.0,1.0,1.378956397,Brunei Darussalam,East Asia and Pacific
+BRN,2023,2.749235549,1.0,0.5,1.0,0.0,1.0,1.343079601,Brunei Darussalam,East Asia and Pacific
+CAF,2021,1.777916543,0.0,0.5,0.0,0.0,1.0,554.530675,Central African Republic,Sub-Saharan Africa
+CAF,2022,2.093589539,0.0,0.5,0.0,0.0,1.0,623.7597009,Central African Republic,Sub-Saharan Africa
+CAF,2023,0.0,1.0,0.5,0.0,0.0,1.0,606.5697502,Central African Republic,Sub-Saharan Africa
+CIV,2021,0.0,1.0,0.5,1.0,0.0,1.0,554.530675,Cote d'Ivoire,Sub-Saharan Africa
+CIV,2022,0.0,1.0,0.5,1.0,0.0,1.0,623.7597009,Cote d'Ivoire,Sub-Saharan Africa
+CIV,2023,0.0,1.0,0.5,1.0,0.0,1.0,606.5697502,Cote d'Ivoire,Sub-Saharan Africa
+COD,2021,0.0,1.0,0.5,1.0,0.0,1.0,1989.391471,"Congo, Dem. Rep.",Sub-Saharan Africa
+COD,2022,0.0,1.0,0.5,1.0,0.0,1.0,2006.708219,"Congo, Dem. Rep.",Sub-Saharan Africa
+COD,2023,0.0,1.0,0.5,1.0,0.0,1.0,2340.035704,"Congo, Dem. Rep.",Sub-Saharan Africa
+DMA,2021,2.745212636,1.0,0.5,0.0,0.0,1.0,2.7,Dominica,Latin America and the Caribbean
+DMA,2022,2.531636446,1.0,0.5,0.0,0.0,1.0,2.7,Dominica,Latin America and the Caribbean
+DMA,2023,2.80606191,1.0,0.5,0.0,0.0,1.0,2.7,Dominica,Latin America and the Caribbean
+DZA,2021,2.644695297,1.0,0.5,1.0,0.0,1.0,135.0640583,Algeria,Middle East and North Africa
+DZA,2022,2.24993653,1.0,0.5,1.0,0.0,1.0,141.994975,Algeria,Middle East and North Africa
+DZA,2023,2.205332567,1.0,0.5,1.0,0.0,1.0,135.8429333,Algeria,Middle East and North Africa
+GAB,2021,0.0,1.0,0.5,1.0,0.0,1.0,554.530675,Gabon,Sub-Saharan Africa
+GAB,2022,0.0,1.0,0.5,1.0,0.0,1.0,623.7597009,Gabon,Sub-Saharan Africa
+GAB,2023,0.0,1.0,0.5,1.0,0.0,1.0,606.5697502,Gabon,Sub-Saharan Africa
+GMB,2021,1.759675922,1.0,0.5,1.0,0.0,1.0,51.48444388,"Gambia, The",Sub-Saharan Africa
+GMB,2022,2.076344796,1.0,0.5,1.0,0.0,1.0,54.92346736,"Gambia, The",Sub-Saharan Africa
+GMB,2023,2.00429095,1.0,0.5,1.0,0.0,1.0,61.09633301,"Gambia, The",Sub-Saharan Africa
+GRD,2021,3.067808992,1.0,0.5,0.0,0.0,1.0,2.7,Grenada,Latin America and the Caribbean
+GRD,2022,3.157935917,1.0,0.5,0.0,0.0,1.0,2.7,Grenada,Latin America and the Caribbean
+GRD,2023,2.944595269,1.0,0.5,1.0,0.0,1.0,2.7,Grenada,Latin America and the Caribbean
+HND,2021,2.416226551,1.0,0.5,0.0,0.0,1.0,24.01665532,Honduras,Latin America and the Caribbean
+HND,2022,2.74992292,1.0,0.5,0.0,0.0,1.0,24.48587373,Honduras,Latin America and the Caribbean
+HND,2023,3.399923178,1.0,0.5,1.0,0.0,1.0,24.60164682,Honduras,Latin America and the Caribbean
+HTI,2021,2.679513986,1.0,0.5,0.0,0.0,1.0,89.22663651,Haiti,Latin America and the Caribbean
+HTI,2022,3.019783333,1.0,0.5,0.0,0.0,1.0,115.6307155,Haiti,Latin America and the Caribbean
+HTI,2023,1.741284475,1.0,0.5,1.0,0.0,1.0,141.0359127,Haiti,Latin America and the Caribbean
+IRN,2021,0.0,1.0,0.5,1.0,0.0,0.0,2922.13593225,"Iran, Islamic Rep.",Middle East and North Africa
+IRN,2022,0.0,1.0,0.5,1.0,0.0,0.0,2922.13593225,"Iran, Islamic Rep.",Middle East and North Africa
+IRN,2023,0.0,1.0,0.5,1.0,0.0,0.0,2922.13593225,"Iran, Islamic Rep.",Middle East and North Africa
+JAM,2021,2.196173617,1.0,0.5,1.0,0.0,1.0,150.7901059,Jamaica,Latin America and the Caribbean
+JAM,2022,2.506654675,1.0,0.5,1.0,0.0,1.0,153.4268165,Jamaica,Latin America and the Caribbean
+JAM,2023,2.591034008,1.0,0.5,1.0,0.0,1.0,154.158779,Jamaica,Latin America and the Caribbean
+KIR,2021,0.0,1.0,0.5,0.0,0.0,0.0,1.33122426,Kiribati,East Asia and Pacific
+KIR,2022,0.0,1.0,0.5,0.0,0.0,0.0,1.441664459,Kiribati,East Asia and Pacific
+KIR,2023,0.0,1.0,0.5,1.0,0.0,0.0,1.505191066,Kiribati,East Asia and Pacific
+KNA,2021,3.310636128,1.0,0.5,0.0,0.0,1.0,2.7,St. Kitts and Nevis,Latin America and the Caribbean
+KNA,2022,3.943256481,1.0,0.5,0.0,0.0,1.0,2.7,St. Kitts and Nevis,Latin America and the Caribbean
+KNA,2023,3.977089031,1.0,0.5,0.0,0.0,1.0,2.7,St. Kitts and Nevis,Latin America and the Caribbean
+LBY,2021,0.275762317,0.0,0.5,0.0,0.0,0.0,4.514425,Libya,Middle East and North Africa
+LBY,2022,0.0,0.0,0.5,0.0,0.0,0.0,4.813175,Libya,Middle East and North Africa
+LBY,2023,0.0,1.0,0.5,0.0,0.0,0.0,4.812883333,Libya,Middle East and North Africa
+LCA,2021,3.06690392,1.0,0.5,1.0,0.0,1.0,2.7,St. Lucia,Latin America and the Caribbean
+LCA,2022,3.552430934,1.0,0.5,1.0,0.0,1.0,2.7,St. Lucia,Latin America and the Caribbean
+LCA,2023,3.615014645,1.0,0.5,1.0,0.0,1.0,2.7,St. Lucia,Latin America and the Caribbean
+MAR,2021,4.870951222,1.0,0.5,1.0,0.0,1.0,8.988484024,Morocco,Middle East and North Africa
+MAR,2022,5.132165107,1.0,0.5,1.0,0.0,1.0,10.16066024,Morocco,Middle East and North Africa
+MAR,2023,4.756239321,1.0,0.5,1.0,0.0,1.0,10.1314261,Morocco,Middle East and North Africa
+MLI,2021,0.0,1.0,0.5,1.0,0.0,1.0,554.530675,Mali,Sub-Saharan Africa
+MLI,2022,0.0,1.0,0.5,1.0,0.0,1.0,623.7597009,Mali,Sub-Saharan Africa
+MLI,2023,0.0,1.0,0.5,1.0,0.0,1.0,606.5697502,Mali,Sub-Saharan Africa
+MNG,2021,2.232606852,1.0,0.5,1.0,0.0,1.0,2849.288615,Mongolia,East Asia and Pacific
+MNG,2022,2.779304764,1.0,0.5,1.0,0.0,1.0,2922.13593225,Mongolia,East Asia and Pacific
+MNG,2023,2.268501452,1.0,0.5,1.0,0.0,1.0,2922.13593225,Mongolia,East Asia and Pacific
+MOZ,2021,2.402499682,1.0,0.5,1.0,0.0,1.0,65.465,Mozambique,Sub-Saharan Africa
+MOZ,2022,3.445922931,1.0,0.5,1.0,0.0,1.0,63.85083333,Mozambique,Sub-Saharan Africa
+MOZ,2023,2.881492355,1.0,0.5,1.0,0.0,1.0,63.88583333,Mozambique,Sub-Saharan Africa
+MWI,2021,0.0,1.0,0.5,1.0,0.0,0.0,805.8996501,Malawi,Sub-Saharan Africa
+MWI,2022,0.0,1.0,0.5,1.0,0.0,0.0,949.0390167,Malawi,Sub-Saharan Africa
+MWI,2023,0.0,1.0,0.5,1.0,0.0,0.0,1161.094367,Malawi,Sub-Saharan Africa
+NAM,2021,3.258008784,1.0,0.5,1.0,0.0,1.0,14.778675,Namibia,Sub-Saharan Africa
+NAM,2022,0.0,1.0,0.5,1.0,0.0,1.0,16.35585833,Namibia,Sub-Saharan Africa
+NAM,2023,0.0,1.0,0.5,1.0,0.0,1.0,18.44630833,Namibia,Sub-Saharan Africa
+NIC,2021,1.390970227,1.0,0.5,1.0,0.0,1.0,35.17101667,Nicaragua,Latin America and the Caribbean
+NIC,2022,1.394868496,1.0,0.5,1.0,0.0,1.0,35.87442114,Nicaragua,Latin America and the Caribbean
+NIC,2023,0.0,1.0,0.5,1.0,0.0,1.0,36.44119428,Nicaragua,Latin America and the Caribbean
+NPL,2021,4.622165045,1.0,0.5,1.0,0.0,1.0,118.1340816,Nepal,South Asia
+NPL,2022,5.019873786,1.0,0.5,1.0,0.0,1.0,125.1994578,Nepal,South Asia
+NPL,2023,3.966944917,1.0,0.5,1.0,0.0,1.0,132.1154601,Nepal,South Asia
+OMN,2021,0.0,1.0,0.5,1.0,0.0,1.0,0.3845,Oman,Middle East and North Africa
+OMN,2022,0.0,1.0,0.5,1.0,0.0,1.0,0.3845,Oman,Middle East and North Africa
+OMN,2023,0.0,1.0,0.5,1.0,0.0,1.0,0.3845,Oman,Middle East and North Africa
+PAN,2021,0.0,1.0,0.5,1.0,0.0,1.0,1.0,Panama,Latin America and the Caribbean
+PAN,2022,0.0,1.0,0.5,1.0,0.0,1.0,1.0,Panama,Latin America and the Caribbean
+PAN,2023,0.0,1.0,0.5,1.0,0.0,1.0,1.0,Panama,Latin America and the Caribbean
+PHL,2021,3.274572607,1.0,0.5,1.0,0.0,1.0,49.25459773,Philippines,East Asia and Pacific
+PHL,2022,3.614750346,1.0,0.5,1.0,0.0,1.0,54.47778584,Philippines,East Asia and Pacific
+SLB,2021,0.990418989,1.0,0.5,1.0,0.0,1.0,8.030102991,Solomon Islands,East Asia and Pacific
+SLB,2022,1.07758753,1.0,0.5,1.0,0.0,1.0,8.155528698,Solomon Islands,East Asia and Pacific
+SLB,2023,1.070507554,1.0,0.5,1.0,0.0,1.0,8.375596776,Solomon Islands,East Asia and Pacific
+SLE,2021,0.001457362,1.0,0.5,1.0,0.0,1.0,10.43942532,Sierra Leone,Sub-Saharan Africa
+SLE,2022,0.002325222,1.0,0.5,1.0,0.0,1.0,14.04764979,Sierra Leone,Sub-Saharan Africa
+SLE,2023,0.002565697,1.0,0.5,1.0,0.0,1.0,21.30487511,Sierra Leone,Sub-Saharan Africa
+STP,2021,2.093589081,1.0,0.5,0.0,0.0,1.0,20.71040152,Sao Tome and Principe,Sub-Saharan Africa
+STP,2022,2.361759608,1.0,0.5,0.0,0.0,1.0,23.29040395,Sao Tome and Principe,Sub-Saharan Africa
+STP,2023,3.587420479,1.0,0.5,0.0,0.0,1.0,22.65842479,Sao Tome and Principe,Sub-Saharan Africa
+SYR,2021,0.0,0.0,0.5,1.0,0.0,1.0,1256.0,Syrian Arab Republic,Middle East and North Africa
+SYR,2022,0.0,0.0,0.5,1.0,0.0,1.0,2505.746911,Syrian Arab Republic,Middle East and North Africa
+SYR,2023,0.0,1.0,0.5,1.0,0.0,1.0,0.0,Syrian Arab Republic,Middle East and North Africa
+TTO,2021,2.58710366,1.0,0.5,1.0,0.0,1.0,6.758530049,Trinidad and Tobago,Latin America and the Caribbean
+TTO,2022,2.655340695,1.0,0.5,1.0,0.0,1.0,6.754128961,Trinidad and Tobago,Latin America and the Caribbean
+TTO,2023,2.941947955,1.0,0.5,1.0,0.0,1.0,6.750262379,Trinidad and Tobago,Latin America and the Caribbean
+TZA,2021,0.0,1.0,0.5,1.0,0.0,1.0,2297.764226,Tanzania,Sub-Saharan Africa
+TZA,2022,0.0,1.0,0.5,1.0,0.0,1.0,0.0,Tanzania,Sub-Saharan Africa
+TZA,2023,0.0,1.0,0.5,1.0,0.0,1.0,0.0,Tanzania,Sub-Saharan Africa
+URY,2021,2.103766915,1.0,0.5,1.0,0.0,1.0,43.554575,Uruguay,Latin America and the Caribbean
+URY,2022,2.452976812,1.0,0.5,1.0,0.0,1.0,41.17108333,Uruguay,Latin America and the Caribbean
+VCT,2021,2.200980223,1.0,0.5,0.0,0.0,1.0,2.7,St. Vincent and the Grenadines,Latin America and the Caribbean
+VCT,2022,2.147894178,1.0,0.5,0.0,0.0,1.0,2.7,St. Vincent and the Grenadines,Latin America and the Caribbean
+VCT,2023,2.54367134,1.0,0.5,0.0,0.0,1.0,2.7,St. Vincent and the Grenadines,Latin America and the Caribbean
+YEM,2021,0.0,0.0,0.5,1.0,0.0,0.0,1028.107754,"Yemen, Rep.",Middle East and North Africa
+YEM,2022,0.0,0.0,0.5,1.0,0.0,0.0,1115.002387,"Yemen, Rep.",Middle East and North Africa
+YEM,2023,0.0,0.0,0.5,1.0,0.0,0.0,1355.116379,"Yemen, Rep.",Middle East and North Africa
+ZMB,2021,1.952274057,1.0,0.5,1.0,0.0,1.0,20.01848659,Zambia,Sub-Saharan Africa
+ZMB,2022,2.665920888,1.0,0.5,1.0,0.0,1.0,16.93759433,Zambia,Sub-Saharan Africa
+AGO,2021,1.188834705,1.0,1.0,0.0,0.0,1.0,631.4419555,Angola,Sub-Saharan Africa
+AGO,2022,1.663746817,1.0,1.0,0.0,0.0,1.0,460.5675116,Angola,Sub-Saharan Africa
+AGO,2023,1.53531021,1.0,1.0,1.0,0.0,1.0,685.0202378,Angola,Sub-Saharan Africa
+AZE,2021,2.458395652,1.0,1.0,1.0,0.0,1.0,1.7,Azerbaijan,Europe and Central Asia
+AZE,2022,2.221758214,1.0,1.0,1.0,0.0,1.0,1.7,Azerbaijan,Europe and Central Asia
+BFA,2021,0.0,1.0,1.0,1.0,0.0,1.0,554.530675,Burkina Faso,Sub-Saharan Africa
+BFA,2022,0.0,1.0,1.0,1.0,0.0,1.0,623.7597009,Burkina Faso,Sub-Saharan Africa
+BOL,2023,0.0,1.0,1.0,1.0,0.0,1.0,6.91,Bolivia,Latin America and the Caribbean
+BWA,2021,1.770740623,1.0,1.0,0.0,0.0,1.0,11.08725833,Botswana,Sub-Saharan Africa
+BWA,2022,1.902017026,1.0,1.0,0.0,0.0,1.0,12.36880833,Botswana,Sub-Saharan Africa
+BWA,2023,1.702321394,1.0,1.0,1.0,0.0,1.0,13.59638333,Botswana,Sub-Saharan Africa
+CMR,2021,0.0,1.0,1.0,0.0,0.0,1.0,554.530675,Cameroon,Sub-Saharan Africa
+CMR,2022,0.0,1.0,1.0,0.0,0.0,1.0,623.7597009,Cameroon,Sub-Saharan Africa
+CMR,2023,0.0,1.0,1.0,1.0,0.0,1.0,606.5697502,Cameroon,Sub-Saharan Africa
+COL,2021,2.998994567,1.0,1.0,1.0,0.0,1.0,2922.13593225,Colombia,Latin America and the Caribbean
+COL,2022,2.980551596,1.0,1.0,1.0,0.0,1.0,2922.13593225,Colombia,Latin America and the Caribbean
+COL,2023,2.987689058,1.0,1.0,1.0,0.0,1.0,2922.13593225,Colombia,Latin America and the Caribbean
+DOM,2021,2.884830405,1.0,1.0,1.0,0.0,1.0,57.22111667,Dominican Republic,Latin America and the Caribbean
+DOM,2022,2.856058188,1.0,1.0,1.0,0.0,1.0,55.14099167,Dominican Republic,Latin America and the Caribbean
+DOM,2023,2.99909091,1.0,1.0,1.0,0.0,1.0,56.1576,Dominican Republic,Latin America and the Caribbean
+FJI,2021,3.101900006,1.0,1.0,1.0,0.0,1.0,2.070633333,Fiji,East Asia and Pacific
+FJI,2022,2.989139521,1.0,1.0,1.0,0.0,1.0,2.201406987,Fiji,East Asia and Pacific
+FJI,2023,3.197913139,1.0,1.0,1.0,0.0,1.0,2.250125,Fiji,East Asia and Pacific
+GHA,2021,2.54482022,1.0,1.0,1.0,0.0,1.0,5.8057,Ghana,Sub-Saharan Africa
+GHA,2022,4.492220318,1.0,1.0,1.0,0.0,1.0,8.2724,Ghana,Sub-Saharan Africa
+GHA,2023,6.655758539,1.0,1.0,1.0,0.0,1.0,11.02040833,Ghana,Sub-Saharan Africa
+GUY,2021,4.441282932,0.0,1.0,1.0,0.0,1.0,208.5,Guyana,Latin America and the Caribbean
+GUY,2022,4.419312967,0.0,1.0,1.0,0.0,1.0,208.5,Guyana,Latin America and the Caribbean
+KAZ,2021,2.055703049,0.0,1.0,1.0,0.0,1.0,425.9075,Kazakhstan,Europe and Central Asia
+KAZ,2022,2.124802626,0.0,1.0,1.0,0.0,1.0,460.165,Kazakhstan,Europe and Central Asia
+KAZ,2023,2.334637767,0.0,1.0,1.0,0.0,1.0,456.165,Kazakhstan,Europe and Central Asia
+LKA,2021,0.0,1.0,1.0,1.0,0.0,1.0,198.7643168,Sri Lanka,South Asia
+LKA,2022,0.0,1.0,1.0,1.0,0.0,1.0,322.6326743,Sri Lanka,South Asia
+LKA,2023,0.0,1.0,1.0,1.0,0.0,1.0,327.5065333,Sri Lanka,South Asia
+MDV,2021,4.215692246,0.0,1.0,0.0,0.0,1.0,15.37269841,Maldives,South Asia
+MDV,2022,4.325092324,0.0,1.0,0.0,0.0,1.0,15.386625,Maldives,South Asia
+MDV,2023,6.519925273,1.0,1.0,1.0,0.0,1.0,15.38679435,Maldives,South Asia
+MEX,2021,2.723806175,1.0,1.0,1.0,0.0,1.0,20.27240833,Mexico,Latin America and the Caribbean
+MEX,2022,3.042180395,1.0,1.0,1.0,0.0,1.0,20.12735,Mexico,Latin America and the Caribbean
+MKD,2021,2.206667638,1.0,1.0,1.0,0.0,1.0,52.10215833,North Macedonia,Europe and Central Asia
+MKD,2022,2.07100072,1.0,1.0,1.0,0.0,1.0,58.57439167,North Macedonia,Europe and Central Asia
+MNE,2021,1.714509654,1.0,1.0,1.0,0.0,1.0,0.845376564,Montenegro,Europe and Central Asia
+MNE,2022,1.819693071,1.0,1.0,1.0,0.0,1.0,0.950915534,Montenegro,Europe and Central Asia
+MNE,2023,2.717379382,1.0,1.0,1.0,0.0,1.0,0.924709623,Montenegro,Europe and Central Asia
+MRT,2021,0.0,1.0,1.0,1.0,0.0,1.0,36.06333333,Mauritania,Sub-Saharan Africa
+MRT,2022,0.0,1.0,1.0,1.0,0.0,1.0,36.935,Mauritania,Sub-Saharan Africa
+MRT,2023,0.0,1.0,1.0,1.0,0.0,1.0,36.48916667,Mauritania,Sub-Saharan Africa
+MYS,2021,4.237602285,1.0,1.0,1.0,0.0,1.0,4.143297598,Malaysia,East Asia and Pacific
+MYS,2022,4.230526008,1.0,1.0,1.0,0.0,1.0,4.401076345,Malaysia,East Asia and Pacific
+NGA,2021,2.749078855,1.0,1.0,0.0,0.0,1.0,401.1520292,Nigeria,Sub-Saharan Africa
+NGA,2022,3.461821431,1.0,1.0,0.0,0.0,1.0,425.9791581,Nigeria,Sub-Saharan Africa
+NGA,2023,0.0,1.0,1.0,1.0,0.0,1.0,0.0,Nigeria,Sub-Saharan Africa
+PAK,2021,7.831916928,1.0,1.0,1.0,0.0,1.0,162.9062537,Pakistan,South Asia
+PAK,2022,9.456492818,1.0,1.0,1.0,0.0,1.0,204.8671875,Pakistan,South Asia
+PAK,2023,9.456492818,1.0,1.0,1.0,0.0,1.0,280.3561117,Pakistan,South Asia
+PER,2021,1.743877219,0.0,1.0,1.0,0.0,1.0,3.880554131,Peru,Latin America and the Caribbean
+PER,2022,2.095808612,0.0,1.0,1.0,0.0,1.0,3.835181375,Peru,Latin America and the Caribbean
+PER,2023,0.0,0.0,1.0,1.0,0.0,1.0,3.74382621,Peru,Latin America and the Caribbean
+RWA,2021,1.54628693,1.0,1.0,1.0,0.0,1.0,988.6248066,Rwanda,Sub-Saharan Africa
+RWA,2022,1.973459894,1.0,1.0,1.0,0.0,1.0,1030.3083,Rwanda,Sub-Saharan Africa
+RWA,2023,2.057342435,1.0,1.0,1.0,0.0,1.0,1160.098694,Rwanda,Sub-Saharan Africa
+SLV,2021,5.15959236,1.0,1.0,1.0,0.0,1.0,1.0,El Salvador,Latin America and the Caribbean
+SLV,2022,0.0,1.0,1.0,1.0,0.0,1.0,1.0,El Salvador,Latin America and the Caribbean
+SLV,2023,0.0,1.0,1.0,1.0,0.0,1.0,1.0,El Salvador,Latin America and the Caribbean
+SRB,2021,2.041724593,1.0,1.0,1.0,0.0,1.0,99.39594167,Serbia,Europe and Central Asia
+SRB,2022,1.748349593,1.0,1.0,1.0,0.0,1.0,111.6621833,Serbia,Europe and Central Asia
+SRB,2023,1.521859719,1.0,1.0,1.0,0.0,1.0,108.4026917,Serbia,Europe and Central Asia
+TGO,2021,0.0,1.0,1.0,1.0,0.0,1.0,554.530675,Togo,Sub-Saharan Africa
+TGO,2022,0.0,1.0,1.0,1.0,0.0,1.0,623.7597009,Togo,Sub-Saharan Africa
+TGO,2023,0.0,1.0,1.0,1.0,0.0,1.0,606.5697502,Togo,Sub-Saharan Africa
+TLS,2021,1.196618193,1.0,1.0,1.0,0.0,1.0,1.0,Timor-Leste,East Asia and Pacific
+TLS,2022,1.462223489,1.0,1.0,1.0,0.0,1.0,1.0,Timor-Leste,East Asia and Pacific
+TLS,2023,1.595586595,1.0,1.0,1.0,0.0,1.0,1.0,Timor-Leste,East Asia and Pacific
+TUN,2021,4.096334842,1.0,1.0,1.0,0.0,1.0,2.794466667,Tunisia,Middle East and North Africa
+TUN,2022,4.396943305,1.0,1.0,1.0,0.0,1.0,3.1036,Tunisia,Middle East and North Africa
+TUN,2023,4.194049281,1.0,1.0,1.0,0.0,1.0,3.106166667,Tunisia,Middle East and North Africa
+VNM,2021,4.897370051,1.0,1.0,1.0,0.0,0.0,2922.13593225,Viet Nam,East Asia and Pacific
+VNM,2022,6.509652651,1.0,1.0,1.0,0.0,0.0,2922.13593225,Viet Nam,East Asia and Pacific
+VNM,2023,0.0,1.0,1.0,1.0,0.0,0.0,2922.13593225,Viet Nam,East Asia and Pacific
+AFG,2021,0.0,1.0,0.0,1.0,0.5,1.0,0.0,Afghanistan,South Asia
+AFG,2022,0.0,1.0,0.0,1.0,0.5,1.0,0.0,Afghanistan,South Asia
+AFG,2023,0.0,1.0,0.0,1.0,0.5,1.0,0.0,Afghanistan,South Asia
+DJI,2021,4.574928549,1.0,0.0,0.0,0.5,1.0,177.721,Djibouti,Middle East and North Africa
+DJI,2022,4.48987393,1.0,0.0,0.0,0.5,1.0,177.721,Djibouti,Middle East and North Africa
+DJI,2023,5.67619697,1.0,0.0,1.0,0.5,1.0,177.721,Djibouti,Middle East and North Africa
+ETH,2021,0.0,1.0,0.0,1.0,0.5,0.0,43.73377832,Ethiopia,Sub-Saharan Africa
+ETH,2022,0.0,1.0,0.0,1.0,0.5,0.0,51.75621503,Ethiopia,Sub-Saharan Africa
+ETH,2023,0.0,1.0,0.0,1.0,0.5,0.0,54.60094807,Ethiopia,Sub-Saharan Africa
+LBN,2021,0.0,1.0,0.0,1.0,0.5,0.0,1507.5,Lebanon,Middle East and North Africa
+LBN,2022,0.0,1.0,0.0,1.0,0.5,0.0,1507.5,Lebanon,Middle East and North Africa
+LBN,2023,0.0,1.0,0.0,1.0,0.5,0.0,0.0,Lebanon,Middle East and North Africa
+MDG,2021,1.732010334,1.0,0.0,1.0,0.5,1.0,2922.13593225,Madagascar,Sub-Saharan Africa
+MDG,2022,1.991008118,1.0,0.0,1.0,0.5,1.0,2922.13593225,Madagascar,Sub-Saharan Africa
+MDG,2023,1.635205982,1.0,0.0,1.0,0.5,1.0,2922.13593225,Madagascar,Sub-Saharan Africa
+TJK,2021,1.005017782,0.0,0.0,0.0,0.5,1.0,11.30885,Tajikistan,Europe and Central Asia
+TJK,2022,0.618581659,0.0,0.0,0.0,0.5,1.0,11.031075,Tajikistan,Europe and Central Asia
+TJK,2023,0.0,0.0,0.0,0.0,0.5,1.0,10.844525,Tajikistan,Europe and Central Asia
+BEN,2021,0.0,1.0,0.5,0.0,0.5,1.0,554.6077989,Benin,Sub-Saharan Africa
+BEN,2022,0.0,1.0,0.5,0.0,0.5,1.0,622.9123482,Benin,Sub-Saharan Africa
+BHR,2021,0.0,1.0,0.5,0.0,0.5,0.0,0.376,Bahrain,Middle East and North Africa
+BHR,2022,0.0,1.0,0.5,0.0,0.5,0.0,0.376,Bahrain,Middle East and North Africa
+BHR,2023,0.0,1.0,0.5,1.0,0.5,0.0,0.376,Bahrain,Middle East and North Africa
+BRB,2021,3.9602194,1.0,0.5,1.0,0.5,1.0,2.0,Barbados,Latin America and the Caribbean
+BRB,2022,4.592559875,1.0,0.5,1.0,0.5,1.0,2.0,Barbados,Latin America and the Caribbean
+IRQ,2021,1.501970308,1.0,0.5,1.0,0.5,1.0,1450.0,Iraq,Middle East and North Africa
+IRQ,2022,1.196411999,1.0,0.5,1.0,0.5,1.0,1450.0,Iraq,Middle East and North Africa
+IRQ,2023,1.225537309,1.0,0.5,1.0,0.5,1.0,1312.5,Iraq,Middle East and North Africa
+KEN,2021,4.506647033,1.0,0.5,1.0,0.5,1.0,109.6377466,Kenya,Sub-Saharan Africa
+KEN,2022,5.368092446,1.0,0.5,1.0,0.5,1.0,117.8659892,Kenya,Sub-Saharan Africa
+KEN,2023,5.887221237,1.0,0.5,1.0,0.5,1.0,139.8463838,Kenya,Sub-Saharan Africa
+KHM,2021,1.913084404,1.0,0.5,1.0,0.5,1.0,2922.13593225,Cambodia,East Asia and Pacific
+KHM,2022,2.35493998,1.0,0.5,1.0,0.5,1.0,2922.13593225,Cambodia,East Asia and Pacific
+KHM,2023,2.355906271,1.0,0.5,1.0,0.5,1.0,2922.13593225,Cambodia,East Asia and Pacific
+KWT,2021,2.426251778,1.0,0.5,1.0,0.5,1.0,0.301643111,Kuwait,Middle East and North Africa
+KWT,2022,2.40155214,1.0,0.5,1.0,0.5,1.0,0.306250154,Kuwait,Middle East and North Africa
+KWT,2023,2.411134218,1.0,0.5,1.0,0.5,1.0,0.307185351,Kuwait,Middle East and North Africa
+LBR,2021,0.0,1.0,0.5,1.0,0.5,1.0,166.1537008,Liberia,Sub-Saharan Africa
+LBR,2022,0.0,1.0,0.5,1.0,0.5,1.0,152.9337568,Liberia,Sub-Saharan Africa
+LBR,2023,0.0,1.0,0.5,1.0,0.5,1.0,0.0,Liberia,Sub-Saharan Africa
+LSO,2021,0.0,1.0,0.5,1.0,0.5,1.0,14.77867821,Lesotho,Sub-Saharan Africa
+LSO,2022,0.0,1.0,0.5,1.0,0.5,1.0,16.35585348,Lesotho,Sub-Saharan Africa
+LSO,2023,0.0,1.0,0.5,1.0,0.5,1.0,18.45024418,Lesotho,Sub-Saharan Africa
+NER,2021,0.0,1.0,0.5,1.0,0.5,1.0,554.530675,Niger,Sub-Saharan Africa
+NER,2022,0.0,1.0,0.5,1.0,0.5,1.0,623.7597009,Niger,Sub-Saharan Africa
+QAT,2021,3.960207174,1.0,0.5,1.0,0.5,1.0,3.64,Qatar,Middle East and North Africa
+QAT,2022,4.141991147,1.0,0.5,1.0,0.5,1.0,3.64,Qatar,Middle East and North Africa
+QAT,2023,3.852088309,1.0,0.5,1.0,0.5,1.0,3.64,Qatar,Middle East and North Africa
+SMR,2021,0.0,1.0,0.5,1.0,0.5,1.0,0.845376564,San Marino,Europe and Central Asia
+SMR,2022,0.0,1.0,0.5,1.0,0.5,1.0,0.950915534,San Marino,Europe and Central Asia
+SMR,2023,0.0,1.0,0.5,1.0,0.5,1.0,0.924709623,San Marino,Europe and Central Asia
+SUR,2021,2.420533733,1.0,0.5,1.0,0.5,1.0,18.23866667,Suriname,Latin America and the Caribbean
+SUR,2022,2.35401871,1.0,0.5,1.0,0.5,1.0,24.70917476,Suriname,Latin America and the Caribbean
+SUR,2023,1.6789188,1.0,0.5,1.0,0.5,1.0,36.77586917,Suriname,Latin America and the Caribbean
+WSM,2021,1.758393122,1.0,0.5,1.0,0.5,1.0,2.556092342,Samoa,East Asia and Pacific
+WSM,2022,1.708622944,1.0,0.5,1.0,0.5,1.0,2.688997647,Samoa,East Asia and Pacific
+WSM,2023,1.33132956,1.0,0.5,1.0,0.5,1.0,2.73843913,Samoa,East Asia and Pacific
+ZMB,2023,0.0,1.0,0.5,1.0,0.5,1.0,20.21201787,Zambia,Sub-Saharan Africa
+ZWE,2021,4.839594837,1.0,0.5,1.0,0.5,1.0,88.55244726,Zimbabwe,Sub-Saharan Africa
+ZWE,2022,9.456492818,1.0,0.5,1.0,0.5,1.0,374.9543626,Zimbabwe,Sub-Saharan Africa
+ZWE,2023,9.456492818,1.0,0.5,1.0,0.5,1.0,2922.13593225,Zimbabwe,Sub-Saharan Africa
+ARM,2021,2.33704429,1.0,1.0,1.0,0.5,1.0,503.769675,Armenia,Europe and Central Asia
+ARM,2022,2.46462003,1.0,1.0,1.0,0.5,1.0,435.6661797,Armenia,Europe and Central Asia
+ARM,2023,3.660661589,1.0,1.0,1.0,0.5,1.0,392.4763022,Armenia,Europe and Central Asia
+BEN,2023,0.0,1.0,1.0,1.0,0.5,1.0,606.6549823,Benin,Sub-Saharan Africa
+BIH,2021,2.011463039,1.0,1.0,1.0,0.5,1.0,1.653606154,Bosnia and Herzegovina,Europe and Central Asia
+BIH,2022,2.040407308,1.0,1.0,1.0,0.5,1.0,1.859325877,Bosnia and Herzegovina,Europe and Central Asia
+BIH,2023,2.149137942,1.0,1.0,1.0,0.5,1.0,1.8092028,Bosnia and Herzegovina,Europe and Central Asia
+BRB,2023,4.386632381,1.0,1.0,1.0,0.5,1.0,2.0,Barbados,Latin America and the Caribbean
+CHN,2021,9.456492818,0.0,1.0,0.0,0.5,0.0,6.44897518,China,East Asia and Pacific
+CHN,2022,9.456492818,0.0,1.0,0.0,0.5,0.0,6.737158112,China,East Asia and Pacific
+CHN,2023,9.456492818,0.0,1.0,1.0,0.5,0.0,7.083998423,China,East Asia and Pacific
+CRI,2021,5.068997098,1.0,1.0,1.0,0.5,1.0,620.78472,Costa Rica,Latin America and the Caribbean
+CRI,2022,3.841727755,1.0,1.0,1.0,0.5,1.0,647.1358176,Costa Rica,Latin America and the Caribbean
+CRI,2023,3.102657631,1.0,1.0,1.0,0.5,1.0,544.0507755,Costa Rica,Latin America and the Caribbean
+ECU,2021,6.908834772,1.0,1.0,1.0,0.5,1.0,1.0,Ecuador,Latin America and the Caribbean
+ECU,2022,7.116009037,1.0,1.0,1.0,0.5,1.0,1.0,Ecuador,Latin America and the Caribbean
+ECU,2023,9.456492818,1.0,1.0,1.0,0.5,1.0,1.0,Ecuador,Latin America and the Caribbean
+EGY,2021,9.318555382,1.0,1.0,1.0,0.5,1.0,15.64452728,"Egypt, Arab Rep.",Middle East and North Africa
+EGY,2022,9.456492818,1.0,1.0,1.0,0.5,1.0,19.16043974,"Egypt, Arab Rep.",Middle East and North Africa
+EGY,2023,9.456492818,1.0,1.0,1.0,0.5,1.0,30.6264137,"Egypt, Arab Rep.",Middle East and North Africa
+GEO,2021,2.460419379,1.0,1.0,1.0,0.5,1.0,3.221558333,Georgia,Europe and Central Asia
+GEO,2022,2.637409451,1.0,1.0,1.0,0.5,1.0,2.9162,Georgia,Europe and Central Asia
+GEO,2023,3.285655924,1.0,1.0,1.0,0.5,1.0,2.627958333,Georgia,Europe and Central Asia
+GUY,2023,5.531565763,0.0,1.0,1.0,0.5,1.0,208.5,Guyana,Latin America and the Caribbean
+HRV,2021,0.0,1.0,1.0,1.0,0.5,1.0,6.360083167,Croatia,Europe and Central Asia
+HRV,2022,0.0,1.0,1.0,1.0,0.5,1.0,7.1597415,Croatia,Europe and Central Asia
+HRV,2023,0.0,1.0,1.0,1.0,0.5,1.0,0.924839558,Croatia,Europe and Central Asia
+JOR,2021,0.0,1.0,1.0,1.0,0.5,1.0,0.71,Jordan,Middle East and North Africa
+JOR,2022,0.0,1.0,1.0,1.0,0.5,1.0,0.71,Jordan,Middle East and North Africa
+JOR,2023,0.0,1.0,1.0,1.0,0.5,1.0,0.71,Jordan,Middle East and North Africa
+KGZ,2021,1.345954776,1.0,1.0,1.0,0.5,1.0,84.64082201,Kyrgyz Republic,Europe and Central Asia
+KGZ,2022,1.884971747,1.0,1.0,1.0,0.5,1.0,84.11622257,Kyrgyz Republic,Europe and Central Asia
+KGZ,2023,0.0,1.0,1.0,1.0,0.5,1.0,87.85612559,Kyrgyz Republic,Europe and Central Asia
+MDA,2021,1.73614727,1.0,1.0,1.0,0.5,1.0,17.68046614,Moldova,Europe and Central Asia
+MDA,2022,1.491276936,1.0,1.0,1.0,0.5,1.0,18.89718962,Moldova,Europe and Central Asia
+MDA,2023,1.50611483,1.0,1.0,1.0,0.5,1.0,18.16393776,Moldova,Europe and Central Asia
+MUS,2021,2.145258375,1.0,1.0,1.0,0.5,1.0,41.69213333,Mauritius,Sub-Saharan Africa
+MUS,2022,2.341233534,1.0,1.0,1.0,0.5,1.0,44.182775,Mauritius,Sub-Saharan Africa
+MUS,2023,2.63546275,1.0,1.0,1.0,0.5,1.0,45.267225,Mauritius,Sub-Saharan Africa
+NER,2023,0.0,1.0,1.0,1.0,0.5,1.0,606.5697502,Niger,Sub-Saharan Africa
+PRY,2021,2.151055741,1.0,1.0,1.0,0.5,1.0,2922.13593225,Paraguay,Latin America and the Caribbean
+PRY,2022,2.205331674,1.0,1.0,1.0,0.5,1.0,2922.13593225,Paraguay,Latin America and the Caribbean
+PRY,2023,2.211422692,1.0,1.0,1.0,0.5,1.0,2922.13593225,Paraguay,Latin America and the Caribbean
+PSE,2021,9.456492818,1.0,1.0,1.0,0.5,1.0,0.0,West Bank and Gaza,Middle East and North Africa
+PSE,2022,9.456492818,1.0,1.0,1.0,0.5,1.0,0.0,West Bank and Gaza,Middle East and North Africa
+PSE,2023,9.456492818,1.0,1.0,1.0,0.5,1.0,0.0,West Bank and Gaza,Middle East and North Africa
+SWZ,2021,2.513361971,1.0,1.0,1.0,0.5,1.0,14.78343514,Eswatini,Sub-Saharan Africa
+SWZ,2022,2.976931623,1.0,1.0,1.0,0.5,1.0,16.36228306,Eswatini,Sub-Saharan Africa
+SWZ,2023,0.0,1.0,1.0,1.0,0.5,1.0,18.45359249,Eswatini,Sub-Saharan Africa
+SYC,2021,1.976133805,1.0,1.0,1.0,0.5,1.0,16.92052257,Seychelles,Sub-Saharan Africa
+SYC,2022,2.591582128,1.0,1.0,1.0,0.5,1.0,14.27279453,Seychelles,Sub-Saharan Africa
+SYC,2023,2.610715523,1.0,1.0,1.0,0.5,1.0,14.0181107,Seychelles,Sub-Saharan Africa
+AND,2023,0.0,0.0,0.0,1.0,1.0,0.0,0.924709623,Andorra,Europe and Central Asia
+GNQ,2023,1.112831695,1.0,0.0,0.0,1.0,1.0,606.5697502,Equatorial Guinea,Sub-Saharan Africa
+MMR,2021,0.0,1.0,0.0,1.0,1.0,1.0,1615.366667,Myanmar,East Asia and Pacific
+MMR,2022,0.0,1.0,0.0,1.0,1.0,1.0,1932.543333,Myanmar,East Asia and Pacific
+MMR,2023,0.0,1.0,0.0,1.0,1.0,1.0,2100.0,Myanmar,East Asia and Pacific
+IND,2021,4.072757428,1.0,0.5,1.0,1.0,0.0,73.91801282,India,South Asia
+IND,2022,0.0,1.0,0.5,1.0,1.0,0.0,78.60449058,India,South Asia
+IND,2023,0.0,0.0,0.5,1.0,1.0,0.0,82.59927645,India,South Asia
+PHL,2023,0.0,1.0,0.5,1.0,1.0,1.0,55.63036322,Philippines,East Asia and Pacific
+SEN,2021,0.0,1.0,0.5,1.0,1.0,1.0,554.530675,Senegal,Sub-Saharan Africa
+SEN,2022,0.0,1.0,0.5,1.0,1.0,1.0,623.7597009,Senegal,Sub-Saharan Africa
+SEN,2023,0.0,1.0,0.5,1.0,1.0,1.0,606.5697502,Senegal,Sub-Saharan Africa
+UGA,2021,0.0,1.0,0.5,1.0,1.0,1.0,2922.13593225,Uganda,Sub-Saharan Africa
+UGA,2022,0.0,1.0,0.5,1.0,1.0,1.0,2922.13593225,Uganda,Sub-Saharan Africa
+ZAF,2021,5.114807641,1.0,0.5,1.0,1.0,1.0,14.77867821,South Africa,Sub-Saharan Africa
+ZAF,2022,4.775698226,1.0,0.5,1.0,1.0,1.0,16.35585348,South Africa,Sub-Saharan Africa
+ZAF,2023,4.413765745,1.0,0.5,1.0,1.0,1.0,18.45024418,South Africa,Sub-Saharan Africa
+ALB,2021,2.712734022,1.0,1.0,1.0,1.0,1.0,103.52,Albania,Europe and Central Asia
+ALB,2022,2.787183515,1.0,1.0,1.0,1.0,1.0,113.0416667,Albania,Europe and Central Asia
+ALB,2023,2.61383448,1.0,1.0,1.0,1.0,1.0,100.645,Albania,Europe and Central Asia
+ARE,2021,3.245981874,1.0,1.0,1.0,1.0,1.0,3.6725,United Arab Emirates,Middle East and North Africa
+ARE,2022,3.350978306,1.0,1.0,1.0,1.0,1.0,3.6725,United Arab Emirates,Middle East and North Africa
+ARE,2023,2.906840097,1.0,1.0,1.0,1.0,1.0,3.6725,United Arab Emirates,Middle East and North Africa
+AUS,2021,9.456492818,1.0,1.0,1.0,1.0,1.0,1.33122426,Australia,East Asia and Pacific
+AUS,2022,9.456492818,1.0,1.0,1.0,1.0,1.0,1.441664459,Australia,East Asia and Pacific
+AUS,2023,9.456492818,1.0,1.0,1.0,1.0,1.0,1.505191066,Australia,East Asia and Pacific
+AUT,2021,0.0,1.0,1.0,1.0,1.0,1.0,0.845494139,Austria,Europe and Central Asia
+AUT,2022,0.0,1.0,1.0,1.0,1.0,1.0,0.949623753,Austria,Europe and Central Asia
+AUT,2023,0.0,1.0,1.0,1.0,1.0,1.0,0.924839558,Austria,Europe and Central Asia
+AZE,2023,1.928451295,1.0,1.0,1.0,1.0,1.0,1.7,Azerbaijan,Europe and Central Asia
+BEL,2021,0.0,1.0,1.0,1.0,1.0,1.0,0.845494139,Belgium,Europe and Central Asia
+BEL,2022,0.0,1.0,1.0,1.0,1.0,1.0,0.949623753,Belgium,Europe and Central Asia
+BEL,2023,0.0,1.0,1.0,1.0,1.0,1.0,0.924839558,Belgium,Europe and Central Asia
+BFA,2023,0.0,1.0,1.0,1.0,1.0,1.0,606.5697502,Burkina Faso,Sub-Saharan Africa
+BGD,2021,5.106947118,1.0,1.0,1.0,1.0,1.0,85.08376325,Bangladesh,South Asia
+BGD,2022,7.378765473,1.0,1.0,1.0,1.0,1.0,91.74545444,Bangladesh,South Asia
+BGD,2023,9.456492818,1.0,1.0,1.0,1.0,1.0,106.3094843,Bangladesh,South Asia
+BGR,2021,1.94086052,1.0,1.0,1.0,1.0,1.0,1.653775,Bulgaria,Europe and Central Asia
+BGR,2022,1.870057415,1.0,1.0,1.0,1.0,1.0,1.860141667,Bulgaria,Europe and Central Asia
+BGR,2023,1.846579368,1.0,1.0,1.0,1.0,1.0,1.808966667,Bulgaria,Europe and Central Asia
+BHS,2021,3.591595933,1.0,1.0,1.0,1.0,1.0,1.0,"Bahamas, The",Latin America and the Caribbean
+BHS,2022,3.661841932,1.0,1.0,1.0,1.0,1.0,1.0,"Bahamas, The",Latin America and the Caribbean
+BHS,2023,0.0,1.0,1.0,1.0,1.0,1.0,1.0,"Bahamas, The",Latin America and the Caribbean
+BLR,2021,2.541250377,1.0,1.0,1.0,1.0,1.0,2.538675,Belarus,Europe and Central Asia
+BLR,2022,0.0,1.0,1.0,1.0,1.0,1.0,2.6261,Belarus,Europe and Central Asia
+BLR,2023,0.0,1.0,1.0,1.0,1.0,1.0,3.00735,Belarus,Europe and Central Asia
+BRA,2021,4.772219302,0.0,1.0,1.0,1.0,1.0,5.39440079,Brazil,Latin America and the Caribbean
+BRA,2022,6.299935139,0.0,1.0,1.0,1.0,1.0,5.163970291,Brazil,Latin America and the Caribbean
+BRA,2023,6.800402655,0.0,1.0,1.0,1.0,1.0,4.994379763,Brazil,Latin America and the Caribbean
+CAN,2021,0.0,1.0,1.0,1.0,1.0,1.0,1.253876902,Canada,North America
+CAN,2022,0.0,1.0,1.0,1.0,1.0,1.0,1.301554775,Canada,North America
+CAN,2023,0.0,1.0,1.0,1.0,1.0,1.0,1.349908641,Canada,North America
+CHE,2021,0.0,1.0,1.0,1.0,1.0,0.0,0.913845833,Switzerland,Europe and Central Asia
+CHE,2022,0.0,1.0,1.0,1.0,1.0,0.0,0.9548325,Switzerland,Europe and Central Asia
+CHE,2023,0.0,1.0,1.0,1.0,1.0,0.0,0.89849,Switzerland,Europe and Central Asia
+CHL,2021,5.767000904,1.0,1.0,1.0,1.0,1.0,758.9553787,Chile,Latin America and the Caribbean
+CHL,2022,6.821029538,1.0,1.0,1.0,1.0,1.0,873.3141895,Chile,Latin America and the Caribbean
+CHL,2023,6.134840525,1.0,1.0,1.0,1.0,1.0,840.0665267,Chile,Latin America and the Caribbean
+CYP,2021,0.0,1.0,1.0,1.0,1.0,1.0,0.845494139,Cyprus,Europe and Central Asia
+CYP,2022,0.0,1.0,1.0,1.0,1.0,1.0,0.949623753,Cyprus,Europe and Central Asia
+CYP,2023,0.0,1.0,1.0,1.0,1.0,1.0,0.924839558,Cyprus,Europe and Central Asia
+CZE,2021,1.490813799,1.0,1.0,1.0,1.0,1.0,21.67816667,Czechia,Europe and Central Asia
+CZE,2022,1.820924709,1.0,1.0,1.0,1.0,1.0,23.357,Czechia,Europe and Central Asia
+CZE,2023,1.983433605,1.0,1.0,1.0,1.0,1.0,22.19808333,Czechia,Europe and Central Asia
+DEU,2021,0.0,1.0,1.0,1.0,1.0,1.0,0.845494139,Germany,Europe and Central Asia
+DEU,2022,0.0,1.0,1.0,1.0,1.0,1.0,0.949623753,Germany,Europe and Central Asia
+DEU,2023,0.0,1.0,1.0,1.0,1.0,1.0,0.924839558,Germany,Europe and Central Asia
+DNK,2021,3.03250543,1.0,1.0,1.0,1.0,1.0,6.287113083,Denmark,Europe and Central Asia
+DNK,2022,2.532903835,1.0,1.0,1.0,1.0,1.0,7.076151863,Denmark,Europe and Central Asia
+DNK,2023,2.395145197,1.0,1.0,1.0,1.0,1.0,6.889702586,Denmark,Europe and Central Asia
+ESP,2021,0.0,1.0,1.0,1.0,1.0,1.0,0.845494139,Spain,Europe and Central Asia
+ESP,2022,0.0,1.0,1.0,1.0,1.0,1.0,0.949623753,Spain,Europe and Central Asia
+ESP,2023,0.0,1.0,1.0,1.0,1.0,1.0,0.924839558,Spain,Europe and Central Asia
+EST,2021,0.0,1.0,1.0,1.0,1.0,1.0,0.845494139,Estonia,Europe and Central Asia
+EST,2022,0.0,1.0,1.0,1.0,1.0,1.0,0.949623753,Estonia,Europe and Central Asia
+EST,2023,0.0,1.0,1.0,1.0,1.0,1.0,0.924839558,Estonia,Europe and Central Asia
+FIN,2021,0.0,1.0,1.0,1.0,1.0,1.0,0.845494139,Finland,Europe and Central Asia
+FIN,2022,0.0,1.0,1.0,1.0,1.0,1.0,0.949623753,Finland,Europe and Central Asia
+FIN,2023,0.0,1.0,1.0,1.0,1.0,1.0,0.924839558,Finland,Europe and Central Asia
+FRA,2021,0.0,1.0,1.0,1.0,1.0,1.0,0.845494139,France,Europe and Central Asia
+FRA,2022,0.0,1.0,1.0,1.0,1.0,1.0,0.949623753,France,Europe and Central Asia
+FRA,2023,0.0,1.0,1.0,1.0,1.0,1.0,0.924839558,France,Europe and Central Asia
+GBR,2021,9.456492818,1.0,1.0,1.0,1.0,0.0,0.727064945,United Kingdom,Europe and Central Asia
+GBR,2022,9.456492818,1.0,1.0,1.0,1.0,0.0,0.811301716,United Kingdom,Europe and Central Asia
+GBR,2023,9.456492818,1.0,1.0,1.0,1.0,0.0,0.804538907,United Kingdom,Europe and Central Asia
+GRC,2021,0.0,1.0,1.0,1.0,1.0,1.0,0.845494139,Greece,Europe and Central Asia
+GRC,2022,0.0,1.0,1.0,1.0,1.0,1.0,0.949623753,Greece,Europe and Central Asia
+GRC,2023,0.0,1.0,1.0,1.0,1.0,1.0,0.924839558,Greece,Europe and Central Asia
+GTM,2021,2.512439147,1.0,1.0,1.0,1.0,1.0,7.734388333,Guatemala,Latin America and the Caribbean
+GTM,2022,2.752063326,1.0,1.0,1.0,1.0,1.0,7.74824375,Guatemala,Latin America and the Caribbean
+GTM,2023,2.766180945,1.0,1.0,1.0,1.0,1.0,7.831974167,Guatemala,Latin America and the Caribbean
+HUN,2021,3.017399266,1.0,1.0,1.0,1.0,1.0,303.1408333,Hungary,Europe and Central Asia
+HUN,2022,2.808863568,1.0,1.0,1.0,1.0,1.0,372.5958333,Hungary,Europe and Central Asia
+HUN,2023,2.768990111,1.0,1.0,1.0,1.0,1.0,353.0883333,Hungary,Europe and Central Asia
+IDN,2021,3.795986246,0.0,1.0,1.0,1.0,1.0,2922.13593225,Indonesia,East Asia and Pacific
+IDN,2022,4.185056001,0.0,1.0,1.0,1.0,1.0,2922.13593225,Indonesia,East Asia and Pacific
+IDN,2023,3.957987879,0.0,1.0,1.0,1.0,1.0,2922.13593225,Indonesia,East Asia and Pacific
+IRL,2021,0.0,1.0,1.0,1.0,1.0,1.0,0.845494139,Ireland,Europe and Central Asia
+IRL,2022,0.0,1.0,1.0,1.0,1.0,1.0,0.949623753,Ireland,Europe and Central Asia
+IRL,2023,0.0,1.0,1.0,1.0,1.0,1.0,0.924839558,Ireland,Europe and Central Asia
+ISL,2021,2.605994671,1.0,1.0,1.0,1.0,1.0,126.9888602,Iceland,Europe and Central Asia
+ISL,2022,3.202160866,1.0,1.0,1.0,1.0,1.0,135.279902,Iceland,Europe and Central Asia
+ISL,2023,3.447722136,1.0,1.0,1.0,1.0,1.0,137.9429524,Iceland,Europe and Central Asia
+ISR,2021,2.498899483,1.0,1.0,1.0,1.0,1.0,3.230198323,Israel,Middle East and North Africa
+ISR,2022,2.791629965,1.0,1.0,1.0,1.0,1.0,3.359614402,Israel,Middle East and North Africa
+ISR,2023,2.53934082,1.0,1.0,1.0,1.0,1.0,3.667374716,Israel,Middle East and North Africa
+ITA,2021,0.0,1.0,1.0,1.0,1.0,1.0,0.845494139,Italy,Europe and Central Asia
+ITA,2022,0.0,1.0,1.0,1.0,1.0,1.0,0.949623753,Italy,Europe and Central Asia
+ITA,2023,0.0,1.0,1.0,1.0,1.0,1.0,0.924839558,Italy,Europe and Central Asia
+JPN,2021,9.456492818,1.0,1.0,1.0,1.0,1.0,109.7543238,Japan,East Asia and Pacific
+JPN,2022,9.456492818,1.0,1.0,1.0,1.0,1.0,131.4981404,Japan,East Asia and Pacific
+JPN,2023,8.949061357,1.0,1.0,1.0,1.0,1.0,140.4911001,Japan,East Asia and Pacific
+KOR,2021,6.818645963,1.0,1.0,1.0,1.0,1.0,1143.951667,"Korea, Rep.",East Asia and Pacific
+KOR,2022,6.873715313,1.0,1.0,1.0,1.0,1.0,1291.446667,"Korea, Rep.",East Asia and Pacific
+KOR,2023,7.104449647,1.0,1.0,1.0,1.0,1.0,1305.6625,"Korea, Rep.",East Asia and Pacific
+LTU,2021,0.0,1.0,1.0,1.0,1.0,1.0,0.845494139,Lithuania,Europe and Central Asia
+LTU,2022,0.0,1.0,1.0,1.0,1.0,1.0,0.949623753,Lithuania,Europe and Central Asia
+LTU,2023,0.0,1.0,1.0,1.0,1.0,1.0,0.924839558,Lithuania,Europe and Central Asia
+LUX,2021,0.0,1.0,1.0,1.0,1.0,1.0,0.845494139,Luxembourg,Europe and Central Asia
+LUX,2022,0.0,1.0,1.0,1.0,1.0,1.0,0.949623753,Luxembourg,Europe and Central Asia
+LUX,2023,0.0,1.0,1.0,1.0,1.0,1.0,0.924839558,Luxembourg,Europe and Central Asia
+LVA,2021,0.0,1.0,1.0,1.0,1.0,1.0,0.845494139,Latvia,Europe and Central Asia
+LVA,2022,0.0,1.0,1.0,1.0,1.0,1.0,0.949623753,Latvia,Europe and Central Asia
+LVA,2023,0.0,1.0,1.0,1.0,1.0,1.0,0.924839558,Latvia,Europe and Central Asia
+MEX,2023,3.592100786,1.0,1.0,1.0,1.0,1.0,17.75871667,Mexico,Latin America and the Caribbean
+MKD,2023,1.853235781,1.0,1.0,1.0,1.0,1.0,56.94719167,North Macedonia,Europe and Central Asia
+MLT,2021,0.0,0.0,1.0,1.0,1.0,1.0,0.845494139,Malta,Middle East and North Africa
+MLT,2022,0.0,0.0,1.0,1.0,1.0,1.0,0.949623753,Malta,Middle East and North Africa
+MLT,2023,0.0,1.0,1.0,1.0,1.0,1.0,0.924839558,Malta,Middle East and North Africa
+MYS,2023,4.36614516,1.0,1.0,1.0,1.0,1.0,4.560623432,Malaysia,East Asia and Pacific
+NLD,2021,0.0,1.0,1.0,1.0,1.0,1.0,0.845494139,Netherlands,Europe and Central Asia
+NLD,2022,0.0,1.0,1.0,1.0,1.0,1.0,0.949623753,Netherlands,Europe and Central Asia
+NLD,2023,0.0,1.0,1.0,1.0,1.0,1.0,0.924839558,Netherlands,Europe and Central Asia
+NOR,2021,4.022178092,1.0,1.0,1.0,1.0,1.0,8.59,Norway,Europe and Central Asia
+NOR,2022,4.434721631,1.0,1.0,1.0,1.0,1.0,9.614166667,Norway,Europe and Central Asia
+NOR,2023,3.631429564,1.0,1.0,1.0,1.0,1.0,10.56333333,Norway,Europe and Central Asia
+NZL,2021,9.456492818,1.0,1.0,1.0,1.0,1.0,1.4138,New Zealand,East Asia and Pacific
+NZL,2022,9.456492818,1.0,1.0,1.0,1.0,1.0,1.577183333,New Zealand,East Asia and Pacific
+NZL,2023,9.456492818,1.0,1.0,1.0,1.0,1.0,1.628433333,New Zealand,East Asia and Pacific
+PLW,2021,0.0,1.0,1.0,0.0,1.0,0.0,1.0,Palau,East Asia and Pacific
+PLW,2022,0.0,1.0,1.0,0.0,1.0,0.0,1.0,Palau,East Asia and Pacific
+PLW,2023,0.0,1.0,1.0,1.0,1.0,0.0,1.0,Palau,East Asia and Pacific
+POL,2021,3.095496364,1.0,1.0,1.0,1.0,1.0,3.861916667,Poland,Europe and Central Asia
+POL,2022,2.811724884,1.0,1.0,1.0,1.0,1.0,4.457758333,Poland,Europe and Central Asia
+POL,2023,2.783297509,1.0,1.0,1.0,1.0,1.0,4.203666667,Poland,Europe and Central Asia
+PRT,2021,0.0,1.0,1.0,1.0,1.0,1.0,0.845494139,Portugal,Europe and Central Asia
+PRT,2022,0.0,1.0,1.0,1.0,1.0,1.0,0.949623753,Portugal,Europe and Central Asia
+PRT,2023,0.0,1.0,1.0,1.0,1.0,1.0,0.924839558,Portugal,Europe and Central Asia
+ROU,2021,2.614695345,0.0,1.0,1.0,1.0,1.0,4.160416667,Romania,Europe and Central Asia
+ROU,2022,2.304639985,0.0,1.0,1.0,1.0,1.0,4.688475,Romania,Europe and Central Asia
+ROU,2023,1.995635303,0.0,1.0,1.0,1.0,1.0,4.574291667,Romania,Europe and Central Asia
+RUS,2021,0.0,1.0,1.0,1.0,1.0,1.0,73.65435,Russian Federation,Europe and Central Asia
+RUS,2022,0.0,1.0,1.0,1.0,1.0,1.0,68.48494167,Russian Federation,Europe and Central Asia
+RUS,2023,0.0,1.0,1.0,1.0,1.0,1.0,85.16200833,Russian Federation,Europe and Central Asia
+SAU,2021,0.0,1.0,1.0,0.0,1.0,0.0,3.75,Saudi Arabia,Middle East and North Africa
+SAU,2022,0.0,1.0,1.0,0.0,1.0,0.0,3.75,Saudi Arabia,Middle East and North Africa
+SAU,2023,0.0,1.0,1.0,1.0,1.0,1.0,3.75,Saudi Arabia,Middle East and North Africa
+SGP,2021,0.0,1.0,1.0,1.0,1.0,0.0,1.343483333,Singapore,East Asia and Pacific
+SGP,2022,0.0,1.0,1.0,1.0,1.0,0.0,1.378666667,Singapore,East Asia and Pacific
+SGP,2023,0.0,1.0,1.0,1.0,1.0,0.0,1.342766667,Singapore,East Asia and Pacific
+SVK,2021,0.0,1.0,1.0,1.0,1.0,1.0,0.845494139,Slovak Republic,Europe and Central Asia
+SVK,2022,0.0,1.0,1.0,1.0,1.0,1.0,0.949623753,Slovak Republic,Europe and Central Asia
+SVK,2023,0.0,1.0,1.0,1.0,1.0,1.0,0.924839558,Slovak Republic,Europe and Central Asia
+SVN,2021,0.0,1.0,1.0,1.0,1.0,1.0,0.845494139,Slovenia,Europe and Central Asia
+SVN,2022,0.0,1.0,1.0,1.0,1.0,1.0,0.949623753,Slovenia,Europe and Central Asia
+SVN,2023,0.0,1.0,1.0,1.0,1.0,1.0,0.924839558,Slovenia,Europe and Central Asia
+SWE,2021,9.171945576,1.0,1.0,1.0,1.0,1.0,8.576566716,Sweden,Europe and Central Asia
+SWE,2022,7.710143243,1.0,1.0,1.0,1.0,1.0,10.11425128,Sweden,Europe and Central Asia
+SWE,2023,7.66473234,1.0,1.0,1.0,1.0,1.0,10.6101613,Sweden,Europe and Central Asia
+THA,2021,3.058483664,1.0,1.0,1.0,1.0,1.0,31.97709344,Thailand,East Asia and Pacific
+THA,2022,3.292690187,1.0,1.0,1.0,1.0,1.0,35.06135021,Thailand,East Asia and Pacific
+THA,2023,3.261839521,1.0,1.0,1.0,1.0,1.0,34.80218858,Thailand,East Asia and Pacific
+TUR,2021,5.359648497,1.0,1.0,1.0,1.0,1.0,8.850407549,Turkiye,Europe and Central Asia
+TUR,2022,4.068467711,1.0,1.0,1.0,1.0,1.0,16.54886042,Turkiye,Europe and Central Asia
+TUR,2023,4.233905957,1.0,1.0,1.0,1.0,1.0,23.73856612,Turkiye,Europe and Central Asia
+UGA,2023,0.0,1.0,1.0,1.0,1.0,1.0,2922.13593225,Uganda,Sub-Saharan Africa
+UKR,2021,2.45141997,1.0,1.0,1.0,1.0,1.0,27.28618938,Ukraine,Europe and Central Asia
+UKR,2022,2.713409953,1.0,1.0,1.0,1.0,1.0,32.3423016,Ukraine,Europe and Central Asia
+UKR,2023,2.076921479,1.0,1.0,1.0,1.0,1.0,36.57380812,Ukraine,Europe and Central Asia
+URY,2023,2.452802726,1.0,1.0,1.0,1.0,1.0,38.82391667,Uruguay,Latin America and the Caribbean
+USA,2021,9.456492818,1.0,1.0,1.0,1.0,1.0,1.0,United States,North America
+USA,2022,9.456492818,1.0,1.0,1.0,1.0,1.0,1.0,United States,North America
+USA,2023,9.456492818,1.0,1.0,1.0,1.0,1.0,1.0,United States,North America
+UZB,2021,0.387020952,1.0,1.0,1.0,1.0,1.0,2922.13593225,Uzbekistan,Europe and Central Asia
+UZB,2022,0.478324137,1.0,1.0,1.0,1.0,1.0,2922.13593225,Uzbekistan,Europe and Central Asia
+UZB,2023,0.522989408,1.0,1.0,1.0,1.0,1.0,2922.13593225,Uzbekistan,Europe and Central Asia
+XKX,2021,4.198040432,1.0,1.0,1.0,1.0,1.0,0.845376564,Kosovo,Europe and Central Asia
+XKX,2022,4.156491905,1.0,1.0,1.0,1.0,1.0,0.950915534,Kosovo,Europe and Central Asia
+XKX,2023,4.765139565,1.0,1.0,1.0,1.0,1.0,0.924709623,Kosovo,Europe and Central Asia

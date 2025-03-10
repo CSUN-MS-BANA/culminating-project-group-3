@@ -1,0 +1,43 @@
+INSERT INTO social_indicators (
+    country_code, 
+    year, 
+    LifeExpectancy_Female, 
+    LifeExpectancy_Male, 
+    LifeExpectancy_Total, 
+    LiteracyRate_AdultTotal, 
+    LiteracyRate_YouthTotal, 
+    Multidim_PovertyHeadcountRatio_UNDP, 
+    Multidim_PovertyHeadcountRatio_WorldBank, 
+    Water_BasicDrinkingServices_PercentofPop, 
+    Water_SafelyManagedDrinkingServices_PercentofPop, 
+    Water_BasicHandwashing_PercentofPop, 
+    Poverty_HeadcountRatio_NationalPovertyLines_Percent, 
+    Poverty_HeadcountRatio_SocietalPovertyLines_Percent, 
+    Unemployment_AdvancedEducation_Percent, 
+    Unemployment_BasicEducation_Percent, 
+    Unemployment_IntermediateEducation_Percent, 
+    Unemployment_Total_Percent, 
+    Unemployment_YouthTotal_Percent
+)
+SELECT 
+    country_code, 
+    year,
+    MAX(CASE WHEN series_name = 'Life expectancy at birth, female (years)' THEN value END) AS LifeExpectancy_Female,
+    MAX(CASE WHEN series_name = 'Life expectancy at birth, male (years)' THEN value END) AS LifeExpectancy_Male,
+    MAX(CASE WHEN series_name = 'Life expectancy at birth, total (years)' THEN value END) AS LifeExpectancy_Total,
+    MAX(CASE WHEN series_name = 'Literacy rate, adult total (% of people ages 15 and above)' THEN value END) AS LiteracyRate_AdultTotal,
+    MAX(CASE WHEN series_name = 'Literacy rate, youth total (% of people ages 15-24)' THEN value END) AS LiteracyRate_YouthTotal,
+    MAX(CASE WHEN series_name = 'Multidimensional poverty headcount ratio (UNDP) (% of population)' THEN value END) AS Multidim_PovertyHeadcountRatio_UNDP,
+    MAX(CASE WHEN series_name = 'Multidimensional poverty headcount ratio (World Bank) (% of population)' THEN value END) AS Multidim_PovertyHeadcountRatio_WorldBank,
+    MAX(CASE WHEN series_name = 'People using at least basic drinking water services (% of population)' THEN value END) AS Water_BasicDrinkingServices_PercentofPop,
+    MAX(CASE WHEN series_name = 'People using safely managed drinking water services (% of population)' THEN value END) AS Water_SafelyManagedDrinkingServices_PercentofPop,
+    MAX(CASE WHEN series_name = 'People with basic handwashing facilities including soap and water (% of population)' THEN value END) AS Water_BasicHandwashing_PercentofPop,
+    MAX(CASE WHEN series_name = 'Poverty headcount ratio at national poverty lines (% of population)' THEN value END) AS Poverty_HeadcountRatio_NationalPovertyLines_Percent,
+    MAX(CASE WHEN series_name = 'Poverty headcount ratio at societal poverty line (% of population)' THEN value END) AS Poverty_HeadcountRatio_SocietalPovertyLines_Percent,
+    MAX(CASE WHEN series_name = 'Unemployment with advanced education (% of total labor force with advanced education)' THEN value END) AS Unemployment_AdvancedEducation_Percent,
+    MAX(CASE WHEN series_name = 'Unemployment with basic education (% of total labor force with basic education)' THEN value END) AS Unemployment_BasicEducation_Percent,
+    MAX(CASE WHEN series_name = 'Unemployment with intermediate education (% of total labor force with intermediate education)' THEN value END) AS Unemployment_IntermediateEducation_Percent,
+    MAX(CASE WHEN series_name = 'Unemployment, total (% of total labor force) (national estimate)' THEN value END) AS Unemployment_Total_Percent,
+    MAX(CASE WHEN series_name = 'Unemployment, youth total (% of total labor force ages 15-24) (national estimate)' THEN value END) AS Unemployment_YouthTotal_Percent
+FROM temp_social_indicators
+GROUP BY country_code, year;

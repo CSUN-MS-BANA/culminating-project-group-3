@@ -1,0 +1,40 @@
+
+
+**Master's in Business Analytics – Culminating Project**  
+**Group 3**  
+**Week of:** March 3, 2025  
+
+### 1. Group Lead for the Week
+📌 **Lead Member Name:** Ashley Cortez
+
+---
+
+### 2. Individual Contributions
+| **Student Name**  | **Time Spent (hrs)** | **Tasks Completed** | **Challenges Faced** |
+|----------|----------|----------|----------|
+| Jessica Becerra |  | | |
+| Ashley Cortez | | | |
+| Robert Pimentel | | | |
+| Angelica Verduzco | | | |
+---
+
+### 3. Key Achievements for the Week
+
+📌 Data Cleaning and Preprocessing
+  - [x] Define 7 Objectives
+  - [x] Create 6-7 research questions per objective
+
+  
+
+---
+
+### 4. Pending Tasks for Next Week
+📌 Research Questions & Analysis Methods
+  - Initial Abstract Drafts
+
+---
+
+### 5. GitHub Submission Details
+🔗 **GitHub Repository Link:** (https://github.com/CSUN-MS-BANA/culminating-project-group-3)  
+📁 **Files Updated/Added:**  
+-  [Research Question](https://github.com/CSUN-MS-BANA/culminating-project-group-3/blob/main/Week%205-6%20Deliverables/Group%203%20-%20Objectives%20and%20Research%20Questions.pdf)  
