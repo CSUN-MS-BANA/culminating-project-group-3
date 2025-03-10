@@ -14,7 +14,7 @@
 |----------|----------|----------|----------|
 | Jessica Becerra |  | -created 2 research objectives to propose to the team, each with 7 research questions. |The main challenge I faced was formulating relevant questions that also weren't redundant of my other teammates questions.|
 | Ashley Cortez | | | |
-| Robert Pimentel | | | |
+| Robert Pimentel | |- created 2 research objectives - created 7 research questions for each objective | Main challenge faced was making sure questions fit the parameters of our data and also that there were no duplicate questions with my other team members |
 | Angelica Verduzco | |- created 2 objective research proposals -created 7 research questions per objective |The main challenge I faced was developong research questions that aligned with the objevtive while ensuring they were distinct from each other |
 ---
 
