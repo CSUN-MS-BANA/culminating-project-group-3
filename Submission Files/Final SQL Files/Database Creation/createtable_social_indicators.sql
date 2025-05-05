@@ -1,0 +1,21 @@
+CREATE TABLE social_indicators (
+    country_code TEXT,
+    year INTEGER,
+    LifeExpectancy_Female REAL,
+    LifeExpectancy_Male REAL,
+    LifeExpectancy_Total REAL,
+    LiteracyRate_AdultTotal REAL,
+    LiteracyRate_YouthTotal REAL,
+    Multidim_PovertyHeadcountRatio_UNDP REAL,
+    Multidim_PovertyHeadcountRatio_WorldBank REAL,
+    Water_BasicDrinkingServices_PercentofPop REAL,
+    Water_SafelyManagedDrinkingServices_PercentofPop REAL,
+    Water_BasicHandwashing_PercentofPop REAL,
+    Poverty_HeadcountRatio_NationalPovertyLines_Percent REAL,
+    Poverty_HeadcountRatio_SocietalPovertyLines_Percent REAL,
+    Unemployment_AdvancedEducation_Percent REAL,
+    Unemployment_BasicEducation_Percent REAL,
+    Unemployment_IntermediateEducation_Percent REAL,
+    Unemployment_Total_Percent REAL,
+    Unemployment_YouthTotal_Percent REAL
+);

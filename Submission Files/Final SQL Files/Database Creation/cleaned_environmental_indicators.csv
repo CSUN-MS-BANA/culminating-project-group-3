@@ -1,0 +1,1086 @@
+country_code,year,ElectricityAccess_PercentofPopulation,CO2Emissions_Agriculture,CO2Emissions_TransportEnergy,CO2Emissions_Waste,ForestArea_PercentofLand,RenewableEnergy_Consumption_Percent,GreenhouseGasEmissions_TotalperCapita,country_name,Region
+ABW,2019,100.0,,0.2064,,2.333333333,8.3,5.393624717,Aruba,Latin America and the Caribbean
+ABW,2020,100.0,,0.1537,,2.333333333,9.1,4.440678903,Aruba,Latin America and the Caribbean
+ABW,2021,100.0,,0.1706,,2.333333333,8.8,4.932219127,Aruba,Latin America and the Caribbean
+ABW,2022,99.9,,0.1749,,2.333333333,8.8,4.972509552,Aruba,Latin America and the Caribbean
+ABW,2023,,,0.1864,,,,5.23011578,Aruba,Latin America and the Caribbean
+AFG,2019,97.7,0.1513,1.8897,,1.852781994,18.9,2.016176317,Afghanistan,South Asia
+AFG,2020,97.7,0.0648,1.9661,,1.852781994,18.2,2.016176317,Afghanistan,South Asia
+AFG,2021,97.7,0.0467,2.1142,,1.852781994,20.0,2.016176317,Afghanistan,South Asia
+AFG,2022,85.3,0.0236,2.2472,,1.852781994,20.0,2.016176317,Afghanistan,South Asia
+AFG,2023,,0.0151,2.3412,,,,2.016176317,Afghanistan,South Asia
+AGO,2019,45.6,,7.9339,,53.87217454,51.0,2.159364796,Angola,Sub-Saharan Africa
+AGO,2020,47.0,,3.8998,,53.42695115,60.1,1.595551571,Angola,Sub-Saharan Africa
+AGO,2021,48.2,,7.09,,52.98172239,52.9,1.595551571,Angola,Sub-Saharan Africa
+AGO,2022,48.5,,8.1334,,52.53649723,,1.595551571,Angola,Sub-Saharan Africa
+AGO,2023,,,8.4967,,,,1.595551571,Angola,Sub-Saharan Africa
+ALB,2019,100.0,0.0664,2.1869,0.0027,28.7919708,40.1,3.01962973,Albania,Europe and Central Asia
+ALB,2020,100.0,0.0606,1.5325,0.0028,28.7919708,44.4,2.807548957,Albania,Europe and Central Asia
+ALB,2021,100.0,0.0483,1.7487,0.0028,28.7919708,41.9,2.985880969,Albania,Europe and Central Asia
+ALB,2022,100.0,0.0485,1.6681,0.0029,28.7919708,,2.812409885,Albania,Europe and Central Asia
+ALB,2023,,0.049,1.6819,0.0029,,,2.794529587,Albania,Europe and Central Asia
+AND,2019,100.0,,,,34.04255319,17.2,,Andorra,Europe and Central Asia
+AND,2020,100.0,,,,34.04255319,20.9,,Andorra,Europe and Central Asia
+AND,2021,100.0,,,,34.04255319,18.4,,Andorra,Europe and Central Asia
+AND,2022,100.0,,,,34.04255319,18.7,,Andorra,Europe and Central Asia
+AND,2023,,,,,,,,Andorra,Europe and Central Asia
+ARE,2019,100.0,,35.7784,,4.467755562,0.7,6.836153903,United Arab Emirates,Middle East and North Africa
+ARE,2020,100.0,,30.7091,,4.467755562,0.9,6.836153903,United Arab Emirates,Middle East and North Africa
+ARE,2021,100.0,,36.2537,,4.467755562,1.0,6.836153903,United Arab Emirates,Middle East and North Africa
+ARE,2022,100.0,,42.0724,,4.467755562,,6.836153903,United Arab Emirates,Middle East and North Africa
+ARE,2023,,,43.3677,,,,6.836153903,United Arab Emirates,Middle East and North Africa
+ARG,2019,100.0,1.7031,47.4694,0.0115,10.48017861,10.7,8.025314483,Argentina,Latin America and the Caribbean
+ARG,2020,100.0,1.9255,37.7662,0.0116,10.44071488,9.8,7.68526883,Argentina,Latin America and the Caribbean
+ARG,2021,100.0,2.1242,46.9494,0.0117,10.40076395,9.2,8.1128999,Argentina,Latin America and the Caribbean
+ARG,2022,100.0,2.2706,49.2634,0.0118,10.3611378,,8.253217325,Argentina,Latin America and the Caribbean
+ARG,2023,,2.4059,47.4454,0.012,,,8.030246824,Argentina,Latin America and the Caribbean
+ARM,2019,100.0,0.061,2.0588,,11.54478398,10.3,3.197130802,Armenia,Europe and Central Asia
+ARM,2020,100.0,0.0558,2.261,,11.5374078,8.4,3.374506162,Armenia,Europe and Central Asia
+ARM,2021,100.0,0.0446,2.3661,,11.53003161,9.1,3.602403538,Armenia,Europe and Central Asia
+ARM,2022,100.0,0.0449,2.3845,,11.52265543,,3.490670888,Armenia,Europe and Central Asia
+ARM,2023,,0.0452,2.4744,,,,3.62309004,Armenia,Europe and Central Asia
+ASM,2019,,,,,85.8,0.4,3.680158417,American Samoa,East Asia and Pacific
+ASM,2020,,,,,85.65,0.4,3.680158417,American Samoa,East Asia and Pacific
+ASM,2021,,,,,85.5,0.4,3.680158417,American Samoa,East Asia and Pacific
+ASM,2022,,,,,85.35,0.4,3.680158417,American Samoa,East Asia and Pacific
+ASM,2023,,,,,,,3.680158417,American Samoa,East Asia and Pacific
+ATG,2019,100.0,,0.1258,,18.59090909,0.7,4.456897684,Antigua and Barbuda,Latin America and the Caribbean
+ATG,2020,100.0,,0.0937,,18.45454545,0.9,3.716002874,Antigua and Barbuda,Latin America and the Caribbean
+ATG,2021,100.0,,0.104,,18.30295455,0.9,4.017368894,Antigua and Barbuda,Latin America and the Caribbean
+ATG,2022,100.0,,0.1066,,18.16159091,0.9,4.010124946,Antigua and Barbuda,Latin America and the Caribbean
+ATG,2023,,,0.1136,,,,4.164344807,Antigua and Barbuda,Latin America and the Caribbean
+AUS,2019,100.0,2.2902,97.0408,0.0156,17.42131456,10.3,3.680158417,Australia,East Asia and Pacific
+AUS,2020,100.0,2.6643,90.5044,0.0158,17.42131456,11.2,3.680158417,Australia,East Asia and Pacific
+AUS,2021,100.0,3.2157,87.607,0.0157,17.42131456,12.3,3.680158417,Australia,East Asia and Pacific
+AUS,2022,100.0,3.3159,89.2178,0.0158,17.42131456,,3.680158417,Australia,East Asia and Pacific
+AUS,2023,,3.4267,95.6792,0.0158,,,3.680158417,Australia,East Asia and Pacific
+AUT,2019,100.0,0.0529,24.8298,0.0008,47.10373243,34.0,9.398440526,Austria,Europe and Central Asia
+AUT,2020,100.0,0.0502,21.672,0.0008,47.13790596,35.8,8.665983915,Austria,Europe and Central Asia
+AUT,2021,100.0,0.0449,22.334,0.0008,47.1720795,36.0,9.013625476,Austria,Europe and Central Asia
+AUT,2022,100.0,0.042,21.1922,0.0008,47.20613185,,8.339940572,Austria,Europe and Central Asia
+AUT,2023,,0.0399,21.1419,0.0008,,,7.985480566,Austria,Europe and Central Asia
+AZE,2019,100.0,0.2413,8.4188,0.0023,13.55336705,1.7,5.624372337,Azerbaijan,Europe and Central Asia
+AZE,2020,100.0,0.2612,6.8511,0.0023,13.69418968,1.3,5.421960165,Azerbaijan,Europe and Central Asia
+AZE,2021,100.0,0.1326,7.6891,0.0024,13.83299093,1.3,5.621188133,Azerbaijan,Europe and Central Asia
+AZE,2022,100.0,0.1363,8.0685,0.0024,13.97248155,,5.820126219,Azerbaijan,Europe and Central Asia
+AZE,2023,,0.1408,8.3202,0.0024,,,6.160188963,Azerbaijan,Europe and Central Asia
+BDI,2019,9.8,,0.4008,,10.8894081,84.8,1.595551571,Burundi,Sub-Saharan Africa
+BDI,2020,9.1,,0.4257,,10.8894081,83.4,1.595551571,Burundi,Sub-Saharan Africa
+BDI,2021,10.2,,0.4338,,10.8894081,83.1,1.595551571,Burundi,Sub-Saharan Africa
+BDI,2022,10.3,,0.4056,,10.8894081,83.0,1.595551571,Burundi,Sub-Saharan Africa
+BDI,2023,,,0.4063,,,,1.595551571,Burundi,Sub-Saharan Africa
+BEL,2019,100.0,0.0403,24.9597,0.0028,22.60444678,10.2,10.76804033,Belgium,Europe and Central Asia
+BEL,2020,100.0,0.0403,20.7636,0.0016,22.60444678,12.3,10.03741007,Belgium,Europe and Central Asia
+BEL,2021,100.0,0.0365,22.9232,0.0026,22.60444678,11.7,10.33580912,Belgium,Europe and Central Asia
+BEL,2022,100.0,0.0361,23.1126,0.0024,22.60444678,,9.612815181,Belgium,Europe and Central Asia
+BEL,2023,,0.0296,21.9509,0.0023,,,9.024041981,Belgium,Europe and Central Asia
+BEN,2019,40.0,,5.9106,0.0004,28.24716211,46.5,1.595551571,Benin,Sub-Saharan Africa
+BEN,2020,41.0,,6.1707,0.0004,27.80374246,46.2,1.595551571,Benin,Sub-Saharan Africa
+BEN,2021,42.0,,4.239,0.0004,27.36032281,54.5,1.595551571,Benin,Sub-Saharan Africa
+BEN,2022,56.5,,4.4149,0.0004,26.91690316,,1.595551571,Benin,Sub-Saharan Africa
+BEN,2023,,,4.2779,0.0004,,,1.595551571,Benin,Sub-Saharan Africa
+BFA,2019,17.6,,2.4769,,22.90350877,72.7,1.595551571,Burkina Faso,Sub-Saharan Africa
+BFA,2020,18.5,,2.6308,,22.72076023,73.1,1.595551571,Burkina Faso,Sub-Saharan Africa
+BFA,2021,19.0,,2.6805,,22.5380117,71.2,1.595551571,Burkina Faso,Sub-Saharan Africa
+BFA,2022,19.5,,2.8069,,22.35526316,71.4,1.595551571,Burkina Faso,Sub-Saharan Africa
+BFA,2023,,,2.7255,,,,1.595551571,Burkina Faso,Sub-Saharan Africa
+BGD,2019,92.2,2.1905,11.7676,,14.46877161,26.1,2.016176317,Bangladesh,South Asia
+BGD,2020,96.2,2.3225,10.4308,,14.46877161,27.2,2.016176317,Bangladesh,South Asia
+BGD,2021,99.0,2.5674,11.6004,,14.46877161,25.0,2.016176317,Bangladesh,South Asia
+BGD,2022,99.4,2.6875,13.26,,14.46877161,,2.016176317,Bangladesh,South Asia
+BGD,2023,,2.8182,11.649,,,,2.016176317,Bangladesh,South Asia
+BGR,2019,99.2,0.8432,9.508,0.0072,35.74060427,19.3,8.375659659,Bulgaria,Europe and Central Asia
+BGR,2020,99.7,0.8721,8.9357,0.0718,35.86035372,21.1,7.725091451,Bulgaria,Europe and Central Asia
+BGR,2021,99.8,0.8412,9.6151,0.0025,35.98010317,20.4,8.728139449,Bulgaria,Europe and Central Asia
+BGR,2022,100.0,0.7964,9.5364,0.0016,36.09985262,,9.668744141,Bulgaria,Europe and Central Asia
+BGR,2023,,0.7915,9.4078,0.0013,,,8.279144528,Bulgaria,Europe and Central Asia
+BHR,2019,100.0,,3.7402,,0.871794872,0.0,6.836153903,Bahrain,Middle East and North Africa
+BHR,2020,100.0,,3.2941,,0.891719745,0.0,6.836153903,Bahrain,Middle East and North Africa
+BHR,2021,100.0,,3.5027,,0.911392405,0.0,6.836153903,Bahrain,Middle East and North Africa
+BHR,2022,100.0,,3.5086,,0.936708861,,6.836153903,Bahrain,Middle East and North Africa
+BHR,2023,,,3.5207,,,,6.836153903,Bahrain,Middle East and North Africa
+BHS,2019,100.0,,0.6549,0.0009,50.93506494,1.1,5.394058402,"Bahamas, The",Latin America and the Caribbean
+BHS,2020,100.0,,0.4878,0.0009,50.93506494,1.4,4.524292495,"Bahamas, The",Latin America and the Caribbean
+BHS,2021,100.0,,0.5414,0.0009,50.93506494,1.1,4.916581099,"Bahamas, The",Latin America and the Caribbean
+BHS,2022,100.0,,0.5551,0.001,50.93506494,1.1,4.924057574,"Bahamas, The",Latin America and the Caribbean
+BHS,2023,,,0.5914,0.001,,,5.132936111,"Bahamas, The",Latin America and the Caribbean
+BIH,2019,100.0,0.0173,4.0147,0.0037,42.73261719,36.8,9.124345807,Bosnia and Herzegovina,Europe and Central Asia
+BIH,2020,100.0,0.0201,3.6363,0.0038,42.73261719,37.7,9.227517307,Bosnia and Herzegovina,Europe and Central Asia
+BIH,2021,100.0,0.0053,4.1802,0.0038,42.73261719,36.6,9.3311457,Bosnia and Herzegovina,Europe and Central Asia
+BIH,2022,100.0,0.0038,4.3349,0.0038,42.73261719,,9.435746733,Bosnia and Herzegovina,Europe and Central Asia
+BIH,2023,,0.003,4.4,0.0038,,,9.229929738,Bosnia and Herzegovina,Europe and Central Asia
+BLR,2019,100.0,0.5371,11.802,0.1522,43.12615476,7.8,9.696714077,Belarus,Europe and Central Asia
+BLR,2020,100.0,0.5486,10.614,0.0232,43.19440339,8.4,9.443609093,Belarus,Europe and Central Asia
+BLR,2021,100.0,0.4772,10.3895,0.014,43.27223454,8.2,9.534468108,Belarus,Europe and Central Asia
+BLR,2022,100.0,0.4689,9.6305,0.0131,43.33513966,,9.406418741,Belarus,Europe and Central Asia
+BLR,2023,,0.4522,9.682,0.0123,,,9.182268869,Belarus,Europe and Central Asia
+BLZ,2019,92.7,,0.0989,,56.47566857,30.4,2.283135793,Belize,Latin America and the Caribbean
+BLZ,2020,96.8,,0.0737,,55.98640947,31.4,2.13222726,Belize,Latin America and the Caribbean
+BLZ,2021,97.7,,0.0818,,55.49715037,26.6,2.195798111,Belize,Latin America and the Caribbean
+BLZ,2022,98.6,,0.0882,,55.00789128,30.8,2.213377101,Belize,Latin America and the Caribbean
+BLZ,2023,,,0.095,,,,2.238595399,Belize,Latin America and the Caribbean
+BMU,2019,100.0,,0.1325,,18.51851852,0.8,6.047701499,Bermuda,North America
+BMU,2020,100.0,,0.1072,,18.51851852,0.9,5.344661551,Bermuda,North America
+BMU,2021,100.0,,0.1128,,18.51851852,0.9,5.562430392,Bermuda,North America
+BMU,2022,100.0,,0.1157,,18.51851852,0.9,5.56919798,Bermuda,North America
+BMU,2023,,,0.1232,,,,5.854895051,Bermuda,North America
+BOL,2019,95.1,,10.8391,0.0024,47.10953568,13.5,4.385314649,Bolivia,Latin America and the Caribbean
+BOL,2020,97.2,,8.7469,0.0025,46.92491461,16.9,4.063548155,Bolivia,Latin America and the Caribbean
+BOL,2021,98.6,,11.1754,0.0025,46.72830546,12.8,4.365161141,Bolivia,Latin America and the Caribbean
+BOL,2022,99.9,,11.5908,0.0026,46.53968836,,4.430058605,Bolivia,Latin America and the Caribbean
+BOL,2023,,,11.9119,0.0026,,,4.507104163,Bolivia,Latin America and the Caribbean
+BRA,2019,99.8,9.7931,193.1656,0.2909,59.55852618,47.5,5.882721553,Brazil,Latin America and the Caribbean
+BRA,2020,99.7,11.523,182.6073,0.2938,59.41747805,50.0,5.827634396,Brazil,Latin America and the Caribbean
+BRA,2021,99.5,12.832,200.1659,0.2965,59.2705275,46.5,6.177569476,Brazil,Latin America and the Caribbean
+BRA,2022,100.0,12.9799,212.577,0.2995,59.12751189,,6.174273857,Brazil,Latin America and the Caribbean
+BRA,2023,,13.2291,216.8353,0.3025,,,6.157830875,Brazil,Latin America and the Caribbean
+BRB,2019,100.0,,0.2744,,14.65116279,3.4,3.66882759,Barbados,Latin America and the Caribbean
+BRB,2020,100.0,,0.2044,,14.65116279,4.7,3.069599358,Barbados,Latin America and the Caribbean
+BRB,2021,100.0,,0.2268,,14.65116279,5.5,3.364912616,Barbados,Latin America and the Caribbean
+BRB,2022,100.0,,0.2326,,14.65116279,5.5,3.371375541,Barbados,Latin America and the Caribbean
+BRB,2023,,,0.2478,,,,3.502918508,Barbados,Latin America and the Caribbean
+BRN,2019,100.0,,1.3223,0.0017,72.10626186,0.0,3.680158417,Brunei Darussalam,East Asia and Pacific
+BRN,2020,100.0,,1.2032,0.0018,72.10626186,0.0,3.680158417,Brunei Darussalam,East Asia and Pacific
+BRN,2021,100.0,,1.1522,0.0018,72.10626186,0.0,3.680158417,Brunei Darussalam,East Asia and Pacific
+BRN,2022,100.0,,1.2085,0.0018,72.10626186,,3.680158417,Brunei Darussalam,East Asia and Pacific
+BRN,2023,,,1.2412,0.0018,,,3.680158417,Brunei Darussalam,East Asia and Pacific
+BTN,2019,100.0,,0.345,,71.39748296,81.0,4.354727362,Bhutan,South Asia
+BTN,2020,100.0,,0.359,,71.44939696,83.9,3.980748202,Bhutan,South Asia
+BTN,2021,100.0,,0.3861,,71.50131096,81.8,4.109914088,Bhutan,South Asia
+BTN,2022,100.0,,0.4104,,71.55322496,82.5,4.120300059,Bhutan,South Asia
+BTN,2023,,,0.4276,,,,4.139066742,Bhutan,South Asia
+BWA,2019,70.1,,2.3582,,27.12579182,26.2,5.218510662,Botswana,Sub-Saharan Africa
+BWA,2020,71.8,,2.1312,,26.91705045,27.7,4.440055218,Botswana,Sub-Saharan Africa
+BWA,2021,73.7,,2.1557,,26.70830907,27.4,4.808612829,Botswana,Sub-Saharan Africa
+BWA,2022,75.9,,2.3214,,26.4995677,,5.079200227,Botswana,Sub-Saharan Africa
+BWA,2023,,,2.3938,,,,5.125624737,Botswana,Sub-Saharan Africa
+CAF,2019,14.3,,0.1573,,35.84866288,91.3,2.445344038,Central African Republic,Sub-Saharan Africa
+CAF,2020,15.4,,0.1671,,35.80050724,90.9,2.486239284,Central African Republic,Sub-Saharan Africa
+CAF,2021,15.7,,0.1702,,35.7523516,90.9,2.469982982,Central African Republic,Sub-Saharan Africa
+CAF,2022,15.7,,0.1957,,35.70419596,90.9,2.554766647,Central African Republic,Sub-Saharan Africa
+CAF,2023,,,0.2045,,,,2.426548607,Central African Republic,Sub-Saharan Africa
+CAN,2019,100.0,4.0348,177.4991,0.1346,38.69963717,22.4,18.06254835,Canada,North America
+CAN,2020,100.0,4.0769,148.7041,0.1293,38.69551251,23.9,18.72092553,Canada,North America
+CAN,2021,100.0,3.694,156.9292,0.1143,39.47012793,23.8,19.04473039,Canada,North America
+CAN,2022,100.0,3.7035,164.2478,0.1105,39.46592,,19.13875621,Canada,North America
+CAN,2023,,3.7928,166.3535,0.1068,,,18.64637779,Canada,North America
+CHE,2019,100.0,0.014,15.7621,0.0089,32.03446856,24.8,5.527924453,Switzerland,Europe and Central Asia
+CHE,2020,100.0,0.0428,14.4479,0.0088,32.12153594,26.4,5.207389484,Switzerland,Europe and Central Asia
+CHE,2021,100.0,0.0431,14.6239,0.0088,32.20860332,27.7,5.368631517,Switzerland,Europe and Central Asia
+CHE,2022,100.0,0.0484,14.4444,0.0086,32.2956707,,4.963229262,Switzerland,Europe and Central Asia
+CHE,2023,,0.0547,14.6636,0.0085,,,4.888157673,Switzerland,Europe and Central Asia
+CHI,2019,100.0,,,,5.151515152,,,Channel Islands,Europe and Central Asia
+CHI,2020,100.0,,,,5.151515152,,,Channel Islands,Europe and Central Asia
+CHI,2021,100.0,,,,5.151515152,,,Channel Islands,Europe and Central Asia
+CHI,2022,100.0,,,,,,,Channel Islands,Europe and Central Asia
+CHI,2023,,,,,,,,Channel Islands,Europe and Central Asia
+CHL,2019,100.0,0.3352,28.735,0.0082,24.32686152,25.3,6.851278984,Chile,Latin America and the Caribbean
+CHL,2020,100.0,0.3466,25.466,0.0083,24.49215367,26.7,6.406138491,Chile,Latin America and the Caribbean
+CHL,2021,100.0,0.3692,27.8142,0.0083,24.65747271,24.2,6.439589287,Chile,Latin America and the Caribbean
+CHL,2022,100.0,0.3818,31.1985,0.0085,24.82277373,,6.412712583,Chile,Latin America and the Caribbean
+CHL,2023,,0.3962,31.9471,0.0088,,,6.178550255,Chile,Latin America and the Caribbean
+CHN,2019,100.0,17.1319,944.3723,3.336,23.23111754,14.3,10.14070822,China,East Asia and Pacific
+CHN,2020,100.0,16.2812,901.9615,3.4124,23.4313229,14.9,10.27418234,China,East Asia and Pacific
+CHN,2021,100.0,15.9153,969.4479,3.4822,23.63152827,15.2,10.74486611,China,East Asia and Pacific
+CHN,2022,100.0,15.4808,929.0863,3.5582,23.83173363,,10.7349599,China,East Asia and Pacific
+CHN,2023,,15.0616,1077.7615,3.6358,,,11.30210079,China,East Asia and Pacific
+CIV,2019,68.6,0.1194,4.2357,,9.275471698,61.1,1.595551571,Cote d'Ivoire,Sub-Saharan Africa
+CIV,2020,69.9,0.0828,4.162,,8.920471698,61.8,1.595551571,Cote d'Ivoire,Sub-Saharan Africa
+CIV,2021,71.1,0.1221,5.0343,,8.565492767,58.2,1.595551571,Cote d'Ivoire,Sub-Saharan Africa
+CIV,2022,70.4,0.1288,5.3239,,8.210499686,,1.595551571,Cote d'Ivoire,Sub-Saharan Africa
+CIV,2023,,0.136,5.1628,,,,1.595551571,Cote d'Ivoire,Sub-Saharan Africa
+CMR,2019,63.2,0.0981,3.4202,,43.14797656,78.9,1.595551571,Cameroon,Sub-Saharan Africa
+CMR,2020,64.3,0.0883,3.4239,,43.02951069,78.9,1.595551571,Cameroon,Sub-Saharan Africa
+CMR,2021,65.4,0.0733,3.5594,,42.91104483,79.2,1.595551571,Cameroon,Sub-Saharan Africa
+CMR,2022,71.0,0.0744,4.0806,,42.79257896,,1.595551571,Cameroon,Sub-Saharan Africa
+CMR,2023,,0.0761,4.2671,,,,1.595551571,Cameroon,Sub-Saharan Africa
+COD,2019,19.1,,2.1883,,56.13312896,96.3,1.595551571,"Congo, Dem. Rep.",Sub-Saharan Africa
+COD,2020,20.1,,2.3209,,55.64731259,96.2,1.595551571,"Congo, Dem. Rep.",Sub-Saharan Africa
+COD,2021,20.8,,2.2757,,55.16149326,96.3,1.595551571,"Congo, Dem. Rep.",Sub-Saharan Africa
+COD,2022,21.5,,2.6906,,54.67567592,,1.595551571,"Congo, Dem. Rep.",Sub-Saharan Africa
+COD,2023,,,2.7708,,,,1.595551571,"Congo, Dem. Rep.",Sub-Saharan Africa
+COG,2019,47.7,,1.27,0.0,64.30746706,69.8,4.655826656,"Congo, Rep.",Sub-Saharan Africa
+COG,2020,48.7,,1.1887,0.0,64.26354319,71.4,4.350914191,"Congo, Rep.",Sub-Saharan Africa
+COG,2021,49.7,,1.2073,0.0,64.21961933,71.4,3.925641821,"Congo, Rep.",Sub-Saharan Africa
+COG,2022,50.6,,1.3932,0.0,64.17569546,,3.931498115,"Congo, Rep.",Sub-Saharan Africa
+COG,2023,,,1.4583,0.0,,,3.833485501,"Congo, Rep.",Sub-Saharan Africa
+COL,2019,99.4,0.5301,31.2943,0.018,53.48463272,31.5,3.979212946,Colombia,Latin America and the Caribbean
+COL,2020,99.7,0.6579,26.9513,0.0183,53.30501127,32.0,3.881165547,Colombia,Latin America and the Caribbean
+COL,2021,100.0,0.6514,34.5744,0.0185,53.12539585,29.7,4.064929217,Colombia,Latin America and the Caribbean
+COL,2022,100.0,0.6454,36.0946,0.0187,52.94577639,,4.118951847,Colombia,Latin America and the Caribbean
+COL,2023,,0.6396,36.7,0.0189,,,4.280612935,Colombia,Latin America and the Caribbean
+COM,2019,83.3,,0.1783,,17.92584632,55.3,1.595551571,Comoros,Sub-Saharan Africa
+COM,2020,85.6,,0.1894,,17.68941429,50.8,1.595551571,Comoros,Sub-Saharan Africa
+COM,2021,87.9,,0.193,,17.45298227,41.2,1.595551571,Comoros,Sub-Saharan Africa
+COM,2022,89.9,,0.1805,,17.21655024,39.3,1.595551571,Comoros,Sub-Saharan Africa
+COM,2023,,,0.1808,,,,1.595551571,Comoros,Sub-Saharan Africa
+CPV,2019,91.4,,0.5221,,11.27047146,19.7,2.204417783,Cabo Verde,Sub-Saharan Africa
+CPV,2020,93.7,,0.5545,,11.34491315,23.4,2.311537871,Cabo Verde,Sub-Saharan Africa
+CPV,2021,95.5,,0.565,,11.41935484,22.6,2.347628661,Cabo Verde,Sub-Saharan Africa
+CPV,2022,97.1,,0.5917,,11.49379653,21.8,2.425631228,Cabo Verde,Sub-Saharan Africa
+CPV,2023,,,0.5745,,,,2.357700385,Cabo Verde,Sub-Saharan Africa
+CRI,2019,99.7,0.1897,5.9683,,59.11672542,33.4,3.171403523,Costa Rica,Latin America and the Caribbean
+CRI,2020,99.9,0.1557,4.9903,,59.43732863,36.4,2.854824485,Costa Rica,Latin America and the Caribbean
+CRI,2021,100.0,0.144,5.6899,,59.75793184,34.2,3.100086403,Costa Rica,Latin America and the Caribbean
+CRI,2022,100.0,0.1445,5.7069,,60.07853506,,3.134166968,Costa Rica,Latin America and the Caribbean
+CRI,2023,,0.145,6.0686,,,,3.225544875,Costa Rica,Latin America and the Caribbean
+CUB,2019,99.8,0.0357,1.4663,0.0005,31.23314066,23.1,3.875327752,Cuba,Latin America and the Caribbean
+CUB,2020,99.9,0.0324,1.2075,0.0005,31.23314066,24.5,3.535875832,Cuba,Latin America and the Caribbean
+CUB,2021,100.0,0.0317,1.1686,0.0005,31.23314066,20.9,3.492970076,Cuba,Latin America and the Caribbean
+CUB,2022,100.0,0.0258,1.1615,0.0005,31.23314066,,3.457271456,Cuba,Latin America and the Caribbean
+CUB,2023,,0.0223,1.2207,0.0005,,,3.575367214,Cuba,Latin America and the Caribbean
+CUW,2019,100.0,,,,0.157657658,2.5,,Curacao,Latin America and the Caribbean
+CUW,2020,100.0,,,,0.157657658,2.8,,Curacao,Latin America and the Caribbean
+CUW,2021,100.0,,,,0.157657658,2.8,,Curacao,Latin America and the Caribbean
+CUW,2022,100.0,,,,0.157657658,,,Curacao,Latin America and the Caribbean
+CUW,2023,,,,,,,,Curacao,Latin America and the Caribbean
+CYM,2019,100.0,,0.1394,,53.0,0.0,6.057005362,Cayman Islands,Latin America and the Caribbean
+CYM,2020,100.0,,0.1038,,53.0,0.0,4.889057131,Cayman Islands,Latin America and the Caribbean
+CYM,2021,100.0,,0.1152,,52.75,0.0,5.266160781,Cayman Islands,Latin America and the Caribbean
+CYM,2022,100.0,,0.1181,,52.66666667,0.0,5.182215642,Cayman Islands,Latin America and the Caribbean
+CYM,2023,,,0.1259,,,,5.341055341,Cayman Islands,Latin America and the Caribbean
+CYP,2019,100.0,0.0039,2.0354,,18.67424242,12.0,7.577850126,Cyprus,Europe and Central Asia
+CYP,2020,100.0,0.0057,1.7724,,18.67207792,15.0,7.164923398,Cyprus,Europe and Central Asia
+CYP,2021,100.0,0.0035,1.9044,,18.66991342,15.6,7.298515382,Cyprus,Europe and Central Asia
+CYP,2022,100.0,0.0036,1.8804,,18.66774892,,7.568444535,Cyprus,Europe and Central Asia
+CYP,2023,,0.0036,1.8772,,,,7.676493856,Cyprus,Europe and Central Asia
+CZE,2019,100.0,0.1641,18.8901,0.0655,34.65141732,15.9,11.98086184,Czechia,Europe and Central Asia
+CZE,2020,100.0,0.1489,17.5908,0.0625,34.67799193,17.0,11.0278338,Czechia,Europe and Central Asia
+CZE,2021,100.0,0.159,18.8332,0.0569,34.70669802,17.2,11.74900807,Czechia,Europe and Central Asia
+CZE,2022,100.0,0.1471,19.3176,0.0566,34.73694318,,11.61259649,Czechia,Europe and Central Asia
+CZE,2023,,0.1359,19.3862,0.0563,,,10.53368534,Czechia,Europe and Central Asia
+DEU,2019,100.0,0.8402,160.0386,0.1544,32.68267552,17.1,9.733552404,Germany,Europe and Central Asia
+DEU,2020,100.0,0.7343,142.452,0.0653,32.68267552,18.5,9.016255975,Germany,Europe and Central Asia
+DEU,2021,100.0,0.6946,147.2432,0.0649,32.68267552,17.6,9.417374218,Germany,Europe and Central Asia
+DEU,2022,100.0,0.6193,147.7071,0.0448,32.68548202,,9.093100508,Germany,Europe and Central Asia
+DEU,2023,,0.566,139.7212,0.0309,,,8.186963256,Germany,Europe and Central Asia
+DJI,2019,64.7,,0.3424,,0.245901639,23.4,6.836153903,Djibouti,Middle East and North Africa
+DJI,2020,64.5,,0.3637,,0.250215703,27.5,6.836153903,Djibouti,Middle East and North Africa
+DJI,2021,65.4,,0.3706,,0.253377912,26.6,6.836153903,Djibouti,Middle East and North Africa
+DJI,2022,65.0,,0.3465,,0.257308024,26.9,6.836153903,Djibouti,Middle East and North Africa
+DJI,2023,,,0.3471,,,,6.836153903,Djibouti,Middle East and North Africa
+DMA,2019,99.9,,0.0306,0.0001,63.82666667,7.6,2.221567472,Dominica,Latin America and the Caribbean
+DMA,2020,100.0,,0.0228,0.0001,63.82666667,8.6,3.875327752,Dominica,Latin America and the Caribbean
+DMA,2021,100.0,,0.0253,0.0001,63.82666667,8.8,2.117496503,Dominica,Latin America and the Caribbean
+DMA,2022,100.0,,0.0259,0.0001,63.82666667,8.9,2.133899979,Dominica,Latin America and the Caribbean
+DMA,2023,,,0.0276,0.0001,,,2.208690422,Dominica,Latin America and the Caribbean
+DNK,2019,100.0,0.1092,12.0384,0.001,15.6875,37.2,7.884498236,Denmark,Europe and Central Asia
+DNK,2020,100.0,0.1145,11.0476,0.001,15.711,39.5,7.469436177,Denmark,Europe and Central Asia
+DNK,2021,100.0,0.0561,11.1979,0.001,15.7345,39.5,7.673390609,Denmark,Europe and Central Asia
+DNK,2022,100.0,0.0587,11.1572,0.001,15.758,,7.322688304,Denmark,Europe and Central Asia
+DNK,2023,,0.0558,11.2366,0.001,,,7.034107556,Denmark,Europe and Central Asia
+DOM,2019,99.0,0.1836,7.6422,0.0004,44.31738067,14.4,4.065579693,Dominican Republic,Latin America and the Caribbean
+DOM,2020,100.0,0.2077,6.8634,0.0005,44.48522989,16.0,3.906961111,Dominican Republic,Latin America and the Caribbean
+DOM,2021,98.1,0.1804,8.0054,0.0005,44.65307911,14.8,4.154097155,Dominican Republic,Latin America and the Caribbean
+DOM,2022,98.1,0.1836,7.9774,0.0005,44.82092833,,4.132623923,Dominican Republic,Latin America and the Caribbean
+DOM,2023,,0.1869,8.3823,0.0005,,,4.271032405,Dominican Republic,Latin America and the Caribbean
+DZA,2019,99.5,0.2063,45.6034,0.0022,0.81411035,0.2,5.876130448,Algeria,Middle East and North Africa
+DZA,2020,99.7,0.1575,40.4659,0.0022,0.81830896,0.1,5.475035234,Algeria,Middle East and North Africa
+DZA,2021,99.8,0.1117,43.3215,0.0023,0.822227648,0.1,5.673357126,Algeria,Middle East and North Africa
+DZA,2022,100.0,0.101,44.4738,0.0023,0.826332964,,5.787845472,Algeria,Middle East and North Africa
+DZA,2023,,0.0931,46.5578,0.0024,,,5.562578672,Algeria,Middle East and North Africa
+ECU,2019,99.1,0.4256,19.457,0.0044,50.58020615,17.7,4.042007792,Ecuador,Latin America and the Caribbean
+ECU,2020,98.9,0.4768,15.8337,0.0045,50.32142857,20.2,3.678688071,Ecuador,Latin America and the Caribbean
+ECU,2021,100.0,0.5443,19.1629,0.0046,50.06265099,18.9,3.881005431,Ecuador,Latin America and the Caribbean
+ECU,2022,100.0,0.5446,20.4313,0.0046,49.80387341,,3.964576321,Ecuador,Latin America and the Caribbean
+ECU,2023,,0.5457,21.8914,0.0047,,,4.093674095,Ecuador,Latin America and the Caribbean
+EGY,2019,100.0,2.737,51.9606,0.0004,0.045185594,6.2,2.943584418,"Egypt, Arab Rep.",Middle East and North Africa
+EGY,2020,100.0,2.8147,54.4294,0.0004,0.045185594,6.7,2.806227435,"Egypt, Arab Rep.",Middle East and North Africa
+EGY,2021,100.0,2.7983,55.1137,0.0004,0.045185594,6.1,2.994907721,"Egypt, Arab Rep.",Middle East and North Africa
+EGY,2022,100.0,2.7872,52.7676,0.0004,0.045185594,,2.959945657,"Egypt, Arab Rep.",Middle East and North Africa
+EGY,2023,,2.7608,51.9232,0.0005,,,2.933301921,"Egypt, Arab Rep.",Middle East and North Africa
+ERI,2019,50.3,,0.2231,,8.741453809,80.6,1.595551571,Eritrea,Sub-Saharan Africa
+ERI,2020,51.4,,0.2177,,8.71821524,80.9,1.595551571,Eritrea,Sub-Saharan Africa
+ERI,2021,52.5,,0.2251,,8.692108346,80.7,1.595551571,Eritrea,Sub-Saharan Africa
+ERI,2022,55.4,,0.2098,,8.666001453,,1.595551571,Eritrea,Sub-Saharan Africa
+ERI,2023,,,0.2105,,,,1.595551571,Eritrea,Sub-Saharan Africa
+ESP,2019,100.0,1.1296,93.581,3.2188,37.16772156,16.7,6.995967759,Spain,Europe and Central Asia
+ESP,2020,100.0,1.337,73.7894,3.9722,37.17730549,19.3,6.130762891,Spain,Europe and Central Asia
+ESP,2021,100.0,0.9753,86.5391,3.9722,37.17275211,19.0,6.508282873,Spain,Europe and Central Asia
+ESP,2022,100.0,0.9141,92.9329,4.0727,37.18279228,,6.383833189,Spain,Europe and Central Asia
+ESP,2023,,0.889,92.1021,4.1758,,,5.902714306,Spain,Europe and Central Asia
+EST,2019,100.0,0.0854,2.4346,0.0002,57.03859649,31.3,14.15413996,Estonia,Europe and Central Asia
+EST,2020,100.0,0.0864,2.2599,0.0002,57.03859649,40.4,10.91452417,Estonia,Europe and Central Asia
+EST,2021,100.0,0.071,2.3784,0.0001,57.03859649,38.0,11.48338157,Estonia,Europe and Central Asia
+EST,2022,100.0,0.071,2.4602,0.0001,57.0652937,,11.54199164,Estonia,Europe and Central Asia
+EST,2023,,0.071,2.3551,0.0001,,,10.48248322,Estonia,Europe and Central Asia
+ETH,2019,48.0,0.3372,7.5277,0.0014,15.188678,89.3,1.595551571,Ethiopia,Sub-Saharan Africa
+ETH,2020,51.1,0.4061,6.8918,0.0015,15.12398772,90.7,1.595551571,Ethiopia,Sub-Saharan Africa
+ETH,2021,54.2,0.4032,7.1509,0.0015,15.05930418,90.6,1.595551571,Ethiopia,Sub-Saharan Africa
+ETH,2022,55.0,0.4364,6.6325,0.0016,14.99462063,,1.595551571,Ethiopia,Sub-Saharan Africa
+ETH,2023,,0.4723,6.6374,0.0016,,,1.595551571,Ethiopia,Sub-Saharan Africa
+FIN,2019,100.0,0.0,11.1148,,73.73079327,45.4,10.47392733,Finland,Europe and Central Asia
+FIN,2020,100.0,0.0,10.3244,,73.72836744,47.3,9.521058069,Finland,Europe and Central Asia
+FIN,2021,100.0,0.0,9.8709,,73.72649966,50.2,9.465464553,Finland,Europe and Central Asia
+FIN,2022,100.0,0.0,9.661,,73.72649966,,8.678812103,Finland,Europe and Central Asia
+FIN,2023,,0.0,8.9587,,,,7.78191128,Finland,Europe and Central Asia
+FJI,2019,96.1,,0.8963,,62.03284072,26.5,3.423328695,Fiji,East Asia and Pacific
+FJI,2020,97.1,,0.9329,,62.39846743,31.8,3.379262331,Fiji,East Asia and Pacific
+FJI,2021,92.1,,1.0032,,62.76409414,29.7,3.426488828,Fiji,East Asia and Pacific
+FJI,2022,92.0,,1.0664,,63.12972085,28.4,3.598782713,Fiji,East Asia and Pacific
+FJI,2023,,,1.111,,,,3.680158417,Fiji,East Asia and Pacific
+FRA,2019,100.0,2.5128,125.3635,2.3503,31.35673546,15.5,6.554128702,France,Europe and Central Asia
+FRA,2020,100.0,1.9242,106.0021,2.1504,31.50904837,16.8,5.892673952,France,Europe and Central Asia
+FRA,2021,100.0,2.0937,118.914,2.3027,31.66136128,16.2,6.330623594,France,Europe and Central Asia
+FRA,2022,100.0,1.9855,123.3696,2.3177,31.81367419,,6.113451969,France,Europe and Central Asia
+FRA,2023,,2.2318,122.2146,2.3339,,,5.645545281,France,Europe and Central Asia
+FRO,2019,100.0,,,0.002,0.05730659,5.4,7.322688304,Faroe Islands,Europe and Central Asia
+FRO,2020,100.0,,,0.002,0.058565154,5.3,7.322688304,Faroe Islands,Europe and Central Asia
+FRO,2021,100.0,,,0.002,0.058394161,5.1,7.322688304,Faroe Islands,Europe and Central Asia
+FRO,2022,100.0,,,0.002,0.058394161,7.9,7.322688304,Faroe Islands,Europe and Central Asia
+FRO,2023,,,,0.002,,,7.322688304,Faroe Islands,Europe and Central Asia
+FSM,2019,80.1,,,,91.98571429,2.0,3.680158417,"Micronesia, Fed. Sts.",East Asia and Pacific
+FSM,2020,81.9,,,,92.02857143,2.0,3.680158417,"Micronesia, Fed. Sts.",East Asia and Pacific
+FSM,2021,83.6,,,,92.07142857,2.1,3.680158417,"Micronesia, Fed. Sts.",East Asia and Pacific
+FSM,2022,85.3,,,,92.11428571,2.0,3.680158417,"Micronesia, Fed. Sts.",East Asia and Pacific
+FSM,2023,,,,,,,3.680158417,"Micronesia, Fed. Sts.",East Asia and Pacific
+GAB,2019,90.3,,0.1985,0.0003,91.36678698,90.2,8.793732521,Gabon,Sub-Saharan Africa
+GAB,2020,91.1,,0.1695,0.0003,91.32068149,91.3,8.507844217,Gabon,Sub-Saharan Africa
+GAB,2021,91.8,,0.1768,0.0003,91.27457601,91.3,7.921793125,Gabon,Sub-Saharan Africa
+GAB,2022,93.5,,0.2031,0.0003,91.22847052,,8.127501546,Gabon,Sub-Saharan Africa
+GAB,2023,,,0.213,0.0003,,,8.613246437,Gabon,Sub-Saharan Africa
+GBR,2019,100.0,1.9166,118.5898,0.0657,13.15256479,11.4,6.592174043,United Kingdom,Europe and Central Asia
+GBR,2020,100.0,1.837,94.5308,0.063,13.18563221,13.6,5.957010272,United Kingdom,Europe and Central Asia
+GBR,2021,100.0,1.5625,104.3231,0.0573,13.22145538,12.2,6.260740188,United Kingdom,Europe and Central Asia
+GBR,2022,100.0,1.4518,107.0033,0.0558,13.25548712,,5.996658849,United Kingdom,Europe and Central Asia
+GBR,2023,,1.436,108.4809,0.0543,,,5.549650329,United Kingdom,Europe and Central Asia
+GEO,2019,100.0,0.0725,3.9017,,40.61591596,24.7,4.755278065,Georgia,Europe and Central Asia
+GEO,2020,100.0,0.103,3.7727,,40.61591596,23.4,4.659555013,Georgia,Europe and Central Asia
+GEO,2021,100.0,0.0841,4.1656,,40.61591596,25.2,4.901108502,Georgia,Europe and Central Asia
+GEO,2022,100.0,0.0853,4.3488,,40.61591596,,5.043741391,Georgia,Europe and Central Asia
+GEO,2023,,0.0868,4.4368,,,,5.126978108,Georgia,Europe and Central Asia
+GHA,2019,83.5,,8.5128,,35.06515538,42.6,1.595551571,Ghana,Sub-Saharan Africa
+GHA,2020,85.4,,9.1607,,35.09739375,40.0,1.595551571,Ghana,Sub-Saharan Africa
+GHA,2021,86.3,,10.0499,,35.12867716,39.0,1.595551571,Ghana,Sub-Saharan Africa
+GHA,2022,85.1,,9.3202,,35.1604431,,1.595551571,Ghana,Sub-Saharan Africa
+GHA,2023,,,9.0355,,,,1.595551571,Ghana,Sub-Saharan Africa
+GIB,2019,100.0,,0.5716,0.0006,0.0,0.0,7.322688304,Gibraltar,Europe and Central Asia
+GIB,2020,100.0,,0.5304,0.0006,0.0,0.0,18.30647168,Gibraltar,Europe and Central Asia
+GIB,2021,100.0,,0.5283,0.0006,0.0,0.0,18.16701937,Gibraltar,Europe and Central Asia
+GIB,2022,100.0,,0.5478,0.0006,,,18.57002313,Gibraltar,Europe and Central Asia
+GIB,2023,,,0.556,0.0006,,,18.51784461,Gibraltar,Europe and Central Asia
+GIN,2019,42.2,,1.594,,25.34999186,68.3,1.595551571,Guinea,Sub-Saharan Africa
+GIN,2020,44.7,,1.693,,25.18720495,65.8,1.595551571,Guinea,Sub-Saharan Africa
+GIN,2021,46.8,,1.725,,25.02441804,66.8,1.595551571,Guinea,Sub-Saharan Africa
+GIN,2022,47.7,,1.8064,,24.86163112,66.6,1.595551571,Guinea,Sub-Saharan Africa
+GIN,2023,,,1.754,,,,1.595551571,Guinea,Sub-Saharan Africa
+GMB,2019,62.1,,0.3126,,24.54545455,47.4,1.595551571,"Gambia, The",Sub-Saharan Africa
+GMB,2020,62.2,,0.332,,23.97924901,49.8,1.595551571,"Gambia, The",Sub-Saharan Africa
+GMB,2021,63.7,,0.3382,,23.41238142,48.6,1.595551571,"Gambia, The",Sub-Saharan Africa
+GMB,2022,65.4,,0.3542,,22.8459585,47.7,1.595551571,"Gambia, The",Sub-Saharan Africa
+GMB,2023,,,0.3439,,,,1.595551571,"Gambia, The",Sub-Saharan Africa
+GNB,2019,30.9,,0.1778,,70.71301565,86.2,1.595551571,Guinea-Bissau,Sub-Saharan Africa
+GNB,2020,33.4,,0.1889,,70.4128734,87.2,1.595551571,Guinea-Bissau,Sub-Saharan Africa
+GNB,2021,35.8,,0.1924,,70.11273115,87.4,1.595551571,Guinea-Bissau,Sub-Saharan Africa
+GNB,2022,37.4,,0.2015,,69.8125889,87.4,1.595551571,Guinea-Bissau,Sub-Saharan Africa
+GNB,2023,,,0.1957,,,,1.595551571,Guinea-Bissau,Sub-Saharan Africa
+GNQ,2019,66.6,,0.5202,,87.58573975,7.4,5.64646741,Equatorial Guinea,Sub-Saharan Africa
+GNQ,2020,66.7,,0.4327,,87.28770053,6.5,5.439949944,Equatorial Guinea,Sub-Saharan Africa
+GNQ,2021,66.8,,0.441,,86.98966132,5.2,4.903723364,Equatorial Guinea,Sub-Saharan Africa
+GNQ,2022,67.0,,0.5069,,86.6916221,4.2,4.533848615,Equatorial Guinea,Sub-Saharan Africa
+GNQ,2023,,,0.5321,,,,3.779114925,Equatorial Guinea,Sub-Saharan Africa
+GRC,2019,100.0,0.1919,17.5507,0.0021,30.26997673,18.5,7.662479287,Greece,Europe and Central Asia
+GRC,2020,100.0,0.1935,14.8361,0.0019,30.26997673,20.1,6.70230747,Greece,Europe and Central Asia
+GRC,2021,100.0,0.1483,15.9518,0.0021,30.26997673,21.5,6.913091966,Greece,Europe and Central Asia
+GRC,2022,100.0,0.1487,17.6215,0.0019,30.26997673,,7.009219803,Greece,Europe and Central Asia
+GRC,2023,,0.143,17.5708,0.0017,,,6.656615657,Greece,Europe and Central Asia
+GRD,2019,93.0,,0.0555,,52.05882353,10.4,3.875327752,Grenada,Latin America and the Caribbean
+GRD,2020,93.4,,0.0413,,52.05882353,10.3,3.875327752,Grenada,Latin America and the Caribbean
+GRD,2021,93.7,,0.0459,,52.05882353,10.2,3.875327752,Grenada,Latin America and the Caribbean
+GRD,2022,94.2,,0.047,,52.05882353,10.0,3.875327752,Grenada,Latin America and the Caribbean
+GRD,2023,,,0.0501,,,,3.875327752,Grenada,Latin America and the Caribbean
+GRL,2019,100.0,,0.0963,0.001,0.000535997,10.9,10.4704313,Greenland,Europe and Central Asia
+GRL,2020,100.0,,0.0785,0.001,0.000535997,11.8,10.50082495,Greenland,Europe and Central Asia
+GRL,2021,100.0,,0.0854,0.001,0.000535997,11.6,10.82202178,Greenland,Europe and Central Asia
+GRL,2022,100.0,,0.0954,0.0011,0.000535997,11.7,11.30936623,Greenland,Europe and Central Asia
+GRL,2023,,,0.0957,0.0011,,,11.38310033,Greenland,Europe and Central Asia
+GTM,2019,95.4,0.4423,9.365,,33.02911534,62.8,2.386147689,Guatemala,Latin America and the Caribbean
+GTM,2020,96.6,0.5684,8.565,,32.92086599,65.5,2.264219861,Guatemala,Latin America and the Caribbean
+GTM,2021,97.9,0.4347,10.262,,32.81261665,62.1,2.400320479,Guatemala,Latin America and the Caribbean
+GTM,2022,99.1,0.439,10.8358,,32.7043673,,2.370623688,Guatemala,Latin America and the Caribbean
+GTM,2023,,0.4434,11.5178,,,,2.426565137,Guatemala,Latin America and the Caribbean
+GUM,2019,100.0,,,,51.85185185,4.5,3.680158417,Guam,East Asia and Pacific
+GUM,2020,100.0,,,,51.85185185,4.6,3.680158417,Guam,East Asia and Pacific
+GUM,2021,100.0,,,,51.85185185,4.5,3.680158417,Guam,East Asia and Pacific
+GUM,2022,100.0,,,,51.85185185,6.7,3.680158417,Guam,East Asia and Pacific
+GUM,2023,,,,,,,3.680158417,Guam,East Asia and Pacific
+GUY,2019,91.6,,0.8843,0.0001,93.59685039,11.3,7.791720577,Guyana,Latin America and the Caribbean
+GUY,2020,92.3,,0.8684,0.0001,93.5501143,12.0,9.121824538,Guyana,Latin America and the Caribbean
+GUY,2021,92.9,,1.0088,0.0001,93.50334417,13.2,9.022884625,Guyana,Latin America and the Caribbean
+GUY,2022,93.0,,1.0311,0.0001,93.4565969,12.1,10.08377179,Guyana,Latin America and the Caribbean
+GUY,2023,,,1.0412,0.0001,,,9.912228793,Guyana,Latin America and the Caribbean
+HKG,2019,100.0,,8.1881,0.0109,,0.2,6.511834201,"Hong Kong SAR, China",East Asia and Pacific
+HKG,2020,100.0,,7.8308,0.011,,0.3,5.416455019,"Hong Kong SAR, China",East Asia and Pacific
+HKG,2021,100.0,,6.9097,0.011,,0.4,5.459510866,"Hong Kong SAR, China",East Asia and Pacific
+HKG,2022,100.0,,5.1948,0.0111,,,5.176392916,"Hong Kong SAR, China",East Asia and Pacific
+HKG,2023,,,6.4518,0.0112,,,5.330051353,"Hong Kong SAR, China",East Asia and Pacific
+HND,2019,91.1,,4.2155,0.0301,57.02216463,46.2,2.161393125,Honduras,Latin America and the Caribbean
+HND,2020,93.1,,3.5348,0.031,56.83492716,50.2,2.009122854,Honduras,Latin America and the Caribbean
+HND,2021,94.1,,4.5973,0.0318,56.6476897,45.9,2.088917098,Honduras,Latin America and the Caribbean
+HND,2022,94.4,,4.6589,0.0326,56.46045223,,2.112650078,Honduras,Latin America and the Caribbean
+HND,2023,,,4.9575,0.0334,,,2.153163064,Honduras,Latin America and the Caribbean
+HRV,2019,100.0,0.0913,6.5107,0.0,34.60456722,31.6,6.492977397,Croatia,Europe and Central Asia
+HRV,2020,100.0,0.0984,5.7055,0.0,34.65171551,32.4,6.397210571,Croatia,Europe and Central Asia
+HRV,2021,100.0,0.0717,6.1622,0.0,34.69639028,34.1,6.540042346,Croatia,Europe and Central Asia
+HRV,2022,100.0,0.0662,6.7436,0.0,34.74106505,,6.481516303,Croatia,Europe and Central Asia
+HRV,2023,,0.061,6.8918,0.0,,,6.480708534,Croatia,Europe and Central Asia
+HTI,2019,45.4,,1.4691,,12.71444122,76.4,3.875327752,Haiti,Latin America and the Caribbean
+HTI,2020,46.3,,1.4206,,12.60159652,76.3,3.875327752,Haiti,Latin America and the Caribbean
+HTI,2021,47.2,,1.395,,12.48875181,76.7,3.875327752,Haiti,Latin America and the Caribbean
+HTI,2022,49.3,,1.3855,,12.37590711,,3.875327752,Haiti,Latin America and the Caribbean
+HTI,2023,,,1.4529,,,,3.875327752,Haiti,Latin America and the Caribbean
+HUN,2019,100.0,0.167,14.3388,0.0217,22.51227263,13.6,6.879851596,Hungary,Europe and Central Asia
+HUN,2020,100.0,0.1609,12.2709,0.0177,22.49627438,14.8,6.752850649,Hungary,Europe and Central Asia
+HUN,2021,100.0,0.1643,13.6,0.0182,22.48034955,15.3,6.911519398,Hungary,Europe and Central Asia
+HUN,2022,100.0,0.1672,14.6829,0.0185,22.46437541,,6.66393485,Hungary,Europe and Central Asia
+HUN,2023,,0.1725,14.251,0.0188,,,6.351711695,Hungary,Europe and Central Asia
+IDN,2019,98.9,5.9428,149.4781,0.1602,49.39429641,19.8,4.069067558,Indonesia,East Asia and Pacific
+IDN,2020,97.0,5.5838,126.8164,0.1637,49.07178037,21.9,3.821988291,Indonesia,East Asia and Pacific
+IDN,2021,99.2,5.8428,135.6674,0.1672,48.36194487,20.2,3.891766792,Indonesia,East Asia and Pacific
+IDN,2022,100.0,5.913,147.5568,0.1707,48.04199007,,4.134145583,Indonesia,East Asia and Pacific
+IDN,2023,,5.8916,149.5385,0.1743,,,4.268286618,Indonesia,East Asia and Pacific
+IMN,2019,100.0,,,,6.070175439,1.9,,Isle of Man,Europe and Central Asia
+IMN,2020,100.0,,,,6.070175439,2.0,,Isle of Man,Europe and Central Asia
+IMN,2021,100.0,,,,6.070175439,3.2,,Isle of Man,Europe and Central Asia
+IMN,2022,100.0,,,,6.070175439,2.7,,Isle of Man,Europe and Central Asia
+IMN,2023,,,,,,,,Isle of Man,Europe and Central Asia
+IND,2019,95.9,29.1932,308.4561,,24.18062754,33.5,2.622268476,India,South Asia
+IND,2020,96.5,30.9691,268.6636,,24.27022827,36.1,2.448007759,India,South Asia
+IND,2021,99.6,29.2446,295.0934,,24.35982901,34.9,2.602073018,India,South Asia
+IND,2022,99.2,29.9048,323.609,,24.44942974,,2.734071514,India,South Asia
+IND,2023,,30.5827,339.7606,,,,2.874377159,India,South Asia
+IRL,2019,100.0,0.1738,11.8293,0.0074,11.29365655,12.3,12.45331696,Ireland,Europe and Central Asia
+IRL,2020,100.0,0.1839,9.9565,0.01,11.35172013,13.7,11.88645123,Ireland,Europe and Central Asia
+IRL,2021,100.0,0.1731,10.6207,0.0103,11.40978371,12.7,12.18231713,Ireland,Europe and Central Asia
+IRL,2022,100.0,0.1771,11.2571,0.0095,11.46784729,,11.6883675,Ireland,Europe and Central Asia
+IRL,2023,,0.1786,11.1129,0.0087,,,10.90008667,Ireland,Europe and Central Asia
+IRN,2019,100.0,1.6267,143.9758,,6.621553159,1.0,10.07119819,"Iran, Islamic Rep.",Middle East and North Africa
+IRN,2020,100.0,1.6263,128.4424,,6.626730354,0.9,10.13738027,"Iran, Islamic Rep.",Middle East and North Africa
+IRN,2021,100.0,1.6055,134.1631,,6.635211094,0.9,10.53218993,"Iran, Islamic Rep.",Middle East and North Africa
+IRN,2022,100.0,1.6511,140.3506,,6.641489492,,10.72887338,"Iran, Islamic Rep.",Middle East and North Africa
+IRN,2023,,1.6929,138.699,,,,11.00062823,"Iran, Islamic Rep.",Middle East and North Africa
+IRQ,2019,100.0,0.3504,34.4342,,1.900361184,0.9,9.149238577,Iraq,Middle East and North Africa
+IRQ,2020,100.0,0.1244,28.6973,,1.900361184,1.1,7.872958896,Iraq,Middle East and North Africa
+IRQ,2021,100.0,0.1148,33.4508,,1.900361184,1.1,7.796177358,Iraq,Middle East and North Africa
+IRQ,2022,100.0,0.0643,37.7251,,1.900361184,,8.288891146,Iraq,Middle East and North Africa
+IRQ,2023,,0.0369,40.0312,,,,8.048640139,Iraq,Middle East and North Africa
+ISL,2019,100.0,0.0,1.0126,0.0022,0.502727363,81.7,12.20951678,Iceland,Europe and Central Asia
+ISL,2020,100.0,0.0,0.8479,0.001,0.509273034,82.9,11.4579098,Iceland,Europe and Central Asia
+ISL,2021,100.0,0.0006,0.8748,0.0008,0.515719528,82.4,11.70084828,Iceland,Europe and Central Asia
+ISL,2022,100.0,0.0007,0.9504,0.0007,0.522265199,,11.44258029,Iceland,Europe and Central Asia
+ISL,2023,,0.0008,0.897,0.0007,,,10.60610298,Iceland,Europe and Central Asia
+ISR,2019,100.0,0.0457,18.1326,,6.469500924,4.5,9.032372432,Israel,Middle East and North Africa
+ISR,2020,100.0,0.0653,16.2971,,6.469500924,5.6,8.478518953,Israel,Middle East and North Africa
+ISR,2021,100.0,0.0717,17.345,,6.469500924,6.2,8.370755704,Israel,Middle East and North Africa
+ISR,2022,100.0,0.0718,18.6766,,,,8.447481036,Israel,Middle East and North Africa
+ISR,2023,,0.0714,18.4151,,,,8.156345448,Israel,Middle East and North Africa
+ITA,2019,100.0,0.8355,100.9187,0.4277,32.16697045,17.3,6.838146396,Italy,Europe and Central Asia
+ITA,2020,100.0,0.903,80.6748,0.4364,32.34893496,18.7,6.215781325,Italy,Europe and Central Asia
+ITA,2021,100.0,0.8285,98.2405,0.4239,32.53089947,17.5,6.877733417,Italy,Europe and Central Asia
+ITA,2022,100.0,0.8006,104.0128,0.4144,32.71253212,,6.830985439,Italy,Europe and Central Asia
+ITA,2023,,0.7826,102.7268,0.4051,,,6.341789495,Italy,Europe and Central Asia
+JAM,2019,98.9,,2.4614,0.0007,54.75530933,9.2,3.452874343,Jamaica,Latin America and the Caribbean
+JAM,2020,99.7,,1.6827,0.0007,55.11449677,11.7,2.530964529,Jamaica,Latin America and the Caribbean
+JAM,2021,100.0,,2.3095,0.0007,55.47306556,10.5,2.724864872,Jamaica,Latin America and the Caribbean
+JAM,2022,100.0,,2.2955,0.0007,55.83204986,,2.696622644,Jamaica,Latin America and the Caribbean
+JAM,2023,,,2.4109,0.0007,,,2.874477161,Jamaica,Latin America and the Caribbean
+JOR,2019,99.9,0.0288,8.4763,0.0002,1.098047165,8.5,3.0136927,Jordan,Middle East and North Africa
+JOR,2020,99.9,0.0215,7.1253,0.0002,1.098047165,10.7,2.790038092,Jordan,Middle East and North Africa
+JOR,2021,99.9,0.015,7.9317,0.0002,1.098047165,11.5,2.845733501,Jordan,Middle East and North Africa
+JOR,2022,100.0,0.0148,7.8684,0.0002,1.098047165,,2.827172748,Jordan,Middle East and North Africa
+JOR,2023,,0.0146,7.8704,0.0002,,,2.920454405,Jordan,Middle East and North Africa
+JPN,2019,100.0,0.618,200.359,3.8988,68.40877915,7.8,9.764375005,Japan,East Asia and Pacific
+JPN,2020,100.0,0.6429,181.2296,3.4216,68.40877915,8.5,9.256646154,Japan,East Asia and Pacific
+JPN,2021,100.0,0.6106,183.2351,3.3304,68.40877915,8.8,9.402885274,Japan,East Asia and Pacific
+JPN,2022,100.0,0.5789,186.5865,3.2744,68.40877915,,8.851755424,Japan,East Asia and Pacific
+JPN,2023,,0.5735,179.633,3.221,,,8.360430513,Japan,East Asia and Pacific
+KAZ,2019,100.0,0.2205,16.3445,,1.268822462,1.9,15.1634434,Kazakhstan,Europe and Central Asia
+KAZ,2020,100.0,0.4256,20.6928,,1.279653295,1.8,15.42142982,Kazakhstan,Europe and Central Asia
+KAZ,2021,100.0,0.4605,22.6479,,1.290483832,2.0,16.37052264,Kazakhstan,Europe and Central Asia
+KAZ,2022,100.0,0.4601,22.2068,,1.301314553,,16.01813642,Kazakhstan,Europe and Central Asia
+KAZ,2023,,0.4524,23.5608,,,,15.75742062,Kazakhstan,Europe and Central Asia
+KEN,2019,69.7,0.1837,10.7315,0.0013,6.344818498,68.1,1.595551571,Kenya,Sub-Saharan Africa
+KEN,2020,71.5,0.2512,10.3995,0.0013,6.344818498,69.0,2.076350738,Kenya,Sub-Saharan Africa
+KEN,2021,76.5,0.1965,10.8216,0.0014,6.344818498,67.7,1.595551571,Kenya,Sub-Saharan Africa
+KEN,2022,76.0,0.1983,10.5947,0.0014,6.344818498,,1.595551571,Kenya,Sub-Saharan Africa
+KEN,2023,,0.2002,10.6148,0.0015,,,1.595551571,Kenya,Sub-Saharan Africa
+KGZ,2019,99.9,0.1492,1.1282,,6.762982273,28.3,3.166438829,Kyrgyz Republic,Europe and Central Asia
+KGZ,2020,99.9,0.1026,1.3787,,6.858081335,30.0,2.974089939,Kyrgyz Republic,Europe and Central Asia
+KGZ,2021,99.7,0.1282,1.6261,,6.953180396,27.6,3.122142846,Kyrgyz Republic,Europe and Central Asia
+KGZ,2022,99.7,0.1282,1.7047,,7.048279458,,3.071415889,Kyrgyz Republic,Europe and Central Asia
+KGZ,2023,,0.1282,1.7158,,,,3.056192119,Kyrgyz Republic,Europe and Central Asia
+KHM,2019,84.0,,6.3112,0.0116,46.58996148,53.0,2.77721957,Cambodia,East Asia and Pacific
+KHM,2020,86.4,,6.6992,0.012,45.7079651,51.4,2.780752282,Cambodia,East Asia and Pacific
+KHM,2021,82.5,,6.8498,0.0123,44.82596873,52.4,2.837282587,Cambodia,East Asia and Pacific
+KHM,2022,92.3,,7.1808,0.0126,43.94397235,,2.76711218,Cambodia,East Asia and Pacific
+KHM,2023,,,7.3642,0.013,,,2.799307617,Cambodia,East Asia and Pacific
+KIR,2019,89.3,,0.0402,,1.456790123,42.2,3.680158417,Kiribati,East Asia and Pacific
+KIR,2020,91.0,,0.0418,,1.456790123,42.2,3.680158417,Kiribati,East Asia and Pacific
+KIR,2021,92.8,,0.045,,1.456790123,42.2,3.680158417,Kiribati,East Asia and Pacific
+KIR,2022,94.4,,0.0478,,1.456790123,41.9,3.680158417,Kiribati,East Asia and Pacific
+KIR,2023,,,0.0498,,,,3.680158417,Kiribati,East Asia and Pacific
+KNA,2019,100.0,,0.0462,,42.30769231,1.3,3.5206168,St. Kitts and Nevis,Latin America and the Caribbean
+KNA,2020,100.0,,0.0344,,42.30769231,1.6,3.021122253,St. Kitts and Nevis,Latin America and the Caribbean
+KNA,2021,100.0,,0.0382,,42.30769231,1.6,3.38515493,St. Kitts and Nevis,Latin America and the Caribbean
+KNA,2022,100.0,,0.0392,,42.30769231,1.5,3.54321437,St. Kitts and Nevis,Latin America and the Caribbean
+KNA,2023,,,0.0417,,,,3.731981693,St. Kitts and Nevis,Latin America and the Caribbean
+KOR,2019,100.0,0.3873,106.2206,1.6048,64.51844262,3.2,13.95142245,"Korea, Rep.",East Asia and Pacific
+KOR,2020,100.0,0.4282,98.9399,1.6091,64.41598361,3.6,13.29391586,"Korea, Rep.",East Asia and Pacific
+KOR,2021,100.0,0.4563,103.2321,1.6141,64.31352459,3.6,13.72473106,"Korea, Rep.",East Asia and Pacific
+KOR,2022,100.0,0.4551,106.5876,1.6145,64.21106557,,12.9338431,"Korea, Rep.",East Asia and Pacific
+KOR,2023,,0.4551,106.1251,1.6148,,,12.64384037,"Korea, Rep.",East Asia and Pacific
+KWT,2019,100.0,0.0031,16.0492,0.0004,0.350729517,0.1,6.836153903,Kuwait,Middle East and North Africa
+KWT,2020,100.0,0.004,13.1367,0.0004,0.350729517,0.1,6.836153903,Kuwait,Middle East and North Africa
+KWT,2021,100.0,0.0031,16.0383,0.0004,0.350729517,0.1,6.836153903,Kuwait,Middle East and North Africa
+KWT,2022,100.0,0.0031,15.2447,0.0004,0.350729517,,6.836153903,Kuwait,Middle East and North Africa
+KWT,2023,,0.0031,15.088,0.0004,,,6.836153903,Kuwait,Middle East and North Africa
+LAO,2019,98.4,,2.4653,0.014,72.05372617,50.5,4.655580911,Lao PDR,East Asia and Pacific
+LAO,2020,99.3,,2.444,0.0144,71.9042461,50.6,4.693261434,Lao PDR,East Asia and Pacific
+LAO,2021,100.0,,2.4932,0.0149,71.75476603,51.5,5.204989968,Lao PDR,East Asia and Pacific
+LAO,2022,100.0,,2.6158,0.0153,71.60528596,49.2,5.30162229,Lao PDR,East Asia and Pacific
+LAO,2023,,,2.6875,0.0158,,,5.486789094,Lao PDR,East Asia and Pacific
+LBN,2019,100.0,0.0323,8.4203,0.0,13.95210166,5.1,5.780612067,Lebanon,Middle East and North Africa
+LBN,2020,100.0,0.0318,7.2267,0.0,14.01075269,6.3,4.995757925,Lebanon,Middle East and North Africa
+LBN,2021,100.0,0.0054,7.1305,0.0,14.06940371,6.8,4.148127654,Lebanon,Middle East and North Africa
+LBN,2022,100.0,0.0053,7.0651,0.0,14.12805474,,4.172207484,Lebanon,Middle East and North Africa
+LBN,2023,,0.0053,7.0641,0.0,,,4.273374888,Lebanon,Middle East and North Africa
+LBR,2019,23.1,,0.7362,,79.39887874,89.7,1.595551571,Liberia,Sub-Saharan Africa
+LBR,2020,27.6,,0.782,,79.08471761,93.0,1.595551571,Liberia,Sub-Saharan Africa
+LBR,2021,29.8,,0.7967,,78.77055648,93.2,1.595551571,Liberia,Sub-Saharan Africa
+LBR,2022,31.8,,0.8343,,78.45639535,92.8,1.595551571,Liberia,Sub-Saharan Africa
+LBR,2023,,,0.8101,,,,1.595551571,Liberia,Sub-Saharan Africa
+LBY,2019,68.5,0.0244,17.0638,,0.123327688,3.0,13.21692761,Libya,Middle East and North Africa
+LBY,2020,69.4,0.0217,16.6709,,0.123327688,3.2,9.138318497,Libya,Middle East and North Africa
+LBY,2021,70.2,0.0268,16.8554,,0.123327688,3.1,12.62846391,Libya,Middle East and North Africa
+LBY,2022,70.0,0.0271,18.6104,,0.123327688,,12.32026612,Libya,Middle East and North Africa
+LBY,2023,,0.0269,18.5102,,,,13.13088936,Libya,Middle East and North Africa
+LCA,2019,100.0,,0.1153,0.0,34.04918033,10.0,2.54923703,St. Lucia,Latin America and the Caribbean
+LCA,2020,100.0,,0.0859,0.0,34.04918033,10.0,2.224964937,St. Lucia,Latin America and the Caribbean
+LCA,2021,100.0,,0.0953,0.0,34.04918033,9.7,2.390181602,St. Lucia,Latin America and the Caribbean
+LCA,2022,100.0,,0.0978,0.0,34.04918033,9.7,2.416364155,St. Lucia,Latin America and the Caribbean
+LCA,2023,,,0.1042,0.0,,,2.517221184,St. Lucia,Latin America and the Caribbean
+LIE,2019,100.0,,,,41.875,56.1,,Liechtenstein,Europe and Central Asia
+LIE,2020,100.0,,,,41.875,55.2,,Liechtenstein,Europe and Central Asia
+LIE,2021,100.0,,,,41.875,53.6,,Liechtenstein,Europe and Central Asia
+LIE,2022,100.0,,,,41.875,56.9,,Liechtenstein,Europe and Central Asia
+LIE,2023,,,,,,,,Liechtenstein,Europe and Central Asia
+LKA,2019,99.8,0.2263,10.1975,,34.20671025,46.1,2.016176317,Sri Lanka,South Asia
+LKA,2020,100.0,0.3542,8.89,,34.15809893,49.3,2.016176317,Sri Lanka,South Asia
+LKA,2021,100.0,0.183,10.1949,,34.10701584,48.8,2.016176317,Sri Lanka,South Asia
+LKA,2022,100.0,0.1583,8.5955,,34.05593275,,2.016176317,Sri Lanka,South Asia
+LKA,2023,,0.1371,9.4371,,,,2.016176317,Sri Lanka,South Asia
+LSO,2019,44.6,,0.4135,,1.137022398,41.6,1.595551571,Lesotho,Sub-Saharan Africa
+LSO,2020,47.5,,0.4392,,1.137022398,43.2,1.595551571,Lesotho,Sub-Saharan Africa
+LSO,2021,50.4,,0.4475,,1.137022398,33.6,1.595551571,Lesotho,Sub-Saharan Africa
+LSO,2022,50.0,,0.4841,,1.137022398,34.9,1.595551571,Lesotho,Sub-Saharan Africa
+LSO,2023,,,0.4992,,,,1.595551571,Lesotho,Sub-Saharan Africa
+LTU,2019,100.0,0.4332,6.2718,0.0015,35.13254551,33.5,8.23259561,Lithuania,Europe and Central Asia
+LTU,2020,100.0,0.474,6.1102,0.0018,35.14851485,31.7,8.115074502,Lithuania,Europe and Central Asia
+LTU,2021,100.0,0.4111,6.0921,0.0019,35.18074908,33.2,8.03159339,Lithuania,Europe and Central Asia
+LTU,2022,100.0,0.4128,6.102,0.0022,35.20364354,,7.346840469,Lithuania,Europe and Central Asia
+LTU,2023,,0.4147,6.2005,0.0025,,,7.202886211,Lithuania,Europe and Central Asia
+LUX,2019,100.0,,6.2037,,34.45382721,16.4,17.03303704,Luxembourg,Europe and Central Asia
+LUX,2020,100.0,,4.6667,,34.45382721,20.8,14.01670952,Luxembourg,Europe and Central Asia
+LUX,2021,100.0,,4.9882,,34.45382721,20.5,14.38621763,Luxembourg,Europe and Central Asia
+LUX,2022,100.0,,4.3269,,34.45382721,,12.44244782,Luxembourg,Europe and Central Asia
+LUX,2023,,,4.1983,,,,11.79553742,Luxembourg,Europe and Central Asia
+LVA,2019,100.0,0.1933,3.2247,,54.74986742,41.5,6.402215044,Latvia,Europe and Central Asia
+LVA,2020,100.0,0.2095,3.0319,,54.80941668,43.8,6.129604109,Latvia,Europe and Central Asia
+LVA,2021,100.0,0.2113,3.1257,,54.87160534,44.0,6.295867848,Latvia,Europe and Central Asia
+LVA,2022,100.0,0.2103,3.0689,,54.93379399,,5.897414205,Latvia,Europe and Central Asia
+LVA,2023,,0.2094,3.0638,,,,5.836389348,Latvia,Europe and Central Asia
+MAC,2019,100.0,,1.1149,0.0008,,8.4,4.173958333,"Macao SAR, China",East Asia and Pacific
+MAC,2020,100.0,,1.1594,0.0008,,11.0,4.332652466,"Macao SAR, China",East Asia and Pacific
+MAC,2021,100.0,,1.247,0.0009,,13.6,4.257435897,"Macao SAR, China",East Asia and Pacific
+MAC,2022,100.0,,1.3253,0.0009,,11.0,4.466410749,"Macao SAR, China",East Asia and Pacific
+MAC,2023,,,1.3807,0.0009,,,4.594873306,"Macao SAR, China",East Asia and Pacific
+MAF,2019,100.0,,,,24.8,,,St. Martin (French part),Latin America and the Caribbean
+MAF,2020,100.0,,,,24.8,,,St. Martin (French part),Latin America and the Caribbean
+MAF,2021,100.0,,,,24.8,,,St. Martin (French part),Latin America and the Caribbean
+MAF,2022,100.0,,,,24.8,,,St. Martin (French part),Latin America and the Caribbean
+MAF,2023,,,,,,,,St. Martin (French part),Latin America and the Caribbean
+MAR,2019,99.6,0.5261,18.9527,,12.84358055,10.7,2.958084608,Morocco,Middle East and North Africa
+MAR,2020,100.0,0.5262,16.6399,,12.86688326,11.1,2.82028519,Morocco,Middle East and North Africa
+MAR,2021,100.0,0.2535,18.6408,,12.89033542,10.9,2.957243949,Morocco,Middle East and North Africa
+MAR,2022,100.0,0.2054,17.5324,,12.91368788,,2.851694862,Morocco,Middle East and North Africa
+MAR,2023,,0.1669,17.3964,,,,2.82670695,Morocco,Middle East and North Africa
+MCO,2019,100.0,,,,0.0,,,Monaco,Europe and Central Asia
+MCO,2020,100.0,,,,0.0,,,Monaco,Europe and Central Asia
+MCO,2021,100.0,,,,0.0,,,Monaco,Europe and Central Asia
+MCO,2022,100.0,,,,0.0,,,Monaco,Europe and Central Asia
+MCO,2023,,,,,,,,Monaco,Europe and Central Asia
+MDA,2019,100.0,0.1223,2.162,0.0024,11.75275726,22.0,4.736426066,Moldova,Europe and Central Asia
+MDA,2020,100.0,0.1454,2.017,0.0024,11.75322187,22.3,4.671761924,Moldova,Europe and Central Asia
+MDA,2021,100.0,0.1132,2.2322,0.0024,11.72277828,21.4,5.087277223,Moldova,Europe and Central Asia
+MDA,2022,100.0,0.1127,2.3413,0.0024,11.75129219,,5.123160385,Moldova,Europe and Central Asia
+MDA,2023,,0.1121,2.359,0.0024,,,5.510006376,Moldova,Europe and Central Asia
+MDG,2019,31.0,,1.3919,,21.38712616,82.5,1.595551571,Madagascar,Sub-Saharan Africa
+MDG,2020,32.0,,1.192,,21.36440358,84.7,1.595551571,Madagascar,Sub-Saharan Africa
+MDG,2021,35.1,,1.417,,21.34169251,83.6,1.595551571,Madagascar,Sub-Saharan Africa
+MDG,2022,36.1,,1.3602,,21.3189737,83.1,1.595551571,Madagascar,Sub-Saharan Africa
+MDG,2023,,,1.3562,,,,1.595551571,Madagascar,Sub-Saharan Africa
+MDV,2019,100.0,,1.1871,0.0035,2.733333333,1.3,5.446854926,Maldives,South Asia
+MDV,2020,100.0,,1.2355,0.0036,2.733333333,1.6,5.382798466,Maldives,South Asia
+MDV,2021,100.0,,1.3286,0.0036,2.733333333,1.4,5.487897023,Maldives,South Asia
+MDV,2022,100.0,,1.4124,0.0037,2.733333333,1.2,5.698274776,Maldives,South Asia
+MDV,2023,,,1.4715,0.0038,,,5.870789401,Maldives,South Asia
+MEX,2019,99.6,2.4565,150.1334,0.477,33.85881839,10.3,5.551512765,Mexico,Latin America and the Caribbean
+MEX,2020,99.4,2.6506,107.1113,0.4843,33.79309139,12.3,5.077962963,Mexico,Latin America and the Caribbean
+MEX,2021,100.0,2.7109,105.2884,0.4915,33.72736783,13.0,5.253133794,Mexico,Latin America and the Caribbean
+MEX,2022,100.0,2.6806,128.0524,0.4989,33.66164197,,5.345831872,Mexico,Latin America and the Caribbean
+MEX,2023,,2.6511,130.2114,0.5063,,,5.488696029,Mexico,Latin America and the Caribbean
+MHL,2019,96.8,,,,52.22222222,12.1,3.680158417,Marshall Islands,East Asia and Pacific
+MHL,2020,98.3,,,,52.22222222,12.0,3.680158417,Marshall Islands,East Asia and Pacific
+MHL,2021,99.8,,,,52.22222222,12.1,3.680158417,Marshall Islands,East Asia and Pacific
+MHL,2022,100.0,,,,52.22222222,12.2,3.680158417,Marshall Islands,East Asia and Pacific
+MHL,2023,,,,,,,3.680158417,Marshall Islands,East Asia and Pacific
+MKD,2019,100.0,0.0241,2.3068,0.0196,39.71015067,17.0,6.035191247,North Macedonia,Europe and Central Asia
+MKD,2020,100.0,0.0381,1.9508,0.0197,39.71015067,20.0,5.545426922,North Macedonia,Europe and Central Asia
+MKD,2021,100.0,0.0206,2.2586,0.0198,39.71015067,19.5,5.574177759,North Macedonia,Europe and Central Asia
+MKD,2022,100.0,0.0208,2.4636,0.0199,39.71015067,,6.006020597,North Macedonia,Europe and Central Asia
+MKD,2023,,0.021,2.4894,0.02,,,6.22053861,North Macedonia,Europe and Central Asia
+MLI,2019,47.9,0.283,3.0189,0.0092,10.89666363,74.9,2.008376999,Mali,Sub-Saharan Africa
+MLI,2020,50.6,0.1916,3.2065,0.0096,10.89666363,72.8,2.002985562,Mali,Sub-Saharan Africa
+MLI,2021,53.4,0.1744,3.267,0.0101,10.89666363,71.2,2.028967382,Mali,Sub-Saharan Africa
+MLI,2022,53.0,0.1636,3.4212,0.0105,10.89666363,71.1,1.595551571,Mali,Sub-Saharan Africa
+MLI,2023,,0.1554,3.3219,0.011,,,1.595551571,Mali,Sub-Saharan Africa
+MLT,2019,100.0,,0.718,0.0004,1.4375,7.4,4.042955033,Malta,Middle East and North Africa
+MLT,2020,100.0,,0.5948,0.0004,1.4375,9.2,3.839272547,Malta,Middle East and North Africa
+MLT,2021,100.0,,0.6319,0.0003,1.4375,8.6,3.82982088,Malta,Middle East and North Africa
+MLT,2022,100.0,,0.7397,0.0003,1.4375,,3.974141645,Malta,Middle East and North Africa
+MLT,2023,,,0.7231,0.0003,,,3.679621961,Malta,Middle East and North Africa
+MMR,2019,68.3,0.8219,6.3552,0.0439,44.17588479,58.5,2.275537187,Myanmar,East Asia and Pacific
+MMR,2020,70.4,1.2538,5.8689,0.0447,43.73403098,59.2,2.284938646,Myanmar,East Asia and Pacific
+MMR,2021,72.5,0.99,4.9609,0.0455,43.29014663,62.9,2.23293821,Myanmar,East Asia and Pacific
+MMR,2022,73.7,1.0868,5.1964,0.0463,42.84626228,,2.201351803,Myanmar,East Asia and Pacific
+MMR,2023,,1.1967,5.3645,0.047,,,2.125793945,Myanmar,East Asia and Pacific
+MNE,2019,100.0,,,,61.48698885,38.7,,Montenegro,Europe and Central Asia
+MNE,2020,99.9,,,,61.48698885,39.6,,Montenegro,Europe and Central Asia
+MNE,2021,99.8,,,,61.48698885,39.6,,Montenegro,Europe and Central Asia
+MNE,2022,100.0,,,,61.48698885,,,Montenegro,Europe and Central Asia
+MNE,2023,,,,,,,,Montenegro,Europe and Central Asia
+MNG,2019,98.9,,2.7246,0.0009,9.101825131,2.3,3.680158417,Mongolia,East Asia and Pacific
+MNG,2020,99.5,,2.7858,0.0009,9.099658488,2.9,19.695456,Mongolia,East Asia and Pacific
+MNG,2021,100.0,,2.692,0.0009,9.09894466,3.0,19.88733771,Mongolia,East Asia and Pacific
+MNG,2022,100.0,,2.8252,0.0009,9.098233215,,19.47699715,Mongolia,East Asia and Pacific
+MNG,2023,,,2.9069,0.0009,,,3.680158417,Mongolia,East Asia and Pacific
+MNP,2019,100.0,,,,52.95652174,0.0,3.680158417,Northern Mariana Islands,East Asia and Pacific
+MNP,2020,100.0,,,,52.95652174,0.3,3.680158417,Northern Mariana Islands,East Asia and Pacific
+MNP,2021,100.0,,,,52.95652174,0.5,3.680158417,Northern Mariana Islands,East Asia and Pacific
+MNP,2022,100.0,,,,52.95652174,0.5,3.680158417,Northern Mariana Islands,East Asia and Pacific
+MNP,2023,,,,,,,3.680158417,Northern Mariana Islands,East Asia and Pacific
+MOZ,2019,29.7,,3.5939,,47.00794781,77.5,1.595551571,Mozambique,Sub-Saharan Africa
+MOZ,2020,30.6,,3.2759,,46.72519647,80.2,1.595551571,Mozambique,Sub-Saharan Africa
+MOZ,2021,31.5,,4.1683,,46.41217312,76.9,1.595551571,Mozambique,Sub-Saharan Africa
+MOZ,2022,33.2,,3.9207,,46.11933111,,1.595551571,Mozambique,Sub-Saharan Africa
+MOZ,2023,,,3.9254,,,,1.595551571,Mozambique,Sub-Saharan Africa
+MRT,2019,44.9,,2.2074,,0.308819249,21.2,3.509360952,Mauritania,Sub-Saharan Africa
+MRT,2020,45.4,,2.3445,,0.30348307,20.9,3.479183528,Mauritania,Sub-Saharan Africa
+MRT,2021,47.7,,2.3888,,0.298211604,22.1,3.407566917,Mauritania,Sub-Saharan Africa
+MRT,2022,49.0,,2.5015,,0.292896963,19.6,3.37157996,Mauritania,Sub-Saharan Africa
+MRT,2023,,,2.4289,,,,3.287106807,Mauritania,Sub-Saharan Africa
+MUS,2019,100.0,0.0204,1.2021,0.0001,19.39409114,8.9,4.717591441,Mauritius,Sub-Saharan Africa
+MUS,2020,99.5,0.0201,1.0123,0.0001,19.41412118,9.4,4.397897654,Mauritius,Sub-Saharan Africa
+MUS,2021,99.6,0.0169,1.0321,0.0001,19.43415123,8.6,4.626741444,Mauritius,Sub-Saharan Africa
+MUS,2022,100.0,0.0169,1.1448,0.0001,19.45418127,,4.73234943,Mauritius,Sub-Saharan Africa
+MUS,2023,,0.0169,1.1438,0.0001,,,4.915542001,Mauritius,Sub-Saharan Africa
+MWI,2019,11.2,,0.7565,,24.22252864,70.9,1.595551571,Malawi,Sub-Saharan Africa
+MWI,2020,11.5,,0.8035,,23.77704709,71.5,1.595551571,Malawi,Sub-Saharan Africa
+MWI,2021,14.2,,0.8187,,23.33156555,71.1,1.595551571,Malawi,Sub-Saharan Africa
+MWI,2022,14.0,,0.7656,,22.88608401,62.9,1.595551571,Malawi,Sub-Saharan Africa
+MWI,2023,,,0.7669,,,,1.595551571,Malawi,Sub-Saharan Africa
+MYS,2019,100.0,1.3779,64.78,0.0721,58.32959976,5.7,8.90793932,Malaysia,East Asia and Pacific
+MYS,2020,100.0,1.1747,50.1615,0.0736,58.17695937,7.0,8.694902424,Malaysia,East Asia and Pacific
+MYS,2021,100.0,1.4545,49.0111,0.075,58.02431898,7.5,8.744618485,Malaysia,East Asia and Pacific
+MYS,2022,100.0,1.4232,59.2585,0.0765,57.87167859,,9.101715315,Malaysia,East Asia and Pacific
+MYS,2023,,1.3999,66.3485,0.078,,,9.263879729,Malaysia,East Asia and Pacific
+NAM,2019,53.3,,2.0473,,8.150117213,30.2,4.605632007,Namibia,Sub-Saharan Africa
+NAM,2020,52.3,,1.8729,,8.06386571,31.2,4.12487421,Namibia,Sub-Saharan Africa
+NAM,2021,55.2,,1.9174,,7.977614206,30.0,4.320865539,Namibia,Sub-Saharan Africa
+NAM,2022,56.2,,2.0906,,7.891362703,,4.422074277,Namibia,Sub-Saharan Africa
+NAM,2023,,,2.1468,,,,4.34872996,Namibia,Sub-Saharan Africa
+NCL,2019,100.0,,1.5023,,45.84901532,5.2,3.680158417,New Caledonia,East Asia and Pacific
+NCL,2020,100.0,,1.5636,,45.84354486,6.1,3.680158417,New Caledonia,East Asia and Pacific
+NCL,2021,100.0,,1.6815,,45.8380744,8.3,3.680158417,New Caledonia,East Asia and Pacific
+NCL,2022,100.0,,1.7875,,45.83260394,9.6,3.680158417,New Caledonia,East Asia and Pacific
+NCL,2023,,,1.8622,,,,3.680158417,New Caledonia,East Asia and Pacific
+NER,2019,18.5,,1.1696,,0.862177311,80.7,1.595551571,Niger,Sub-Saharan Africa
+NER,2020,18.7,,1.1294,,0.852372306,81.9,1.595551571,Niger,Sub-Saharan Africa
+NER,2021,18.6,,1.2529,,0.842567301,79.6,1.595551571,Niger,Sub-Saharan Africa
+NER,2022,19.5,,1.306,,0.832762296,,1.595551571,Niger,Sub-Saharan Africa
+NER,2023,,,1.2671,,,,1.595551571,Niger,Sub-Saharan Africa
+NGA,2019,55.4,0.646,58.8389,,23.92508537,80.1,1.595551571,Nigeria,Sub-Saharan Africa
+NGA,2020,55.4,0.7779,50.5135,,23.74578653,81.8,1.595551571,Nigeria,Sub-Saharan Africa
+NGA,2021,59.5,1.2701,57.2135,,23.5664877,80.3,1.595551571,Nigeria,Sub-Saharan Africa
+NGA,2022,60.5,1.4606,59.6821,,23.38718886,,1.595551571,Nigeria,Sub-Saharan Africa
+NGA,2023,,1.68,57.8574,,,,1.595551571,Nigeria,Sub-Saharan Africa
+NIC,2019,85.7,0.0956,2.1541,,29.14683397,50.5,2.96727603,Nicaragua,Latin America and the Caribbean
+NIC,2020,86.0,0.1532,2.1705,,28.31585508,52.2,2.915342209,Nicaragua,Latin America and the Caribbean
+NIC,2021,86.3,0.1377,2.4247,,27.48487618,50.4,2.972967645,Nicaragua,Latin America and the Caribbean
+NIC,2022,86.5,0.1367,2.5514,,26.65389729,,3.003511992,Nicaragua,Latin America and the Caribbean
+NIC,2023,,0.1358,2.7238,,,,3.023075898,Nicaragua,Latin America and the Caribbean
+NLD,2019,100.0,0.1135,29.4186,0.0071,10.94653995,8.6,10.80496751,Netherlands,Europe and Central Asia
+NLD,2020,100.0,0.1445,24.9537,0.0004,10.97416097,10.7,9.775558295,Netherlands,Europe and Central Asia
+NLD,2021,100.0,0.1373,25.1017,0.0,11.00198099,12.2,9.965057979,Netherlands,Europe and Central Asia
+NLD,2022,100.0,0.1587,24.9398,0.0,11.02966736,,9.104924235,Netherlands,Europe and Central Asia
+NLD,2023,,0.1846,25.4901,0.0,,,8.432332797,Netherlands,Europe and Central Asia
+NOR,2019,100.0,0.0062,13.5958,0.0788,33.33990698,59.8,10.9173589,Norway,Europe and Central Asia
+NOR,2020,100.0,0.0056,12.8251,0.0849,33.43535968,60.9,10.6217986,Norway,Europe and Central Asia
+NOR,2021,100.0,0.0053,13.3268,0.0604,33.45814918,61.4,10.70679989,Norway,Europe and Central Asia
+NOR,2022,100.0,0.0053,13.7387,0.0556,33.47956186,,10.4900619,Norway,Europe and Central Asia
+NOR,2023,,0.0053,13.4938,0.0512,,,10.27559273,Norway,Europe and Central Asia
+NPL,2019,89.9,0.2341,2.4949,,41.59072201,78.2,2.016176317,Nepal,South Asia
+NPL,2020,89.9,0.1763,3.9669,,41.59072201,73.1,2.016176317,Nepal,South Asia
+NPL,2021,89.9,0.236,4.3764,,41.59072201,73.7,2.016176317,Nepal,South Asia
+NPL,2022,91.3,0.2467,4.6119,,41.59072201,,2.016176317,Nepal,South Asia
+NPL,2023,,0.2579,4.7638,,,,2.016176317,Nepal,South Asia
+NRU,2019,100.0,,,,0.0,0.6,3.680158417,Nauru,East Asia and Pacific
+NRU,2020,100.0,,,,0.0,1.3,3.680158417,Nauru,East Asia and Pacific
+NRU,2021,100.0,,,,0.0,1.6,3.680158417,Nauru,East Asia and Pacific
+NRU,2022,100.0,,,,0.0,1.9,3.680158417,Nauru,East Asia and Pacific
+NRU,2023,,,,,,,3.680158417,Nauru,East Asia and Pacific
+NZL,2019,100.0,1.0283,16.1814,0.0022,37.46731989,28.0,17.60152233,New Zealand,East Asia and Pacific
+NZL,2020,100.0,0.9962,13.8196,0.0023,37.57012647,28.7,16.6551609,New Zealand,East Asia and Pacific
+NZL,2021,100.0,0.9006,14.6516,0.0022,37.63065094,28.9,16.54418641,New Zealand,East Asia and Pacific
+NZL,2022,100.0,0.9036,14.8641,0.0022,37.71936349,,16.29582584,New Zealand,East Asia and Pacific
+NZL,2023,,0.9066,15.9996,0.0021,,,16.12257089,New Zealand,East Asia and Pacific
+OMN,2019,100.0,,12.0908,,0.008077544,0.0,6.836153903,Oman,Middle East and North Africa
+OMN,2020,100.0,,10.0525,,0.008077544,0.1,6.836153903,Oman,Middle East and North Africa
+OMN,2021,100.0,,10.405,,0.007862036,0.1,6.836153903,Oman,Middle East and North Africa
+OMN,2022,100.0,,11.896,,0.007790307,,6.836153903,Oman,Middle East and North Africa
+OMN,2023,,,12.2176,,,,6.836153903,Oman,Middle East and North Africa
+PAK,2019,93.9,5.1982,45.902,,4.886934413,45.9,2.11850388,Pakistan,South Asia
+PAK,2020,94.5,5.4888,52.7733,,4.833307389,42.7,2.237423376,Pakistan,South Asia
+PAK,2021,94.9,5.5871,55.8824,,4.779680365,41.6,2.301046684,Pakistan,South Asia
+PAK,2022,95.0,5.6027,54.0555,,4.726053342,,2.199633701,Pakistan,South Asia
+PAK,2023,,5.6201,43.3748,,,,2.150969016,Pakistan,South Asia
+PAN,2019,93.9,,5.1074,,56.95942303,19.0,4.550641132,Panama,Latin America and the Caribbean
+PAN,2020,95.3,,3.6686,,56.80560798,28.5,3.682259243,Panama,Latin America and the Caribbean
+PAN,2021,95.3,,4.9198,,56.65170262,28.0,3.964877842,Panama,Latin America and the Caribbean
+PAN,2022,95.0,,5.2779,,56.49785791,,4.193649616,Panama,Latin America and the Caribbean
+PAN,2023,,,5.6463,,,,4.77300971,Panama,Latin America and the Caribbean
+PER,2019,95.6,1.1472,25.5655,0.0091,56.643125,27.1,2.840923887,Peru,Latin America and the Caribbean
+PER,2020,96.2,0.883,19.9162,0.0093,56.50810156,31.6,2.467579368,Peru,Latin America and the Caribbean
+PER,2021,95.6,1.2647,21.5476,0.0094,56.37307289,30.6,2.653315029,Peru,Latin America and the Caribbean
+PER,2022,96.2,1.225,23.1808,0.0095,56.23804773,,2.754285097,Peru,Latin America and the Caribbean
+PER,2023,,1.1853,24.0271,0.0097,,,2.778755666,Peru,Latin America and the Caribbean
+PHL,2019,95.3,1.2345,36.9062,0.1423,23.99201798,26.9,2.167360562,Philippines,East Asia and Pacific
+PHL,2020,96.4,1.4984,28.4553,0.1451,24.10903176,29.1,2.046281348,Philippines,East Asia and Pacific
+PHL,2021,97.5,1.2693,31.7788,0.148,24.22604554,28.0,2.125638202,Philippines,East Asia and Pacific
+PHL,2022,94.8,1.1971,34.8475,0.1508,24.34305933,,2.145634365,Philippines,East Asia and Pacific
+PHL,2023,,1.1389,36.4537,0.1537,,,2.229476254,Philippines,East Asia and Pacific
+PLW,2019,100.0,,0.6713,0.0,89.84782609,0.9,3.680158417,Palau,East Asia and Pacific
+PLW,2020,100.0,,0.6674,0.0,90.02173913,0.9,3.680158417,Palau,East Asia and Pacific
+PLW,2021,100.0,,0.6937,0.0,90.19565217,0.9,3.680158417,Palau,East Asia and Pacific
+PLW,2022,100.0,,0.7319,0.0,90.36956522,0.9,3.680158417,Palau,East Asia and Pacific
+PLW,2023,,,0.7556,0.0,,,3.680158417,Palau,East Asia and Pacific
+PNG,2019,23.6,,2.9727,0.0009,79.25029811,53.2,3.680158417,Papua New Guinea,East Asia and Pacific
+PNG,2020,20.5,,2.2497,0.0009,79.17625756,53.6,3.680158417,Papua New Guinea,East Asia and Pacific
+PNG,2021,20.9,,2.3434,0.001,79.10221702,54.5,3.680158417,Papua New Guinea,East Asia and Pacific
+PNG,2022,19.0,,2.4906,0.001,79.02817648,54.6,3.680158417,Papua New Guinea,East Asia and Pacific
+PNG,2023,,,2.5947,0.001,,,3.680158417,Papua New Guinea,East Asia and Pacific
+POL,2019,100.0,1.8978,64.2933,0.188,30.93985822,15.6,10.39558704,Poland,Europe and Central Asia
+POL,2020,100.0,1.9052,61.3837,0.1838,30.9770359,16.1,9.960943633,Poland,Europe and Central Asia
+POL,2021,100.0,1.7327,66.4286,0.1986,31.01927475,15.2,10.95363503,Poland,Europe and Central Asia
+POL,2022,100.0,1.6795,67.7151,0.1974,31.05949231,,10.78768963,Poland,Europe and Central Asia
+POL,2023,,1.6528,67.9125,0.1963,,,9.916065626,Poland,Europe and Central Asia
+PRI,2019,100.0,,2.0911,,55.90078918,2.4,4.657678538,Puerto Rico,Latin America and the Caribbean
+PRI,2020,100.0,,1.861,,55.95603157,2.5,4.470499827,Puerto Rico,Latin America and the Caribbean
+PRI,2021,100.0,,1.9783,,56.01127396,2.6,4.562641965,Puerto Rico,Latin America and the Caribbean
+PRI,2022,100.0,,2.0532,,56.06651635,2.5,4.619775766,Puerto Rico,Latin America and the Caribbean
+PRI,2023,,,2.1984,,,,5.011088093,Puerto Rico,Latin America and the Caribbean
+PRK,2019,48.4,0.117,5.3984,0.0108,50.25595881,10.0,3.919200486,"Korea, Dem. People's Rep.",East Asia and Pacific
+PRK,2020,50.5,0.0127,5.2154,0.0109,50.07964455,11.2,3.701604878,"Korea, Dem. People's Rep.",East Asia and Pacific
+PRK,2021,52.6,0.0254,4.4151,0.011,49.90333029,14.7,3.164051936,"Korea, Dem. People's Rep.",East Asia and Pacific
+PRK,2022,54.7,0.0254,4.602,0.0111,49.72701603,,3.254692714,"Korea, Dem. People's Rep.",East Asia and Pacific
+PRK,2023,,0.0254,4.9264,0.0112,,,3.41236293,"Korea, Dem. People's Rep.",East Asia and Pacific
+PRT,2019,100.0,0.0365,17.1967,0.1946,36.15499489,28.2,6.133986658,Portugal,Europe and Central Asia
+PRT,2020,100.0,0.0348,14.3305,0.1982,36.15499489,31.3,5.579532685,Portugal,Europe and Central Asia
+PRT,2021,100.0,0.0338,15.4494,0.199,36.15499489,32.3,5.384058088,Portugal,Europe and Central Asia
+PRT,2022,100.0,0.0337,16.4197,0.202,36.15499489,,5.387752661,Portugal,Europe and Central Asia
+PRT,2023,,0.0321,15.7814,0.2051,,,5.010751383,Portugal,Europe and Central Asia
+PRY,2019,99.7,0.0778,7.3764,0.0001,41.23231815,60.1,6.489105699,Paraguay,Latin America and the Caribbean
+PRY,2020,99.7,0.075,6.9063,0.0001,40.52922225,61.5,6.444970039,Paraguay,Latin America and the Caribbean
+PRY,2021,100.0,0.08,7.8604,0.0001,39.82614322,58.8,6.498835609,Paraguay,Latin America and the Caribbean
+PRY,2022,100.0,0.0878,7.1014,0.0001,39.25029356,,6.154444429,Paraguay,Latin America and the Caribbean
+PRY,2023,,0.097,7.1677,0.0001,,,6.081781423,Paraguay,Latin America and the Caribbean
+PSE,2019,100.0,,,,1.684385382,13.9,,West Bank and Gaza,Middle East and North Africa
+PSE,2020,100.0,,,,1.684385382,15.0,,West Bank and Gaza,Middle East and North Africa
+PSE,2021,100.0,,,,1.682987552,15.4,,West Bank and Gaza,Middle East and North Africa
+PSE,2022,100.0,,,,,15.4,,West Bank and Gaza,Middle East and North Africa
+PSE,2023,,,,,,,,West Bank and Gaza,Middle East and North Africa
+PYF,2019,100.0,,0.5204,,43.05963699,7.7,4.27976519,French Polynesia,East Asia and Pacific
+PYF,2020,100.0,,0.5416,,43.05963699,8.2,4.336178275,French Polynesia,East Asia and Pacific
+PYF,2021,100.0,,0.5824,,43.05963699,7.4,4.525147252,French Polynesia,East Asia and Pacific
+PYF,2022,100.0,,0.6191,,43.05963699,7.0,4.749659388,French Polynesia,East Asia and Pacific
+PYF,2023,,,0.645,,,,4.889761595,French Polynesia,East Asia and Pacific
+QAT,2019,100.0,0.0016,12.3309,0.0,0.0,0.1,6.836153903,Qatar,Middle East and North Africa
+QAT,2020,100.0,0.0018,11.4528,0.0,0.0,0.0,6.836153903,Qatar,Middle East and North Africa
+QAT,2021,100.0,0.0018,12.1829,0.0,0.0,0.0,6.836153903,Qatar,Middle East and North Africa
+QAT,2022,100.0,0.0018,14.0773,0.0,0.0,,6.836153903,Qatar,Middle East and North Africa
+QAT,2023,,0.0018,14.7829,0.0,,,6.836153903,Qatar,Middle East and North Africa
+ROU,2019,100.0,1.0175,18.5506,0.0077,30.11582928,23.5,6.050047988,Romania,Europe and Central Asia
+ROU,2020,100.0,1.1425,18.0008,0.0075,30.11582928,24.1,5.749549059,Romania,Europe and Central Asia
+ROU,2021,100.0,1.056,19.1771,0.0051,30.11582928,23.6,6.057736774,Romania,Europe and Central Asia
+ROU,2022,100.0,0.8554,20.7484,0.0049,30.11582928,,5.825066979,Romania,Europe and Central Asia
+ROU,2023,,0.8442,20.7788,0.0047,,,5.553792945,Romania,Europe and Central Asia
+RUS,2019,99.8,5.9949,256.1017,,49.78433608,3.2,17.06963096,Russian Federation,Europe and Central Asia
+RUS,2020,99.9,7.1664,234.0155,,49.78433608,3.7,16.49360156,Russian Federation,Europe and Central Asia
+RUS,2021,100.0,5.9312,253.5253,,49.78433608,3.5,17.60284904,Russian Federation,Europe and Central Asia
+RUS,2022,100.0,5.9681,257.8949,,49.78433608,,18.17508141,Russian Federation,Europe and Central Asia
+RUS,2023,,5.811,261.6207,,,,18.57826113,Russian Federation,Europe and Central Asia
+RWA,2019,46.6,,0.6105,,11.14714228,81.8,1.595551571,Rwanda,Sub-Saharan Africa
+RWA,2020,45.2,,0.5809,,11.18767734,81.7,1.595551571,Rwanda,Sub-Saharan Africa
+RWA,2021,48.7,,0.6431,,11.2282124,79.4,1.595551571,Rwanda,Sub-Saharan Africa
+RWA,2022,50.6,,0.5961,,11.26874747,79.9,1.595551571,Rwanda,Sub-Saharan Africa
+RWA,2023,,,0.5963,,,,1.595551571,Rwanda,Sub-Saharan Africa
+SAU,2019,100.0,0.2679,136.4324,,0.454484135,0.0,6.836153903,Saudi Arabia,Middle East and North Africa
+SAU,2020,100.0,0.163,122.3184,,0.454484135,0.1,6.836153903,Saudi Arabia,Middle East and North Africa
+SAU,2021,100.0,0.289,128.2202,,0.454484135,0.1,6.836153903,Saudi Arabia,Middle East and North Africa
+SAU,2022,100.0,0.2834,139.0687,,0.454484135,,6.836153903,Saudi Arabia,Middle East and North Africa
+SAU,2023,,0.2779,145.4886,,,,6.836153903,Saudi Arabia,Middle East and North Africa
+SDN,2019,57.6,0.1839,12.4251,,9.920615632,59.4,3.021460245,Sudan,Sub-Saharan Africa
+SDN,2020,59.7,0.0481,11.3354,,9.828452891,62.6,2.921014026,Sudan,Sub-Saharan Africa
+SDN,2021,61.8,0.1375,12.9306,,9.73629015,61.0,2.876537305,Sudan,Sub-Saharan Africa
+SDN,2022,63.2,0.104,12.0293,,9.644127409,,2.788968573,Sudan,Sub-Saharan Africa
+SDN,2023,,0.08,12.0563,,,,2.772459274,Sudan,Sub-Saharan Africa
+SEN,2019,70.4,0.0383,3.0957,,42.11374851,36.2,1.595551571,Senegal,Sub-Saharan Africa
+SEN,2020,64.3,0.0565,2.8659,,41.90598868,38.7,1.595551571,Senegal,Sub-Saharan Africa
+SEN,2021,68.0,0.0089,3.2821,,41.69822885,35.4,1.595551571,Senegal,Sub-Saharan Africa
+SEN,2022,67.9,0.0071,3.5414,,41.49046902,,1.595551571,Senegal,Sub-Saharan Africa
+SEN,2023,,0.0063,3.4308,,,,1.595551571,Senegal,Sub-Saharan Africa
+SGP,2019,100.0,,6.2977,0.0401,21.9972067,0.9,12.19964201,Singapore,East Asia and Pacific
+SGP,2020,100.0,,6.1766,0.0406,21.68523677,0.9,11.97182739,Singapore,East Asia and Pacific
+SGP,2021,100.0,,6.1442,0.041,21.43454039,1.1,12.99487345,Singapore,East Asia and Pacific
+SGP,2022,100.0,,6.0305,0.0415,21.18384401,,12.74555962,Singapore,East Asia and Pacific
+SGP,2023,,,6.7113,0.042,,,12.55399105,Singapore,East Asia and Pacific
+SLB,2019,69.4,,0.1727,,90.16434441,48.4,3.680158417,Solomon Islands,East Asia and Pacific
+SLB,2020,72.9,,0.1797,,90.13826367,49.0,3.680158417,Solomon Islands,East Asia and Pacific
+SLB,2021,76.3,,0.1933,,90.11218292,49.1,3.680158417,Solomon Islands,East Asia and Pacific
+SLB,2022,76.0,,0.2055,,90.08610218,50.1,3.680158417,Solomon Islands,East Asia and Pacific
+SLB,2023,,,0.2141,,,,3.680158417,Solomon Islands,East Asia and Pacific
+SLE,2019,22.7,,0.478,,35.39221391,75.4,1.595551571,Sierra Leone,Sub-Saharan Africa
+SLE,2020,26.3,,0.5077,,35.11886949,75.1,1.595551571,Sierra Leone,Sub-Saharan Africa
+SLE,2021,27.5,,0.5173,,34.84552508,71.1,1.595551571,Sierra Leone,Sub-Saharan Africa
+SLE,2022,29.4,,0.5417,,34.57218066,71.6,1.595551571,Sierra Leone,Sub-Saharan Africa
+SLE,2023,,,0.526,,,,1.595551571,Sierra Leone,Sub-Saharan Africa
+SLV,2019,97.4,0.1813,3.7418,,28.39671815,19.4,3.875327752,El Salvador,Latin America and the Caribbean
+SLV,2020,99.7,0.2719,3.1927,,28.17953668,23.7,3.875327752,El Salvador,Latin America and the Caribbean
+SLV,2021,97.9,0.1865,3.9277,,27.96235521,21.9,3.875327752,El Salvador,Latin America and the Caribbean
+SLV,2022,100.0,0.1885,4.1464,,27.74517375,,3.875327752,El Salvador,Latin America and the Caribbean
+SLV,2023,,0.1904,4.407,,,,2.068475079,El Salvador,Latin America and the Caribbean
+SMR,2019,100.0,,,,16.66666667,,,San Marino,Europe and Central Asia
+SMR,2020,100.0,,,,16.66666667,,,San Marino,Europe and Central Asia
+SMR,2021,100.0,,,,16.66666667,,,San Marino,Europe and Central Asia
+SMR,2022,100.0,,,,16.66666667,,,San Marino,Europe and Central Asia
+SMR,2023,,,,,,,,San Marino,Europe and Central Asia
+SOM,2019,49.2,,0.4727,,9.654652979,95.0,1.595551571,Somalia,Sub-Saharan Africa
+SOM,2020,49.9,,0.502,,9.532311028,95.5,1.595551571,Somalia,Sub-Saharan Africa
+SOM,2021,49.3,,0.5115,,9.409969076,95.4,1.595551571,Somalia,Sub-Saharan Africa
+SOM,2022,48.9,,0.4784,,9.287627124,95.4,1.595551571,Somalia,Sub-Saharan Africa
+SOM,2023,,,0.4792,,,,1.595551571,Somalia,Sub-Saharan Africa
+SRB,2019,99.8,,,,31.12531443,21.4,,Serbia,Europe and Central Asia
+SRB,2020,100.0,,,,32.37780949,26.0,,Serbia,Europe and Central Asia
+SRB,2021,100.0,,,,32.38125818,27.2,,Serbia,Europe and Central Asia
+SRB,2022,100.0,,,,32.38581639,,,Serbia,Europe and Central Asia
+SRB,2023,,,,,,,,Serbia,Europe and Central Asia
+SSD,2019,6.8,,,,11.32562151,31.4,,South Sudan,Sub-Saharan Africa
+SSD,2020,7.3,,,,11.32562151,32.8,,South Sudan,Sub-Saharan Africa
+SSD,2021,7.7,,,,11.32562151,32.4,,South Sudan,Sub-Saharan Africa
+SSD,2022,8.4,,,,11.32562151,,,South Sudan,Sub-Saharan Africa
+SSD,2023,,,,,,,,South Sudan,Sub-Saharan Africa
+STP,2019,75.1,,0.0938,,54.70833333,38.6,1.595551571,Sao Tome and Principe,Sub-Saharan Africa
+STP,2020,76.8,,0.0996,,54.0625,41.6,1.595551571,Sao Tome and Principe,Sub-Saharan Africa
+STP,2021,78.5,,0.1015,,53.41666667,40.8,1.595551571,Sao Tome and Principe,Sub-Saharan Africa
+STP,2022,78.0,,0.1167,,52.77083333,42.5,1.595551571,Sao Tome and Principe,Sub-Saharan Africa
+STP,2023,,,0.1219,,,,1.595551571,Sao Tome and Principe,Sub-Saharan Africa
+SUR,2019,97.9,,0.8812,0.0002,94.75270363,14.9,6.316939819,Suriname,Latin America and the Caribbean
+SUR,2020,98.4,,0.8107,0.0002,94.67644556,14.6,6.121175796,Suriname,Latin America and the Caribbean
+SUR,2021,98.8,,0.8134,0.0002,94.60014575,14.5,6.06283258,Suriname,Latin America and the Caribbean
+SUR,2022,99.0,,0.8306,0.0002,94.52387398,,5.870685726,Suriname,Latin America and the Caribbean
+SUR,2023,,,0.8383,0.0002,,,5.943366524,Suriname,Latin America and the Caribbean
+SVK,2019,100.0,0.0982,7.8287,0.0,40.05615641,17.6,8.167051603,Slovak Republic,Europe and Central Asia
+SVK,2020,100.0,0.1273,6.9882,0.0,40.05615641,17.6,7.788541384,Slovak Republic,Europe and Central Asia
+SVK,2021,100.0,0.129,7.251,0.0,40.05615641,17.9,8.588283219,Slovak Republic,Europe and Central Asia
+SVK,2022,100.0,0.1302,7.5374,0.0,40.05615641,,8.374204124,Slovak Republic,Europe and Central Asia
+SVK,2023,,0.1301,7.5765,0.0,,,8.250920442,Slovak Republic,Europe and Central Asia
+SVN,2019,100.0,0.0034,5.5327,0.009,61.57307165,20.9,9.163540248,Slovenia,Europe and Central Asia
+SVN,2020,100.0,0.0034,4.4982,0.0084,61.47225919,22.7,8.478424139,Slovenia,Europe and Central Asia
+SVN,2021,100.0,0.0027,5.1188,0.0062,61.371114,23.4,8.524870273,Slovenia,Europe and Central Asia
+SVN,2022,100.0,0.0027,5.382,0.0055,61.27019229,,8.126980279,Slovenia,Europe and Central Asia
+SVN,2023,,0.0027,4.7757,0.0049,,,7.542463644,Slovenia,Europe and Central Asia
+SWE,2019,100.0,0.0198,16.3586,0.1662,68.69966608,52.9,5.190951121,Sweden,Europe and Central Asia
+SWE,2020,100.0,0.0182,15.1067,0.1617,68.69966608,57.8,5.026618201,Sweden,Europe and Central Asia
+SWE,2021,100.0,0.016,15.3314,0.1564,68.69966608,57.9,5.17725408,Sweden,Europe and Central Asia
+SWE,2022,100.0,0.0159,13.6122,0.156,68.69966608,,4.780230956,Sweden,Europe and Central Asia
+SWE,2023,,0.0153,13.3122,0.1556,,,4.661679368,Sweden,Europe and Central Asia
+SWZ,2019,77.0,,0.7234,,28.85755814,64.4,2.577732877,Eswatini,Sub-Saharan Africa
+SWZ,2020,80.0,,0.712,,28.92790698,63.7,2.537542057,Eswatini,Sub-Saharan Africa
+SWZ,2021,82.9,,0.7681,,28.99825581,65.4,2.598390675,Eswatini,Sub-Saharan Africa
+SWZ,2022,82.3,,0.8269,,29.06860465,64.7,2.661542993,Eswatini,Sub-Saharan Africa
+SWZ,2023,,,0.8525,,,,2.673371767,Eswatini,Sub-Saharan Africa
+SXM,2019,100.0,,,,10.88235294,0.0,,Sint Maarten (Dutch part),Latin America and the Caribbean
+SXM,2020,100.0,,,,10.88235294,0.0,,Sint Maarten (Dutch part),Latin America and the Caribbean
+SXM,2021,100.0,,,,10.88235294,0.0,,Sint Maarten (Dutch part),Latin America and the Caribbean
+SXM,2022,100.0,,,,10.88235294,0.0,,Sint Maarten (Dutch part),Latin America and the Caribbean
+SXM,2023,,,,,,,,Sint Maarten (Dutch part),Latin America and the Caribbean
+SYC,2019,100.0,,0.6024,,73.26086957,1.2,11.89142125,Seychelles,Sub-Saharan Africa
+SYC,2020,100.0,,0.6398,,73.26086957,1.3,12.38752006,Seychelles,Sub-Saharan Africa
+SYC,2021,100.0,,0.6519,,73.26086957,1.7,12.50579298,Seychelles,Sub-Saharan Africa
+SYC,2022,100.0,,0.6857,,73.26086957,1.9,10.8593737,Seychelles,Sub-Saharan Africa
+SYC,2023,,,0.7064,,,,11.17697645,Seychelles,Sub-Saharan Africa
+SYR,2019,89.2,0.042,5.6934,,2.843108425,1.0,2.029357654,Syrian Arab Republic,Middle East and North Africa
+SYR,2020,89.0,0.0701,5.1934,,2.843108425,1.1,6.836153903,Syrian Arab Republic,Middle East and North Africa
+SYR,2021,88.8,0.0382,4.8658,,2.843108425,1.1,6.836153903,Syrian Arab Republic,Middle East and North Africa
+SYR,2022,89.0,0.0392,4.9323,,2.819315371,,6.836153903,Syrian Arab Republic,Middle East and North Africa
+SYR,2023,,0.0404,4.9685,,,,6.836153903,Syrian Arab Republic,Middle East and North Africa
+TCA,2019,100.0,,0.0401,,11.07368421,0.5,2.726683038,Turks and Caicos Islands,Latin America and the Caribbean
+TCA,2020,99.4,,0.0299,,11.07368421,0.5,2.169603028,Turks and Caicos Islands,Latin America and the Caribbean
+TCA,2021,100.0,,0.0332,,11.07368421,0.8,2.327431868,Turks and Caicos Islands,Latin America and the Caribbean
+TCA,2022,99.9,,0.034,,11.07368421,0.8,2.29676969,Turks and Caicos Islands,Latin America and the Caribbean
+TCA,2023,,,0.0362,,,,2.387549245,Turks and Caicos Islands,Latin America and the Caribbean
+TCD,2019,8.4,,1.0103,,3.511753494,72.8,4.670893521,Chad,Sub-Saharan Africa
+TCD,2020,10.9,,0.9228,,3.425190597,71.9,4.759490728,Chad,Sub-Saharan Africa
+TCD,2021,11.3,,0.8917,,3.336509927,69.9,4.79612916,Chad,Sub-Saharan Africa
+TCD,2022,11.7,,1.0252,,3.249241105,70.0,4.932654635,Chad,Sub-Saharan Africa
+TCD,2023,,,1.0713,,,,4.936952432,Chad,Sub-Saharan Africa
+TGO,2019,52.5,,0.864,0.0002,22.28773672,78.6,1.595551571,Togo,Sub-Saharan Africa
+TGO,2020,54.1,,1.1364,0.0002,22.23331495,76.2,1.595551571,Togo,Sub-Saharan Africa
+TGO,2021,55.7,,1.265,0.0002,22.17889318,75.1,1.595551571,Togo,Sub-Saharan Africa
+TGO,2022,57.2,,1.3336,0.0002,22.12447141,,1.595551571,Togo,Sub-Saharan Africa
+TGO,2023,,,1.3125,0.0002,,,1.595551571,Togo,Sub-Saharan Africa
+THA,2019,99.9,2.2017,73.7792,0.0177,38.96924974,23.9,6.104038559,Thailand,East Asia and Pacific
+THA,2020,100.0,2.2983,73.1469,0.018,38.89878447,20.9,6.05405103,Thailand,East Asia and Pacific
+THA,2021,100.0,2.186,68.5839,0.0183,38.82831921,19.0,5.987437258,Thailand,East Asia and Pacific
+THA,2022,99.9,2.1495,78.8804,0.0186,38.75785394,,6.168401347,Thailand,East Asia and Pacific
+THA,2023,,2.1042,79.7893,0.0189,,,6.147392344,Thailand,East Asia and Pacific
+TJK,2019,99.4,0.0646,1.3581,,3.046328986,40.1,2.135453579,Tajikistan,Europe and Central Asia
+TJK,2020,99.5,0.0916,1.6922,,3.053534116,38.8,2.158224531,Tajikistan,Europe and Central Asia
+TJK,2021,99.6,0.0361,1.854,,3.060739246,34.9,2.124590696,Tajikistan,Europe and Central Asia
+TJK,2022,100.0,0.0394,1.9502,,3.067944376,,2.081736187,Tajikistan,Europe and Central Asia
+TJK,2023,,0.0433,1.9609,,,,2.063379667,Tajikistan,Europe and Central Asia
+TKM,2019,99.9,0.8855,11.9053,,8.782159045,0.1,14.47040128,Turkmenistan,Europe and Central Asia
+TKM,2020,100.0,0.9141,11.8472,,8.782159045,0.1,14.35786525,Turkmenistan,Europe and Central Asia
+TKM,2021,100.0,0.8748,11.862,,8.782159045,0.1,13.86631469,Turkmenistan,Europe and Central Asia
+TKM,2022,100.0,0.864,12.1309,,8.782159045,,13.80557891,Turkmenistan,Europe and Central Asia
+TKM,2023,,0.8536,12.0538,,,,13.4150223,Turkmenistan,Europe and Central Asia
+TLS,2019,90.6,,0.2756,0.0001,62.03765972,11.7,3.680158417,Timor-Leste,East Asia and Pacific
+TLS,2020,96.0,,0.2869,0.0001,61.94351042,11.4,3.680158417,Timor-Leste,East Asia and Pacific
+TLS,2021,100.0,,0.3085,0.0002,61.84936113,12.1,3.680158417,Timor-Leste,East Asia and Pacific
+TLS,2022,99.7,,0.3279,0.0002,61.75521184,11.4,3.680158417,Timor-Leste,East Asia and Pacific
+TLS,2023,,,0.3417,0.0002,,,3.680158417,Timor-Leste,East Asia and Pacific
+TON,2019,98.4,,0.0909,,12.43055556,1.8,2.920440243,Tonga,East Asia and Pacific
+TON,2020,99.9,,0.0946,,12.43055556,1.9,2.953530614,Tonga,East Asia and Pacific
+TON,2021,100.0,,0.1017,,12.43055556,1.8,3.055265902,Tonga,East Asia and Pacific
+TON,2022,100.0,,0.1081,,12.43055556,2.3,3.182536509,Tonga,East Asia and Pacific
+TON,2023,,,0.1126,,,,3.270648298,Tonga,East Asia and Pacific
+TTO,2019,100.0,0.0094,2.7698,,44.56335283,0.4,3.875327752,Trinidad and Tobago,Latin America and the Caribbean
+TTO,2020,100.0,0.0094,2.3069,,44.48148148,0.5,3.875327752,Trinidad and Tobago,Latin America and the Caribbean
+TTO,2021,100.0,0.0094,2.2216,,44.39961014,0.5,3.875327752,Trinidad and Tobago,Latin America and the Caribbean
+TTO,2022,100.0,0.0094,2.4282,,44.31773879,,3.875327752,Trinidad and Tobago,Latin America and the Caribbean
+TTO,2023,,0.0094,2.5093,,,,3.875327752,Trinidad and Tobago,Latin America and the Caribbean
+TUN,2019,100.0,0.2077,7.3196,,4.51338826,12.2,3.517500217,Tunisia,Middle East and North Africa
+TUN,2020,99.9,0.1474,7.0969,,4.523236354,12.9,3.356990868,Tunisia,Middle East and North Africa
+TUN,2021,99.9,0.1979,7.9724,,4.533084449,11.6,3.576940168,Tunisia,Middle East and North Africa
+TUN,2022,100.0,0.1651,8.1178,,4.542932544,,3.501520793,Tunisia,Middle East and North Africa
+TUN,2023,,0.1651,8.1495,,,,3.57188201,Tunisia,Middle East and North Africa
+TUR,2019,100.0,2.3471,83.5207,0.0011,28.6687889,14.1,6.863044845,Turkiye,Europe and Central Asia
+TUR,2020,100.0,2.9858,78.8566,0.0017,28.8714837,13.7,6.996060907,Turkiye,Europe and Central Asia
+TUR,2021,100.0,2.3106,89.4596,0.0017,29.0741785,12.0,7.423079129,Turkiye,Europe and Central Asia
+TUR,2022,100.0,2.269,90.1147,0.0019,29.2768733,,7.046888834,Turkiye,Europe and Central Asia
+TUR,2023,,2.2703,95.0401,0.0022,,,7.107214082,Turkiye,Europe and Central Asia
+TUV,2019,99.7,,,,33.33333333,6.3,3.680158417,Tuvalu,East Asia and Pacific
+TUV,2020,99.4,,,,33.33333333,5.0,3.680158417,Tuvalu,East Asia and Pacific
+TUV,2021,99.7,,,,33.33333333,5.0,3.680158417,Tuvalu,East Asia and Pacific
+TUV,2022,100.0,,,,33.33333333,5.2,3.680158417,Tuvalu,East Asia and Pacific
+TUV,2023,,,,,,,3.680158417,Tuvalu,East Asia and Pacific
+TZA,2019,37.7,0.1219,7.9837,,52.17204787,80.4,1.595551571,Tanzania,Sub-Saharan Africa
+TZA,2020,39.9,0.2831,8.0516,,51.64258298,80.8,1.595551571,Tanzania,Sub-Saharan Africa
+TZA,2021,42.7,0.1378,9.5245,,51.11311809,78.3,1.595551571,Tanzania,Sub-Saharan Africa
+TZA,2022,45.8,0.1299,8.8762,,50.58365319,,1.595551571,Tanzania,Sub-Saharan Africa
+TZA,2023,,0.1231,8.91,,,,1.595551571,Tanzania,Sub-Saharan Africa
+UGA,2019,41.3,,3.5206,,11.86490126,90.5,1.595551571,Uganda,Sub-Saharan Africa
+UGA,2020,42.1,,3.3913,,11.65918612,91.6,1.595551571,Uganda,Sub-Saharan Africa
+UGA,2021,45.2,,3.7665,,11.45343756,91.0,1.595551571,Uganda,Sub-Saharan Africa
+UGA,2022,47.1,,3.5522,,11.24771145,90.9,1.595551571,Uganda,Sub-Saharan Africa
+UGA,2023,,,3.545,,,,1.595551571,Uganda,Sub-Saharan Africa
+UKR,2019,100.0,3.0775,26.6672,0.0104,16.71384191,7.4,6.603029024,Ukraine,Europe and Central Asia
+UKR,2020,100.0,2.9311,21.7009,0.0101,16.72419745,8.7,6.435810427,Ukraine,Europe and Central Asia
+UKR,2021,100.0,2.7087,25.4859,0.0119,16.73455299,8.9,6.355599179,Ukraine,Europe and Central Asia
+UKR,2022,100.0,2.7472,21.7806,0.0123,16.74490853,,5.273600673,Ukraine,Europe and Central Asia
+UKR,2023,,2.387,22.2331,0.0128,,,5.726916471,Ukraine,Europe and Central Asia
+URY,2019,99.9,0.2834,4.175,0.0013,11.48440178,59.3,11.63414877,Uruguay,Latin America and the Caribbean
+URY,2020,100.0,0.3585,3.5137,0.0013,11.60438807,61.2,11.44947525,Uruguay,Latin America and the Caribbean
+URY,2021,100.0,0.6021,3.887,0.0014,11.72437436,57.8,12.53315355,Uruguay,Latin America and the Caribbean
+URY,2022,100.0,0.6299,3.9726,0.0014,11.84436064,,12.4308409,Uruguay,Latin America and the Caribbean
+URY,2023,,0.6611,4.0156,0.0014,,,12.28840161,Uruguay,Latin America and the Caribbean
+USA,2019,100.0,6.7387,1757.3448,0.0033,33.86692641,10.2,18.92138272,United States,North America
+USA,2020,100.0,6.8019,1507.9152,0.0034,33.86692641,11.0,17.1075223,United States,North America
+USA,2021,100.0,6.3594,1663.6783,0.0034,33.86692641,10.9,18.06254835,United States,North America
+USA,2022,100.0,6.3487,1699.428,0.0034,33.86692641,,18.14201729,United States,North America
+USA,2023,,6.3151,1710.6454,0.0034,,,17.79796745,United States,North America
+UZB,2019,100.0,1.8242,14.9916,,8.316373665,1.6,6.098186663,Uzbekistan,Europe and Central Asia
+UZB,2020,100.0,1.9178,15.7646,,8.373221378,1.0,5.895066606,Uzbekistan,Europe and Central Asia
+UZB,2021,99.9,1.7903,16.2792,,8.431804617,1.0,6.141790302,Uzbekistan,Europe and Central Asia
+UZB,2022,100.0,1.8357,16.6121,,8.49046413,,6.190777601,Uzbekistan,Europe and Central Asia
+UZB,2023,,1.7722,16.3187,,,,6.017321684,Uzbekistan,Europe and Central Asia
+VCT,2019,100.0,,0.0374,0.0,73.17948718,5.4,3.875327752,St. Vincent and the Grenadines,Latin America and the Caribbean
+VCT,2020,100.0,,0.0279,0.0,73.17948718,5.2,3.875327752,St. Vincent and the Grenadines,Latin America and the Caribbean
+VCT,2021,100.0,,0.0309,0.0,73.17948718,5.0,3.875327752,St. Vincent and the Grenadines,Latin America and the Caribbean
+VCT,2022,100.0,,0.0317,0.0,73.17948718,5.1,3.875327752,St. Vincent and the Grenadines,Latin America and the Caribbean
+VCT,2023,,,0.0338,0.0,,,3.875327752,St. Vincent and the Grenadines,Latin America and the Caribbean
+VEN,2019,99.8,0.1736,29.8456,0.0171,52.45961113,15.8,6.48300728,"Venezuela, RB",Latin America and the Caribbean
+VEN,2020,99.9,0.15,11.1988,0.0173,52.41301514,31.2,4.793145511,"Venezuela, RB",Latin America and the Caribbean
+VEN,2021,100.0,0.1421,10.9674,0.0175,52.34778074,33.7,4.769956441,"Venezuela, RB",Latin America and the Caribbean
+VEN,2022,100.0,0.1221,13.54,0.0177,52.29497194,,5.100978743,"Venezuela, RB",Latin America and the Caribbean
+VEN,2023,,0.105,17.6502,0.0179,,,5.38463963,"Venezuela, RB",Latin America and the Caribbean
+VGB,2019,100.0,,0.0293,,24.13333333,1.2,2.59925814,British Virgin Islands,Latin America and the Caribbean
+VGB,2020,100.0,,0.0218,,24.13333333,1.3,2.140837485,British Virgin Islands,Latin America and the Caribbean
+VGB,2021,100.0,,0.0242,,24.13333333,1.3,2.290459943,British Virgin Islands,Latin America and the Caribbean
+VGB,2022,100.0,,0.0248,,24.13333333,1.3,2.270414155,British Virgin Islands,Latin America and the Caribbean
+VGB,2023,,,0.0265,,,,2.336796204,British Virgin Islands,Latin America and the Caribbean
+VIR,2019,100.0,,,,56.45714286,6.2,3.875327752,Virgin Islands (U.S.),Latin America and the Caribbean
+VIR,2020,100.0,,,,56.88571429,5.9,3.875327752,Virgin Islands (U.S.),Latin America and the Caribbean
+VIR,2021,100.0,,,,57.31428571,5.9,3.875327752,Virgin Islands (U.S.),Latin America and the Caribbean
+VIR,2022,100.0,,,,57.74285714,5.9,3.875327752,Virgin Islands (U.S.),Latin America and the Caribbean
+VIR,2023,,,,,,,3.875327752,Virgin Islands (U.S.),Latin America and the Caribbean
+VNM,2019,99.4,2.8962,43.5676,0.0466,46.47684165,20.4,5.007709076,Viet Nam,East Asia and Pacific
+VNM,2020,99.8,2.569,36.6267,0.0479,46.71900175,18.9,5.071583431,Viet Nam,East Asia and Pacific
+VNM,2021,100.0,3.0785,32.1157,0.0493,46.96116186,24.2,4.958326316,Viet Nam,East Asia and Pacific
+VNM,2022,100.0,2.7572,35.0434,0.0506,47.20332196,,4.75147259,Viet Nam,East Asia and Pacific
+VNM,2023,,2.6305,39.3183,0.052,,,5.222940222,Viet Nam,East Asia and Pacific
+VUT,2019,64.5,,0.1185,,36.28383921,31.6,2.135383667,Vanuatu,East Asia and Pacific
+VUT,2020,67.3,,0.1234,,36.28383921,26.0,2.105013083,Vanuatu,East Asia and Pacific
+VUT,2021,70.0,,0.1327,,36.28383921,24.6,2.104829534,Vanuatu,East Asia and Pacific
+VUT,2022,70.0,,0.141,,36.28383921,25.0,2.104163605,Vanuatu,East Asia and Pacific
+VUT,2023,,,0.1469,,,,2.091701544,Vanuatu,East Asia and Pacific
+WSM,2019,99.2,,0.1935,,58.32733813,34.2,2.719515683,Samoa,East Asia and Pacific
+WSM,2020,100.0,,0.2014,,58.15467626,35.6,2.668629449,Samoa,East Asia and Pacific
+WSM,2021,98.3,,0.2166,,57.98201439,36.0,2.886625908,Samoa,East Asia and Pacific
+WSM,2022,98.3,,0.2303,,57.80935252,35.9,2.953159188,Samoa,East Asia and Pacific
+WSM,2023,,,0.2399,,,,2.982050465,Samoa,East Asia and Pacific
+XKX,2019,,,,,,,,Kosovo,Europe and Central Asia
+XKX,2020,,,,,,,,Kosovo,Europe and Central Asia
+XKX,2021,,,,,,,,Kosovo,Europe and Central Asia
+XKX,2022,,,,,,,,Kosovo,Europe and Central Asia
+XKX,2023,,,,,,,,Kosovo,Europe and Central Asia
+YEM,2019,72.8,,3.0637,,1.039831809,3.0,6.836153903,"Yemen, Rep.",Middle East and North Africa
+YEM,2020,73.9,,2.7089,,1.039831809,3.5,6.836153903,"Yemen, Rep.",Middle East and North Africa
+YEM,2021,74.9,,2.67,,1.039831809,3.7,6.836153903,"Yemen, Rep.",Middle East and North Africa
+YEM,2022,76.0,,2.6455,,1.039831809,,6.836153903,"Yemen, Rep.",Middle East and North Africa
+YEM,2023,,,2.6451,,,,6.836153903,"Yemen, Rep.",Middle East and North Africa
+ZAF,2019,85.0,0.7726,51.6741,,14.08509674,8.7,10.11700449,South Africa,Sub-Saharan Africa
+ZAF,2020,90.0,0.8824,44.3114,,14.05509072,9.8,8.944654934,South Africa,Sub-Saharan Africa
+ZAF,2021,89.3,1.3946,48.2214,,14.0250847,9.7,8.958716755,South Africa,Sub-Saharan Africa
+ZAF,2022,86.5,1.42,48.1228,,13.99507868,,8.54505429,South Africa,Sub-Saharan Africa
+ZAF,2023,,1.5516,49.4052,,,,8.259702719,South Africa,Sub-Saharan Africa
+ZMB,2019,43.0,0.1867,1.8445,,60.53651515,86.1,1.595551571,Zambia,Sub-Saharan Africa
+ZMB,2020,44.6,0.1627,1.9003,,60.28333714,85.4,1.595551571,Zambia,Sub-Saharan Africa
+ZMB,2021,46.7,0.2014,2.5174,,60.03015012,83.0,1.595551571,Zambia,Sub-Saharan Africa
+ZMB,2022,47.8,0.2146,2.3576,,59.77696915,,1.595551571,Zambia,Sub-Saharan Africa
+ZMB,2023,,0.228,2.3584,,,,1.595551571,Zambia,Sub-Saharan Africa
+ZWE,2019,46.7,0.0623,2.2368,,45.21300246,81.0,1.595551571,Zimbabwe,Sub-Saharan Africa
+ZWE,2020,52.7,0.0748,1.5124,,45.09391237,84.1,1.595551571,Zimbabwe,Sub-Saharan Africa
+ZWE,2021,49.0,0.1004,1.5847,,44.97482228,82.4,1.595551571,Zimbabwe,Sub-Saharan Africa
+ZWE,2022,50.1,0.097,1.4742,,44.8557322,,1.595551571,Zimbabwe,Sub-Saharan Africa
+ZWE,2023,,0.0963,1.4784,,,,1.595551571,Zimbabwe,Sub-Saharan Africa
